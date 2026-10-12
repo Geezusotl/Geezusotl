@@ -2,17 +2,18 @@
 
 <a href="./assets/starry-sakura-night.jpg"><img align="right" src="./assets/starry-sakura-night.jpg" width="220" alt="Pink cherry blossoms beneath a swirling starry sky" /></a>
 
-Hello,
-
-I like tech, gaming, and finding ways to make repetitive tasks less annoying. My background is in aviation and technical troubleshooting. I’ve created tools for sorting through logs, cleaning up data, and helping with office tasks, and I’m still working on more.
-
-I’m also very interested in computers and have built many of them, including the one I’m using right now. I enjoy choosing the parts, putting everything together, and getting a system running.
-
-I keep up with developments in technology and AI because I’m curious about what’s becoming possible and what I could try building next. I also follow the finance world, particularly mergers, acquisitions, and the news that sends stocks moving.
-
-Video games are a big interest of mine. I enjoy multiplayer games, and I’ve also made quality of life programs for single player games to spend less time on mundane tasks and more time actually playing.
-
-Feel free to reach out about work, collaborations, project ideas, gaming, or anything else. I’m always open to a conversation.
+> [!IMPORTANT]
+> Hello,
+>
+> I like tech, gaming, and finding ways to make repetitive tasks less annoying. My background is in aviation and technical troubleshooting. I’ve created tools for sorting through logs, cleaning up data, and helping with office tasks, and I’m still working on more.
+>
+> I’m also very interested in computers and have built many of them, including the one I’m using right now. I enjoy choosing the parts, putting everything together, and getting a system running.
+>
+> I keep up with developments in technology and AI because I’m curious about what’s becoming possible and what I could try building next. I also follow the finance world, particularly mergers, acquisitions, and the news that sends stocks moving.
+>
+> Video games are a big interest of mine. I enjoy multiplayer games, and I’ve also made quality of life programs for single player games to spend less time on mundane tasks and more time actually playing.
+>
+> Feel free to reach out about work, collaborations, project ideas, gaming, or anything else. I’m always open to a conversation.
 
 <br clear="all" />
 

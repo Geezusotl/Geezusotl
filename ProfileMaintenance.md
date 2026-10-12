@@ -1,6 +1,6 @@
 # Profile maintenance
 
-The public profile is the root `README.md`. The About Me wording is manually maintained; the news updater replaces only the region between the two `NEWS` markers.
+The public profile is the root `README.md`. The About Me wording is manually maintained and uses GitHub's native Important callout for its purple left border. GitHub also supplies the callout icon and Important label. The news updater replaces only the region between the two `NEWS` markers.
 
 ## Headlines
 
@@ -24,7 +24,7 @@ python3 scripts/updateNews.py --cached
 
 ## Visuals
 
-`assets/about-me.svg` types and erases the same white heading in four styles. Writing takes about 1.74 seconds per style, 15% faster than the original two second typing speed. Erasing takes about 0.87 seconds, twice the writing speed. Each style holds for 1.5 seconds, and the full cycle takes about 18.43 seconds. Font outlines are stored as vector paths, so visitors do not need installed fonts or a third party typing service.
+`assets/about-me.svg` types and erases the same white heading in four styles on a transparent background, with no box or typing cursor. Writing takes about 1.74 seconds per style, 15% faster than the original two second typing speed. Erasing takes about 0.87 seconds, twice the writing speed. Each style holds for 1.5 seconds, and the full cycle takes about 18.43 seconds. Font outlines are stored as vector paths, so visitors do not need installed fonts or a third party typing service.
 
 `assets/rolling-circle.svg` animates blue and peach dots along straight diameter paths; together, their positions appear to form a rolling circle. Both images contain a reduced motion alternative and use only declarative SVG animation, with no scripts or external dependencies.
 

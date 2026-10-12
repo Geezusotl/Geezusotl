@@ -48,8 +48,7 @@ def header():
     pieces = ['<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 72" role="img" aria-labelledby="title desc">',
               '<title id="title">About Me:</title>',
               '<desc id="desc">The heading types and erases in monospace, sans serif, serif, and script fonts.</desc>',
-              '<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>',
-              '<rect x="1" y="1" width="398" height="70" rx="14" fill="#102532" stroke="#244955"/>']
+              '<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>']
     typing = 2.0 / 1.15
     erasing = typing / 2
     delay = 0.2
@@ -60,7 +59,8 @@ def header():
     firstPaths = None
     for index, (name, path) in enumerate(fonts):
         size = 37 if index != 3 else 43
-        paths, positions = outline("About Me:", path, size, 22, 48)
+        textX = 2
+        paths, positions = outline("About Me:", path, size, textX, 48)
         if firstPaths is None:
             firstPaths = paths
         start = index * slot
@@ -70,20 +70,19 @@ def header():
             timeline.append((start, 0))
         timeline.append((start + delay, 0))
         for i, pos in enumerate(positions[1:], 1):
-            timeline.append((start + delay + typing * i / 9, pos - 22 + 2))
-        timeline.append((eraseStart, positions[-1] - 22 + 2))
+            timeline.append((start + delay + typing * i / 9, pos - textX + 2))
+        timeline.append((eraseStart, positions[-1] - textX + 2))
         for i in range(8, -1, -1):
-            timeline.append((eraseStart + erasing * (9 - i) / 9, positions[i] - 22))
+            timeline.append((eraseStart + erasing * (9 - i) / 9, positions[i] - textX))
         timeline.append((duration, 0))
-        clip = f'<clipPath id="clip{index}"><rect x="22" y="0" height="72" width="{positions[-1] - 22 if index == 0 else 0}">{animation("width", timeline, duration, True)}</rect></clipPath>'
-        cursorTimeline = [(time, 22 + value) for time, value in timeline]
+        clip = f'<clipPath id="clip{index}"><rect x="{textX}" y="0" height="72" width="{positions[-1] - textX if index == 0 else 0}">{animation("width", timeline, duration, True)}</rect></clipPath>'
         opacityTimeline = [(0, 1 if index == 0 else 0)]
         if start:
             opacityTimeline.append((start, 1))
         opacityTimeline.append((eraseStart + erasing, 0))
         opacityTimeline.append((duration, 1 if index == 0 else 0))
         pieces.append(clip)
-        pieces.append(f'<g class="motion" fill="#ffffff" opacity="{1 if index == 0 else 0}"><title>{html.escape(name)}</title>{animation("opacity", opacityTimeline, duration, True)}<g clip-path="url(#clip{index})">{paths}</g><rect x="22" y="19" width="2" height="32" rx="1" fill="#ffffff">{animation("x", cursorTimeline, duration, True)}<animate attributeName="fill-opacity" values="1;1;0.2;0.2" keyTimes="0;0.45;0.5;1" dur="1s" repeatCount="indefinite"/></rect></g>')
+        pieces.append(f'<g class="motion" fill="#ffffff" opacity="{1 if index == 0 else 0}"><title>{html.escape(name)}</title>{animation("opacity", opacityTimeline, duration, True)}<g clip-path="url(#clip{index})">{paths}</g></g>')
     pieces.append('<g class="still" fill="#ffffff">' + firstPaths + '</g></svg>')
     return "".join(pieces)
 
