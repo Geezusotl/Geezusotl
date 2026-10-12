@@ -22,11 +22,12 @@ Feel free to reach out about work, collaborations, project ideas, gaming, or any
 | :--- | :--- |
 | [Log Detective](https://github.com/Geezusotl/log-detective) | Helps investigate application logs, connects findings to evidence, and prepares troubleshooting reports. |
 | [CSV Doctor](https://github.com/Geezusotl/csv-doctor) | Explains potential problems in CSV files and creates a separate cleaned copy while keeping the original intact. |
+| Arknights Tools · Private project | Auto Recruit handles recruitment routines, and Duel Channel Helper handles event navigation. Both use screen recognition. |
 
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 12, 2026 at 01:23 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 12, 2026 at 03:30 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -35,8 +36,9 @@ Feel free to reach out about work, collaborations, project ideas, gaming, or any
 
 ### AI
 
-* [3 Questions: What is the best path forward for AI in academia?](<https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925>) · MIT News · Oct 08, 2026
-* [Using AI to mitigate the growing environmental threat of data centers](<https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008>) · MIT News · Oct 08, 2026
+* [Can the AI industry persuade data center opponents by getting rid of NDAs?](<https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/>) · TechCrunch · Oct 11, 2026
+* [These execs think voice AI hasn’t reached its ChatGPT moment yet](<https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/>) · TechCrunch · Oct 11, 2026
+* [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](<https://openai.com/index/sophos>) · OpenAI · Oct 09, 2026
 
 ### Business and markets
 
@@ -45,8 +47,8 @@ Feel free to reach out about work, collaborations, project ideas, gaming, or any
 
 ### Gaming
 
-* [Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky](<https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/>) · PC Gamer · Oct 12, 2026
-* [The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now](<https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/>) · PC Gamer · Oct 12, 2026
+* [Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut](<https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/>) · PC Gamer · Oct 12, 2026
+* [Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game](<https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/>) · PC Gamer · Oct 12, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
@@ -59,11 +61,11 @@ Follow one dot, then watch the whole group. Every dot moves along a straight lin
 
 ## One last thing
 
-What has a space bar but nowhere to sit, an escape key but no way out, and keeps getting blamed when someone loses a game?
+What can travel around the world while staying in a corner?
 
 <details>
 <summary>Reveal the answer</summary>
 
-**A keyboard.** Apparently the lag was its fault, too.
+**A postage stamp.** Quite the traveler for something that never leaves its corner.
 
 </details>

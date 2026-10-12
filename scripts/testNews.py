@@ -32,6 +32,46 @@ class NewsChecks(unittest.TestCase):
         with self.assertRaises(ValueError):
             news.parseFeed(b'<!DOCTYPE rss [<!ENTITY x "test">]><rss/>', self.now)
 
+    def testMultipleSourcesKeepRecentDiverseHeadlines(self):
+        category = {"name": "AI", "feeds": [{"source": "Industry", "url": "https://industry.example/feed"}, {"source": "Company", "url": "https://company.example/feed"}]}
+        def fetch(feed, now):
+            if feed["source"] == "Industry":
+                return [{"title": str(i), "url": f"https://example.com/{i}", "published": f"2026-10-{11-i:02d}T00:00:00+00:00", "source": "Industry"} for i in range(4)]
+            return [{"title": "Announcement", "url": "https://company.example/news", "published": "2026-10-08T00:00:00+00:00", "source": "Company"}, {"title": "Duplicate", "url": "https://example.com/0", "published": "2026-10-01T00:00:00+00:00", "source": "Company"}]
+        with patch.object(news, "fetchFeed", side_effect=fetch):
+            items = news.fetchCategory(category, self.now, 3)
+        self.assertEqual([item["title"] for item in items], ["0", "1", "Announcement"])
+        state = {"lastChecked": self.now.isoformat(), "categories": {"AI": {"items": items}}}
+        rendered = news.renderNews([category], state)
+        self.assertIn("· Company ·", rendered)
+        self.assertIn("· Industry ·", rendered)
+
+    def testOneFailedFeedStillReturnsCurrentNews(self):
+        category = {"name": "AI", "feeds": [{"source": "Offline", "url": "https://offline.example/feed"}, {"source": "Working", "url": "https://working.example/feed"}]}
+        item = {"title": "Fresh news", "url": "https://working.example/news", "published": "2026-10-11T00:00:00+00:00", "source": "Working"}
+        def fetch(feed, now):
+            if feed["source"] == "Offline":
+                raise TimeoutError
+            return [item]
+        with patch.object(news, "fetchFeed", side_effect=fetch):
+            self.assertEqual(news.fetchCategory(category, self.now, 3), [item])
+
+    def testStaleSecondPublisherIsNotRevived(self):
+        category = {"feeds": [{"source": "Current"}, {"source": "Old"}]}
+        def fetch(feed, now):
+            if feed["source"] == "Old":
+                return [{"title": "Old", "url": "https://example.com/old", "published": "2026-08-01T00:00:00+00:00", "source": "Old"}]
+            return [{"title": str(i), "url": f"https://example.com/{i}", "published": "2026-10-11T00:00:00+00:00", "source": "Current"} for i in range(3)]
+        with patch.object(news, "fetchFeed", side_effect=fetch):
+            self.assertEqual({item["source"] for item in news.fetchCategory(category, self.now, 2)}, {"Current"})
+
+    def testFeedTitleFilters(self):
+        xml = b'<rss><channel><item><title>AI company announces a model</title><link>https://example.com/news</link></item><item><title>AI event promotion</title><link>https://example.com/promo</link></item><item><title>General gadget</title><link>https://example.com/gadget</link></item></channel></rss>'
+        from io import BytesIO
+        feed = {"source": "Industry", "url": "https://example.com/feed", "includeTitlePattern": r"(?i)\bai\b", "excludeTitleTerms": ["event promotion"]}
+        with patch.object(news.urllib.request, "urlopen", return_value=BytesIO(xml)):
+            self.assertEqual([item["title"] for item in news.fetchFeed(feed, self.now)], ["AI company announces a model"])
+
     def testOnlyNewsRegionChanges(self):
         text = "Approved bio\n" + news.begin + "\nold\n" + news.end + "\nApproved riddle"
         result = news.replaceNews(text, "new")

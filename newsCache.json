@@ -3,67 +3,81 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-08T21:25:00+00:00",
-          "title": "3 Questions: What is the best path forward for AI in academia?",
-          "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925"
+          "published": "2026-10-11T16:52:33+00:00",
+          "source": "TechCrunch",
+          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
         },
         {
-          "published": "2026-10-08T04:00:00+00:00",
-          "title": "Using AI to mitigate the growing environmental threat of data centers",
-          "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008"
+          "published": "2026-10-11T14:00:00+00:00",
+          "source": "TechCrunch",
+          "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+          "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
+        },
+        {
+          "published": "2026-10-09T07:00:00+00:00",
+          "source": "OpenAI",
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "url": "https://openai.com/index/sophos"
         }
       ],
-      "lastSuccess": "2026-10-12T01:23:28.106993+00:00",
+      "lastSuccess": "2026-10-12T03:30:25.959437+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
           "published": "2026-10-11T11:39:38+00:00",
+          "source": "CNBC",
           "title": "This Chinese memory chip maker has global potential and is poised to outperform",
           "url": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html"
         },
         {
           "published": "2026-10-10T15:00:01+00:00",
+          "source": "CNBC",
           "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
           "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html"
         }
       ],
-      "lastSuccess": "2026-10-12T01:23:28.106993+00:00",
+      "lastSuccess": "2026-10-12T03:30:25.959437+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-12T01:12:23+00:00",
-          "title": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky",
-          "url": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/"
+          "published": "2026-10-12T02:57:30+00:00",
+          "source": "PC Gamer",
+          "title": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/"
         },
         {
-          "published": "2026-10-12T00:00:19+00:00",
-          "title": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/"
+          "published": "2026-10-12T02:15:46+00:00",
+          "source": "PC Gamer",
+          "title": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game",
+          "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/"
         }
       ],
-      "lastSuccess": "2026-10-12T01:23:28.106993+00:00",
+      "lastSuccess": "2026-10-12T03:30:25.959437+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
           "published": "2026-10-09T18:54:52+00:00",
+          "source": "Ars Technica",
           "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
           "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
         },
         {
           "published": "2026-10-06T19:21:14+00:00",
+          "source": "Ars Technica",
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
           "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
         }
       ],
-      "lastSuccess": "2026-10-12T01:23:28.106993+00:00",
+      "lastSuccess": "2026-10-12T03:30:25.959437+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-12T01:23:28.106993+00:00"
+  "lastChecked": "2026-10-12T03:30:25.959437+00:00"
 }

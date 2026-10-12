@@ -81,11 +81,47 @@ def parseFeed(data, now):
     return found
 
 
-def fetchCategory(category, now, limit):
-    request = urllib.request.Request(category["url"], headers={"User-Agent": "GeezusotlProfile/1.0 (public RSS headline links)", "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml"})
+def fetchFeed(feed, now):
+    request = urllib.request.Request(feed["url"], headers={"User-Agent": "GeezusotlProfile/1.0 (public RSS headline links)", "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml"})
     with urllib.request.urlopen(request, timeout=18) as response:
         data = response.read(3000001)
-    return parseFeed(data, now)[:limit]
+    items = parseFeed(data, now)
+    pattern = feed.get("includeTitlePattern")
+    exclusions = [term.casefold() for term in feed.get("excludeTitleTerms", [])]
+    return [dict(item, source=feed["source"]) for item in items
+            if (not pattern or re.search(pattern, item["title"]))
+            and not any(term in item["title"].casefold() for term in exclusions)]
+
+
+def fetchCategory(category, now, limit):
+    feeds = category.get("feeds") or [category]
+    items = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=len(feeds)) as pool:
+        jobs = {pool.submit(fetchFeed, feed, now): feed for feed in feeds}
+        for job in concurrent.futures.as_completed(jobs):
+            try:
+                items.extend(job.result())
+            except Exception as error:
+                print(jobs[job]["source"] + ": feed unavailable (" + type(error).__name__ + ")", file=sys.stderr)
+    if not items:
+        raise ValueError("No configured feed returned usable headlines")
+    items.sort(key=lambda item: (item.get("published") or "", item["url"]), reverse=True)
+    seen = set()
+    unique = []
+    for item in items:
+        if item["url"] not in seen:
+            unique.append(item)
+            seen.add(item["url"])
+    selected = unique[:limit]
+    # Include another publisher when it has recent news, without reviving stale stories.
+    if len(feeds) > 1 and limit > 1:
+        latest = parseDate(unique[0].get("published")) or now
+        for item in unique[limit:]:
+            published = parseDate(item.get("published"))
+            if item["source"] not in {entry["source"] for entry in selected} and published and published >= latest - datetime.timedelta(days=7):
+                selected[-1] = item
+                break
+    return sorted(selected, key=lambda item: (item.get("published") or "", item["url"]), reverse=True)
 
 
 def markdownText(value):
@@ -108,7 +144,8 @@ def renderNews(categories, state):
             published = parseDate(item.get("published"))
             label = published.strftime("%b %d, %Y") if published else "Date not supplied"
             safeUrl = item["url"].replace("<", "%3C").replace(">", "%3E").replace("\n", "").replace("\r", "")
-            rows.append(f"* [{markdownText(item['title'])}](<{safeUrl}>) · {markdownText(category['source'])} · {label}")
+            source = item.get("source", category.get("source", "Publisher"))
+            rows.append(f"* [{markdownText(item['title'])}](<{safeUrl}>) · {markdownText(source)} · {label}")
         if cached.get("unavailable") and items:
             lastSuccess = parseDate(cached.get("lastSuccess"))
             when = lastSuccess.strftime("%b %d at %H:%M UTC") if lastSuccess else "the previous successful refresh"
@@ -146,7 +183,7 @@ def main():
         state["lastChecked"] = now.isoformat()
         categories = config["categories"]
         with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
-            jobs = {pool.submit(fetchCategory, category, now, config["perCategory"]): category for category in categories}
+            jobs = {pool.submit(fetchCategory, category, now, category.get("limit", config["perCategory"])): category for category in categories}
             for job in concurrent.futures.as_completed(jobs):
                 category = jobs[job]
                 previous = state["categories"].get(category["name"], {})

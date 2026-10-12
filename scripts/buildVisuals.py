@@ -49,35 +49,42 @@ def header():
               '<title id="title">About Me:</title>',
               '<desc id="desc">The heading types and erases in monospace, sans serif, serif, and script fonts.</desc>',
               '<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>',
-              '<defs><linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#edb9d4"/><stop offset="1" stop-color="#91dbdc"/></linearGradient></defs>',
               '<rect x="1" y="1" width="398" height="70" rx="14" fill="#102532" stroke="#244955"/>']
+    typing = 2.0 / 1.15
+    erasing = typing / 2
+    delay = 0.2
+    hold = 1.5
+    gap = 0.3
+    slot = delay + typing + hold + erasing + gap
+    duration = slot * len(fonts)
     firstPaths = None
     for index, (name, path) in enumerate(fonts):
         size = 37 if index != 3 else 43
         paths, positions = outline("About Me:", path, size, 22, 48)
         if firstPaths is None:
             firstPaths = paths
-        start = index * 8
+        start = index * slot
+        eraseStart = start + delay + typing + hold
         timeline = [(0, 0)]
         if start:
             timeline.append((start, 0))
-        timeline.append((start + 0.25, 0))
+        timeline.append((start + delay, 0))
         for i, pos in enumerate(positions[1:], 1):
-            timeline.append((start + 0.25 + 2.0 * i / 9, pos - 22 + 2))
-        timeline.append((start + 5.6, positions[-1] - 22 + 2))
+            timeline.append((start + delay + typing * i / 9, pos - 22 + 2))
+        timeline.append((eraseStart, positions[-1] - 22 + 2))
         for i in range(8, -1, -1):
-            timeline.append((start + 5.6 + 1.65 * (9 - i) / 9, positions[i] - 22))
-        timeline.append((32, 0))
-        clip = f'<clipPath id="clip{index}"><rect x="22" y="0" height="72" width="{positions[-1] - 22 if index == 0 else 0}">{animation("width", timeline, 32, True)}</rect></clipPath>'
+            timeline.append((eraseStart + erasing * (9 - i) / 9, positions[i] - 22))
+        timeline.append((duration, 0))
+        clip = f'<clipPath id="clip{index}"><rect x="22" y="0" height="72" width="{positions[-1] - 22 if index == 0 else 0}">{animation("width", timeline, duration, True)}</rect></clipPath>'
         cursorTimeline = [(time, 22 + value) for time, value in timeline]
         opacityTimeline = [(0, 1 if index == 0 else 0)]
         if start:
             opacityTimeline.append((start, 1))
-        opacityTimeline.append((start + 7.55, 0))
-        opacityTimeline.append((32, 1 if index == 0 else 0))
+        opacityTimeline.append((eraseStart + erasing, 0))
+        opacityTimeline.append((duration, 1 if index == 0 else 0))
         pieces.append(clip)
-        pieces.append(f'<g class="motion" fill="url(#ink)" opacity="{1 if index == 0 else 0}"><title>{html.escape(name)}</title>{animation("opacity", opacityTimeline, 32, True)}<g clip-path="url(#clip{index})">{paths}</g><rect x="22" y="19" width="2" height="32" rx="1" fill="#ecbdd3">{animation("x", cursorTimeline, 32, True)}<animate attributeName="fill-opacity" values="1;1;0.2;0.2" keyTimes="0;0.45;0.5;1" dur="1s" repeatCount="indefinite"/></rect></g>')
-    pieces.append('<g class="still" fill="url(#ink)">' + firstPaths + '</g></svg>')
+        pieces.append(f'<g class="motion" fill="#ffffff" opacity="{1 if index == 0 else 0}"><title>{html.escape(name)}</title>{animation("opacity", opacityTimeline, duration, True)}<g clip-path="url(#clip{index})">{paths}</g><rect x="22" y="19" width="2" height="32" rx="1" fill="#ffffff">{animation("x", cursorTimeline, duration, True)}<animate attributeName="fill-opacity" values="1;1;0.2;0.2" keyTimes="0;0.45;0.5;1" dur="1s" repeatCount="indefinite"/></rect></g>')
+    pieces.append('<g class="still" fill="#ffffff">' + firstPaths + '</g></svg>')
     return "".join(pieces)
 
 
@@ -94,7 +101,7 @@ def illusion():
     for index in range(8):
         angle = index * math.pi / 8
         rotation = index * 22.5
-        color = "#f1b9d3" if index % 2 else "#8be0db"
+        color = "#ffc4a3" if index % 2 else "#8be0db"
         pieces.append(f'<g transform="translate(226 220) rotate({rotation})"><line x1="-162" x2="162" y1="0" y2="0" stroke="#42626d" stroke-width=".8" opacity=".55"/>')
         motion = [(12 * n / 160, 162 * math.cos(2 * math.pi * n / 160 - angle)) for n in range(161)]
         initial = motion[0][1]
@@ -105,7 +112,7 @@ def illusion():
     pieces.append('<line x1="453" x2="453" y1="76" y2="364" stroke="#294651"/>')
     font = fonts[1][1]
     labels = [("A LITTLE PERSPECTIVE", 14, 497, 105, "#86aeb7"),
-              ("Follow one dot.", 28, 497, 162, "#f0bfd6"),
+              ("Follow one dot.", 28, 497, 162, "#ffc4a3"),
               ("Then watch", 28, 497, 204, "#e5f4f3"),
               ("the whole group.", 28, 497, 241, "#e5f4f3"),
               ("Straight paths.", 17, 497, 302, "#91c6ce"),
