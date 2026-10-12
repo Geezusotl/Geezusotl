@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 12, 2026 at 03:34 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 12, 2026 at 15:43 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Can the AI industry persuade data center opponents by getting rid of NDAs?](<https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/>) · TechCrunch · Oct 11, 2026
-* [These execs think voice AI hasn’t reached its ChatGPT moment yet](<https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/>) · TechCrunch · Oct 11, 2026
+* [Microsoft president says UK is best placed to drive AI regulation](<https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/>) · TechCrunch · Oct 12, 2026
+* [This AI startup says it can generate permit-ready blueprints in minutes](<https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/>) · TechCrunch · Oct 12, 2026
 * [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](<https://openai.com/index/sophos>) · OpenAI · Oct 09, 2026
 
 ### Business and markets
 
-* [This Chinese memory chip maker has global potential and is poised to outperform](<https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html>) · CNBC · Oct 11, 2026
-* [JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity](<https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html>) · CNBC · Oct 10, 2026
+* [Inflation likely peaked for 2026 but will remain sticky, according to prediction markets](<https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html>) · CNBC · Oct 12, 2026
+* [Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen &amp; more](<https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html>) · CNBC · Oct 12, 2026
 
 ### Gaming
 
-* [Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut](<https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/>) · PC Gamer · Oct 12, 2026
-* [Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game](<https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/>) · PC Gamer · Oct 12, 2026
+* [I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR](<https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/>) · PC Gamer · Oct 12, 2026
+* [I'd choose this high-end Nvidia rig above cheaper all-AMD ones right now thanks to its stacks of juicy memory and storage](<https://www.pcgamer.com/hardware/gaming-pcs/id-choose-this-high-end-nvidia-rig-above-cheaper-all-amd-ones-right-now-thanks-to-its-stacks-of-juicy-memory-and-storage/>) · PC Gamer · Oct 12, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

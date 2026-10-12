@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-11T16:52:33+00:00",
+          "published": "2026-10-12T15:31:19+00:00",
           "source": "TechCrunch",
-          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+          "title": "Microsoft president says UK is best placed to drive AI regulation",
+          "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
         },
         {
-          "published": "2026-10-11T14:00:00+00:00",
+          "published": "2026-10-12T15:27:59+00:00",
           "source": "TechCrunch",
-          "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-          "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
+          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
         },
         {
           "published": "2026-10-09T07:00:00+00:00",
@@ -21,43 +21,43 @@
           "url": "https://openai.com/index/sophos"
         }
       ],
-      "lastSuccess": "2026-10-12T03:34:28.728265+00:00",
+      "lastSuccess": "2026-10-12T15:43:28.629264+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-10-11T11:39:38+00:00",
+          "published": "2026-10-12T15:37:26+00:00",
           "source": "CNBC",
-          "title": "This Chinese memory chip maker has global potential and is poised to outperform",
-          "url": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html"
+          "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+          "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html"
         },
         {
-          "published": "2026-10-10T15:00:01+00:00",
+          "published": "2026-10-12T12:20:13+00:00",
           "source": "CNBC",
-          "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-          "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html"
+          "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
+          "url": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html"
         }
       ],
-      "lastSuccess": "2026-10-12T03:34:28.728265+00:00",
+      "lastSuccess": "2026-10-12T15:43:28.629264+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-12T02:57:30+00:00",
+          "published": "2026-10-12T15:34:40+00:00",
           "source": "PC Gamer",
-          "title": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/"
+          "title": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/"
         },
         {
-          "published": "2026-10-12T02:15:46+00:00",
+          "published": "2026-10-12T14:30:14+00:00",
           "source": "PC Gamer",
-          "title": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game",
-          "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/"
+          "title": "I'd choose this high-end Nvidia rig above cheaper all-AMD ones right now thanks to its stacks of juicy memory and storage",
+          "url": "https://www.pcgamer.com/hardware/gaming-pcs/id-choose-this-high-end-nvidia-rig-above-cheaper-all-amd-ones-right-now-thanks-to-its-stacks-of-juicy-memory-and-storage/"
         }
       ],
-      "lastSuccess": "2026-10-12T03:34:28.728265+00:00",
+      "lastSuccess": "2026-10-12T15:43:28.629264+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
         }
       ],
-      "lastSuccess": "2026-10-12T03:34:28.728265+00:00",
+      "lastSuccess": "2026-10-12T15:43:28.629264+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-12T03:34:28.728265+00:00"
+  "lastChecked": "2026-10-12T15:43:28.629264+00:00"
 }
