@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "AI": {
+      "items": [
+        {
+          "published": "2026-10-08T21:25:00+00:00",
+          "title": "3 Questions: What is the best path forward for AI in academia?",
+          "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925"
+        },
+        {
+          "published": "2026-10-08T04:00:00+00:00",
+          "title": "Using AI to mitigate the growing environmental threat of data centers",
+          "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008"
+        }
+      ],
+      "lastSuccess": "2026-10-12T01:19:16.925723+00:00",
+      "unavailable": false
+    },
+    "Business and markets": {
+      "items": [
+        {
+          "published": "2026-10-11T11:39:38+00:00",
+          "title": "This Chinese memory chip maker has global potential and is poised to outperform",
+          "url": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html"
+        },
+        {
+          "published": "2026-10-10T15:00:01+00:00",
+          "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+          "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html"
+        }
+      ],
+      "lastSuccess": "2026-10-12T01:19:16.925723+00:00",
+      "unavailable": false
+    },
+    "Gaming": {
+      "items": [
+        {
+          "published": "2026-10-12T01:12:23+00:00",
+          "title": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky",
+          "url": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/"
+        },
+        {
+          "published": "2026-10-12T00:00:19+00:00",
+          "title": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/"
+        }
+      ],
+      "lastSuccess": "2026-10-12T01:19:16.925723+00:00",
+      "unavailable": false
+    },
+    "Technology": {
+      "items": [
+        {
+          "published": "2026-10-09T18:54:52+00:00",
+          "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+          "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
+        },
+        {
+          "published": "2026-10-06T19:21:14+00:00",
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
+        }
+      ],
+      "lastSuccess": "2026-10-12T01:19:16.925723+00:00",
+      "unavailable": false
+    }
+  },
+  "lastChecked": "2026-10-12T01:19:16.925723+00:00"
+}

@@ -1,0 +1,9 @@
+{
+  "perCategory": 2,
+  "categories": [
+    {"name": "Technology", "source": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"},
+    {"name": "AI", "source": "MIT News", "url": "https://news.mit.edu/rss/topic/artificial-intelligence2"},
+    {"name": "Business and markets", "source": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"},
+    {"name": "Gaming", "source": "PC Gamer", "url": "https://www.pcgamer.com/feeds.xml"}
+  ]
+}
