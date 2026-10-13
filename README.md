@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 13, 2026 at 14:22 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 13, 2026 at 22:54 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Amex introduces a framework to prevent AI agents from making unauthorized purchases](<https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/>) · TechCrunch · Oct 13, 2026
-* [Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy](<https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/>) · TechCrunch · Oct 13, 2026
-* [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](<https://openai.com/index/sophos>) · OpenAI · Oct 09, 2026
+* [Cerebras CEO pushes back on AI doomsday warnings](<https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/>) · TechCrunch · Oct 13, 2026
+* [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](<https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/>) · TechCrunch · Oct 13, 2026
+* [Higgsfield takes AI video from 1 minute to over 10](<https://openai.com/index/higgsfield-longer-videos-voice>) · OpenAI · Oct 13, 2026
 
 ### Business and markets
 
-* [Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth &amp; more](<https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html>) · CNBC · Oct 13, 2026
-* [Visa gets Beijing's green light for bank card business after 40 years of working with China](<https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html>) · CNBC · Oct 13, 2026
+* [JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts](<https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html>) · CNBC · Oct 13, 2026
+* [Williams says Fed may not have to hike rates in 2027, at odds with traders](<https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html>) · CNBC · Oct 13, 2026
 
 ### Gaming
 
-* [Freezing your bots off in Arc Raiders Frozen Trail? You'll be needing one of these 12 cosy winter gaming upgrades](<https://www.pcgamer.com/hardware/freezing-your-bots-off-in-arc-raiders-frozen-trail-youll-be-needing-one-of-these-12-cosy-winter-gaming-upgrades/>) · PC Gamer · Oct 13, 2026
-* [RimWorld drops Unity for its own in-house engine, says your saves still work, so do most mods, and the whole thing runs twice as fast](<https://www.pcgamer.com/gaming-industry/game-development/rimworld-drops-unity-for-its-own-in-house-engine-says-your-saves-still-work-so-do-most-mods-and-the-whole-thing-runs-twice-as-fast/>) · PC Gamer · Oct 13, 2026
+* [Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong](<https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/>) · PC Gamer · Oct 13, 2026
+* [Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F\*\*\*!'](<https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/>) · PC Gamer · Oct 13, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

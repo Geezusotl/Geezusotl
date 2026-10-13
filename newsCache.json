@@ -3,61 +3,61 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-13T13:00:00+00:00",
+          "published": "2026-10-13T22:36:59+00:00",
           "source": "TechCrunch",
-          "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-          "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+          "title": "Cerebras CEO pushes back on AI doomsday warnings",
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
         },
         {
-          "published": "2026-10-13T12:23:42+00:00",
+          "published": "2026-10-13T20:36:44+00:00",
           "source": "TechCrunch",
-          "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-          "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
         },
         {
-          "published": "2026-10-09T07:00:00+00:00",
+          "published": "2026-10-13T12:00:00+00:00",
           "source": "OpenAI",
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "url": "https://openai.com/index/sophos"
+          "title": "Higgsfield takes AI video from 1 minute to over 10",
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice"
         }
       ],
-      "lastSuccess": "2026-10-13T14:22:54.047624+00:00",
+      "lastSuccess": "2026-10-13T22:54:55.427536+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-10-13T11:49:04+00:00",
+          "published": "2026-10-13T20:48:37+00:00",
           "source": "CNBC",
-          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-          "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html"
+          "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+          "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html"
         },
         {
-          "published": "2026-10-13T06:20:55+00:00",
+          "published": "2026-10-13T19:46:12+00:00",
           "source": "CNBC",
-          "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-          "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html"
+          "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+          "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html"
         }
       ],
-      "lastSuccess": "2026-10-13T14:22:54.047624+00:00",
+      "lastSuccess": "2026-10-13T22:54:55.427536+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-13T14:11:22+00:00",
+          "published": "2026-10-13T22:19:05+00:00",
           "source": "PC Gamer",
-          "title": "Freezing your bots off in Arc Raiders Frozen Trail? You'll be needing one of these 12 cosy winter gaming upgrades",
-          "url": "https://www.pcgamer.com/hardware/freezing-your-bots-off-in-arc-raiders-frozen-trail-youll-be-needing-one-of-these-12-cosy-winter-gaming-upgrades/"
+          "title": "Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/"
         },
         {
-          "published": "2026-10-13T13:58:15+00:00",
+          "published": "2026-10-13T22:04:33+00:00",
           "source": "PC Gamer",
-          "title": "RimWorld drops Unity for its own in-house engine, says your saves still work, so do most mods, and the whole thing runs twice as fast",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/rimworld-drops-unity-for-its-own-in-house-engine-says-your-saves-still-work-so-do-most-mods-and-the-whole-thing-runs-twice-as-fast/"
+          "title": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'",
+          "url": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/"
         }
       ],
-      "lastSuccess": "2026-10-13T14:22:54.047624+00:00",
+      "lastSuccess": "2026-10-13T22:54:55.427536+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
         }
       ],
-      "lastSuccess": "2026-10-13T14:22:54.047624+00:00",
+      "lastSuccess": "2026-10-13T22:54:55.427536+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-13T14:22:54.047624+00:00"
+  "lastChecked": "2026-10-13T22:54:55.427536+00:00"
 }
