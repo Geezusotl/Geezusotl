@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 12, 2026 at 15:43 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 13, 2026 at 00:49 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Microsoft president says UK is best placed to drive AI regulation](<https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/>) · TechCrunch · Oct 12, 2026
-* [This AI startup says it can generate permit-ready blueprints in minutes](<https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/>) · TechCrunch · Oct 12, 2026
+* [Meta releases its first frontier model, Muse Wonder](<https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/>) · TechCrunch · Oct 12, 2026
+* [Honeyjar offers AI tools to improve PR and comms at every company](<https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/>) · TechCrunch · Oct 12, 2026
 * [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](<https://openai.com/index/sophos>) · OpenAI · Oct 09, 2026
 
 ### Business and markets
 
-* [Inflation likely peaked for 2026 but will remain sticky, according to prediction markets](<https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html>) · CNBC · Oct 12, 2026
-* [Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen &amp; more](<https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html>) · CNBC · Oct 12, 2026
+* [The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging](<https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html>) · CNBC · Oct 12, 2026
+* [Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack](<https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html>) · CNBC · Oct 12, 2026
 
 ### Gaming
 
-* [I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR](<https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/>) · PC Gamer · Oct 12, 2026
-* [I'd choose this high-end Nvidia rig above cheaper all-AMD ones right now thanks to its stacks of juicy memory and storage](<https://www.pcgamer.com/hardware/gaming-pcs/id-choose-this-high-end-nvidia-rig-above-cheaper-all-amd-ones-right-now-thanks-to-its-stacks-of-juicy-memory-and-storage/>) · PC Gamer · Oct 12, 2026
+* ['Our humble goal is to survive the AI revolution' says Epic Games CEO, as its Star Wars and Marvel crossover pivots to 'AI first' development](<https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/>) · PC Gamer · Oct 12, 2026
+* [Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'](<https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/>) · PC Gamer · Oct 12, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

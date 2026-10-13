@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-12T15:31:19+00:00",
+          "published": "2026-10-12T17:56:56+00:00",
           "source": "TechCrunch",
-          "title": "Microsoft president says UK is best placed to drive AI regulation",
-          "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+          "title": "Meta releases its first frontier model, Muse Wonder",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
         },
         {
-          "published": "2026-10-12T15:27:59+00:00",
+          "published": "2026-10-12T15:45:00+00:00",
           "source": "TechCrunch",
-          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+          "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+          "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
         },
         {
           "published": "2026-10-09T07:00:00+00:00",
@@ -21,43 +21,43 @@
           "url": "https://openai.com/index/sophos"
         }
       ],
-      "lastSuccess": "2026-10-12T15:43:28.629264+00:00",
+      "lastSuccess": "2026-10-13T00:49:48.907796+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-10-12T15:37:26+00:00",
+          "published": "2026-10-12T18:18:39+00:00",
           "source": "CNBC",
-          "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-          "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html"
+          "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+          "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html"
         },
         {
-          "published": "2026-10-12T12:20:13+00:00",
+          "published": "2026-10-12T17:15:21+00:00",
           "source": "CNBC",
-          "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
-          "url": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html"
+          "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+          "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html"
         }
       ],
-      "lastSuccess": "2026-10-12T15:43:28.629264+00:00",
+      "lastSuccess": "2026-10-13T00:49:48.907796+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-12T15:34:40+00:00",
+          "published": "2026-10-12T22:55:00+00:00",
           "source": "PC Gamer",
-          "title": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/"
+          "title": "'Our humble goal is to survive the AI revolution' says Epic Games CEO, as its Star Wars and Marvel crossover pivots to 'AI first' development",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/"
         },
         {
-          "published": "2026-10-12T14:30:14+00:00",
+          "published": "2026-10-12T19:15:15+00:00",
           "source": "PC Gamer",
-          "title": "I'd choose this high-end Nvidia rig above cheaper all-AMD ones right now thanks to its stacks of juicy memory and storage",
-          "url": "https://www.pcgamer.com/hardware/gaming-pcs/id-choose-this-high-end-nvidia-rig-above-cheaper-all-amd-ones-right-now-thanks-to-its-stacks-of-juicy-memory-and-storage/"
+          "title": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'",
+          "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/"
         }
       ],
-      "lastSuccess": "2026-10-12T15:43:28.629264+00:00",
+      "lastSuccess": "2026-10-13T00:49:48.907796+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
         }
       ],
-      "lastSuccess": "2026-10-12T15:43:28.629264+00:00",
+      "lastSuccess": "2026-10-13T00:49:48.907796+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-12T15:43:28.629264+00:00"
+  "lastChecked": "2026-10-13T00:49:48.907796+00:00"
 }
