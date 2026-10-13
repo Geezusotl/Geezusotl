@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 13, 2026 at 00:49 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 13, 2026 at 14:22 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Meta releases its first frontier model, Muse Wonder](<https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/>) · TechCrunch · Oct 12, 2026
-* [Honeyjar offers AI tools to improve PR and comms at every company](<https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/>) · TechCrunch · Oct 12, 2026
+* [Amex introduces a framework to prevent AI agents from making unauthorized purchases](<https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/>) · TechCrunch · Oct 13, 2026
+* [Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy](<https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/>) · TechCrunch · Oct 13, 2026
 * [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](<https://openai.com/index/sophos>) · OpenAI · Oct 09, 2026
 
 ### Business and markets
 
-* [The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging](<https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html>) · CNBC · Oct 12, 2026
-* [Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack](<https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html>) · CNBC · Oct 12, 2026
+* [Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth &amp; more](<https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html>) · CNBC · Oct 13, 2026
+* [Visa gets Beijing's green light for bank card business after 40 years of working with China](<https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html>) · CNBC · Oct 13, 2026
 
 ### Gaming
 
-* ['Our humble goal is to survive the AI revolution' says Epic Games CEO, as its Star Wars and Marvel crossover pivots to 'AI first' development](<https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/>) · PC Gamer · Oct 12, 2026
-* [Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'](<https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/>) · PC Gamer · Oct 12, 2026
+* [Freezing your bots off in Arc Raiders Frozen Trail? You'll be needing one of these 12 cosy winter gaming upgrades](<https://www.pcgamer.com/hardware/freezing-your-bots-off-in-arc-raiders-frozen-trail-youll-be-needing-one-of-these-12-cosy-winter-gaming-upgrades/>) · PC Gamer · Oct 13, 2026
+* [RimWorld drops Unity for its own in-house engine, says your saves still work, so do most mods, and the whole thing runs twice as fast](<https://www.pcgamer.com/gaming-industry/game-development/rimworld-drops-unity-for-its-own-in-house-engine-says-your-saves-still-work-so-do-most-mods-and-the-whole-thing-runs-twice-as-fast/>) · PC Gamer · Oct 13, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

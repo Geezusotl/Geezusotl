@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-12T17:56:56+00:00",
+          "published": "2026-10-13T13:00:00+00:00",
           "source": "TechCrunch",
-          "title": "Meta releases its first frontier model, Muse Wonder",
-          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+          "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+          "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
         },
         {
-          "published": "2026-10-12T15:45:00+00:00",
+          "published": "2026-10-13T12:23:42+00:00",
           "source": "TechCrunch",
-          "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-          "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+          "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+          "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
         },
         {
           "published": "2026-10-09T07:00:00+00:00",
@@ -21,43 +21,43 @@
           "url": "https://openai.com/index/sophos"
         }
       ],
-      "lastSuccess": "2026-10-13T00:49:48.907796+00:00",
+      "lastSuccess": "2026-10-13T14:22:54.047624+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-10-12T18:18:39+00:00",
+          "published": "2026-10-13T11:49:04+00:00",
           "source": "CNBC",
-          "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-          "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html"
+          "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+          "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html"
         },
         {
-          "published": "2026-10-12T17:15:21+00:00",
+          "published": "2026-10-13T06:20:55+00:00",
           "source": "CNBC",
-          "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-          "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html"
+          "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+          "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html"
         }
       ],
-      "lastSuccess": "2026-10-13T00:49:48.907796+00:00",
+      "lastSuccess": "2026-10-13T14:22:54.047624+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-12T22:55:00+00:00",
+          "published": "2026-10-13T14:11:22+00:00",
           "source": "PC Gamer",
-          "title": "'Our humble goal is to survive the AI revolution' says Epic Games CEO, as its Star Wars and Marvel crossover pivots to 'AI first' development",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/our-humble-goal-is-to-survive-the-ai-revolution-says-epic-games-ceo-as-its-star-wars-and-marvel-crossover-pivots-to-ai-first-development/"
+          "title": "Freezing your bots off in Arc Raiders Frozen Trail? You'll be needing one of these 12 cosy winter gaming upgrades",
+          "url": "https://www.pcgamer.com/hardware/freezing-your-bots-off-in-arc-raiders-frozen-trail-youll-be-needing-one-of-these-12-cosy-winter-gaming-upgrades/"
         },
         {
-          "published": "2026-10-12T19:15:15+00:00",
+          "published": "2026-10-13T13:58:15+00:00",
           "source": "PC Gamer",
-          "title": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'",
-          "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/"
+          "title": "RimWorld drops Unity for its own in-house engine, says your saves still work, so do most mods, and the whole thing runs twice as fast",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/rimworld-drops-unity-for-its-own-in-house-engine-says-your-saves-still-work-so-do-most-mods-and-the-whole-thing-runs-twice-as-fast/"
         }
       ],
-      "lastSuccess": "2026-10-13T00:49:48.907796+00:00",
+      "lastSuccess": "2026-10-13T14:22:54.047624+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
         }
       ],
-      "lastSuccess": "2026-10-13T00:49:48.907796+00:00",
+      "lastSuccess": "2026-10-13T14:22:54.047624+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-13T00:49:48.907796+00:00"
+  "lastChecked": "2026-10-13T14:22:54.047624+00:00"
 }
