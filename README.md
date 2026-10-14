@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 13, 2026 at 22:54 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 14, 2026 at 05:03 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Topgolf saved over $11.3 million after leaving VMware](<https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/>) · Ars Technica · Oct 13, 2026
 * [PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023](<https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/>) · Ars Technica · Oct 09, 2026
-* [Hackers obtain counterfeit TLS certificates for Google and other large services](<https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/>) · Ars Technica · Oct 06, 2026
 
 ### AI
 
+* [Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](<https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/>) · TechCrunch · Oct 13, 2026
 * [Cerebras CEO pushes back on AI doomsday warnings](<https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/>) · TechCrunch · Oct 13, 2026
-* [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](<https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/>) · TechCrunch · Oct 13, 2026
 * [Higgsfield takes AI video from 1 minute to over 10](<https://openai.com/index/higgsfield-longer-videos-voice>) · OpenAI · Oct 13, 2026
 
 ### Business and markets
 
-* [JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts](<https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html>) · CNBC · Oct 13, 2026
-* [Williams says Fed may not have to hike rates in 2027, at odds with traders](<https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html>) · CNBC · Oct 13, 2026
+* [China's exports and imports surge past expectations in September](<https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html>) · CNBC · Oct 14, 2026
+* [Goldman says investors are looking for 'profitable' Chinese business growth overseas](<https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html>) · CNBC · Oct 13, 2026
 
 ### Gaming
 
-* [Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong](<https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/>) · PC Gamer · Oct 13, 2026
-* [Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F\*\*\*!'](<https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/>) · PC Gamer · Oct 13, 2026
+* [Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners](<https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/>) · PC Gamer · Oct 14, 2026
+* [Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history](<https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/>) · PC Gamer · Oct 14, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
