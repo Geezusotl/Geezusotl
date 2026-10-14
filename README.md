@@ -28,30 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 14, 2026 at 12:05 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 14, 2026 at 17:20 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Anthropic warns small AI models could self-replicate through IoT devices](<https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/>) · Ars Technica · Oct 14, 2026
 * [Topgolf saved over $11.3 million after leaving VMware](<https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/>) · Ars Technica · Oct 13, 2026
-* [PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023](<https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/>) · Ars Technica · Oct 09, 2026
 
 ### AI
 
-* [Scimplify raises $25M to challenge China’s grip on critical materials with AI](<https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/>) · TechCrunch · Oct 14, 2026
-* [The EU’s next chapter in AI is agentic](<https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic>) · OpenAI · Oct 14, 2026
-* [Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](<https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/>) · TechCrunch · Oct 13, 2026
+* [Deezer will soon let you filter out AI-generated music](<https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/>) · TechCrunch · Oct 14, 2026
+* [Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace](<https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/>) · TechCrunch · Oct 14, 2026
+* [Amp puts AI agents to work beyond code with OpenAI models](<https://openai.com/index/amp-beyond-coding>) · OpenAI · Oct 14, 2026
 
 ### Business and markets
 
-* [Bank of America shares drop more than 4% after third quarter revenue miss and regulatory penalty](<https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html>) · CNBC · Oct 14, 2026
-* [Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million](<https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html>) · CNBC · Oct 14, 2026
+* [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](<https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html>) · CNBC · Oct 14, 2026
+* [Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty](<https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html>) · CNBC · Oct 14, 2026
 
 ### Gaming
 
-* [Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners](<https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/>) · PC Gamer · Oct 14, 2026
-* [Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history](<https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/>) · PC Gamer · Oct 14, 2026
-
-<sub>Source unavailable at the latest check. Showing headlines saved Oct 14 at 05:03 UTC.</sub>
+* [I've given GTA 5's cars Bond-style ejector seats](<https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/>) · PC Gamer · Oct 14, 2026
+* [Looking back on 10 years of Overwatch, the promises kept, and where Team 4 goes from here](<https://www.pcgamer.com/games/fps/looking-back-on-10-years-of-overwatch-the-promises-kept-and-where-team-4-goes-from-here/>) · PC Gamer · Oct 14, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

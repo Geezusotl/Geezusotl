@@ -3,81 +3,81 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-14T11:00:00+00:00",
+          "published": "2026-10-14T15:16:04+00:00",
           "source": "TechCrunch",
-          "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-          "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+          "title": "Deezer will soon let you filter out AI-generated music",
+          "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
         },
         {
-          "published": "2026-10-14T00:00:00+00:00",
+          "published": "2026-10-14T15:08:00+00:00",
+          "source": "TechCrunch",
+          "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+          "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+        },
+        {
+          "published": "2026-10-14T12:00:00+00:00",
           "source": "OpenAI",
-          "title": "The EU’s next chapter in AI is agentic",
-          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
-        },
-        {
-          "published": "2026-10-13T23:05:34+00:00",
-          "source": "TechCrunch",
-          "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "url": "https://openai.com/index/amp-beyond-coding"
         }
       ],
-      "lastSuccess": "2026-10-14T12:05:30.556720+00:00",
+      "lastSuccess": "2026-10-14T17:20:24.739484+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-10-14T12:04:59+00:00",
+          "published": "2026-10-14T17:08:23+00:00",
           "source": "CNBC",
-          "title": "Bank of America shares drop more than 4% after third quarter revenue miss and regulatory penalty",
-          "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
+          "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+          "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html"
         },
         {
-          "published": "2026-10-14T11:58:05+00:00",
+          "published": "2026-10-14T16:49:11+00:00",
           "source": "CNBC",
-          "title": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
-          "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html"
+          "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+          "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
         }
       ],
-      "lastSuccess": "2026-10-14T12:05:30.556720+00:00",
+      "lastSuccess": "2026-10-14T17:20:24.739484+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-14T03:08:04+00:00",
+          "published": "2026-10-14T17:00:00+00:00",
           "source": "PC Gamer",
-          "title": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners",
-          "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/"
+          "title": "I've given GTA 5's cars Bond-style ejector seats",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/"
         },
         {
-          "published": "2026-10-14T00:42:28+00:00",
+          "published": "2026-10-14T16:37:47+00:00",
           "source": "PC Gamer",
-          "title": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history",
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/"
+          "title": "Looking back on 10 years of Overwatch, the promises kept, and where Team 4 goes from here",
+          "url": "https://www.pcgamer.com/games/fps/looking-back-on-10-years-of-overwatch-the-promises-kept-and-where-team-4-goes-from-here/"
         }
       ],
-      "lastSuccess": "2026-10-14T05:03:08.921997+00:00",
-      "unavailable": true
+      "lastSuccess": "2026-10-14T17:20:24.739484+00:00",
+      "unavailable": false
     },
     "Technology": {
       "items": [
+        {
+          "published": "2026-10-14T12:55:06+00:00",
+          "source": "Ars Technica",
+          "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+          "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+        },
         {
           "published": "2026-10-13T21:33:43+00:00",
           "source": "Ars Technica",
           "title": "Topgolf saved over $11.3 million after leaving VMware",
           "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/"
-        },
-        {
-          "published": "2026-10-09T18:54:52+00:00",
-          "source": "Ars Technica",
-          "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-          "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
         }
       ],
-      "lastSuccess": "2026-10-14T12:05:30.556720+00:00",
+      "lastSuccess": "2026-10-14T17:20:24.739484+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-14T12:05:30.556720+00:00"
+  "lastChecked": "2026-10-14T17:20:24.739484+00:00"
 }
