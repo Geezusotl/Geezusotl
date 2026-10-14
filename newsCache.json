@@ -3,43 +3,43 @@
     "AI": {
       "items": [
         {
+          "published": "2026-10-14T11:00:00+00:00",
+          "source": "TechCrunch",
+          "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+          "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+        },
+        {
+          "published": "2026-10-14T00:00:00+00:00",
+          "source": "OpenAI",
+          "title": "The EU’s next chapter in AI is agentic",
+          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+        },
+        {
           "published": "2026-10-13T23:05:34+00:00",
           "source": "TechCrunch",
           "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
           "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
-        },
-        {
-          "published": "2026-10-13T22:36:59+00:00",
-          "source": "TechCrunch",
-          "title": "Cerebras CEO pushes back on AI doomsday warnings",
-          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
-        },
-        {
-          "published": "2026-10-13T12:00:00+00:00",
-          "source": "OpenAI",
-          "title": "Higgsfield takes AI video from 1 minute to over 10",
-          "url": "https://openai.com/index/higgsfield-longer-videos-voice"
         }
       ],
-      "lastSuccess": "2026-10-14T05:03:08.921997+00:00",
+      "lastSuccess": "2026-10-14T12:05:30.556720+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-10-14T03:41:36+00:00",
+          "published": "2026-10-14T12:04:59+00:00",
           "source": "CNBC",
-          "title": "China's exports and imports surge past expectations in September",
-          "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html"
+          "title": "Bank of America shares drop more than 4% after third quarter revenue miss and regulatory penalty",
+          "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
         },
         {
-          "published": "2026-10-13T23:05:12+00:00",
+          "published": "2026-10-14T11:58:05+00:00",
           "source": "CNBC",
-          "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-          "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html"
+          "title": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
+          "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html"
         }
       ],
-      "lastSuccess": "2026-10-14T05:03:08.921997+00:00",
+      "lastSuccess": "2026-10-14T12:05:30.556720+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -58,7 +58,7 @@
         }
       ],
       "lastSuccess": "2026-10-14T05:03:08.921997+00:00",
-      "unavailable": false
+      "unavailable": true
     },
     "Technology": {
       "items": [
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
         }
       ],
-      "lastSuccess": "2026-10-14T05:03:08.921997+00:00",
+      "lastSuccess": "2026-10-14T12:05:30.556720+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-14T05:03:08.921997+00:00"
+  "lastChecked": "2026-10-14T12:05:30.556720+00:00"
 }
