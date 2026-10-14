@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 14, 2026 at 17:20 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 14, 2026 at 21:48 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Deezer will soon let you filter out AI-generated music](<https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/>) · TechCrunch · Oct 14, 2026
-* [Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace](<https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/>) · TechCrunch · Oct 14, 2026
-* [Amp puts AI agents to work beyond code with OpenAI models](<https://openai.com/index/amp-beyond-coding>) · OpenAI · Oct 14, 2026
+* [YouTube Music launches new labels as AI-generated music floods streaming platforms](<https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/>) · TechCrunch · Oct 14, 2026
+* [Apate sends AI agents undercover to get scammed so they can gather fraud intelligence](<https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/>) · TechCrunch · Oct 14, 2026
+* [SentinelOne cuts malware analysis from weeks to hours](<https://openai.com/index/sentinelone>) · OpenAI · Oct 14, 2026
 
 ### Business and markets
 
 * [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](<https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html>) · CNBC · Oct 14, 2026
-* [Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty](<https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html>) · CNBC · Oct 14, 2026
+* [Bank of America shares drop after third-quarter revenue miss and regulatory penalty](<https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html>) · CNBC · Oct 14, 2026
 
 ### Gaming
 
-* [I've given GTA 5's cars Bond-style ejector seats](<https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/>) · PC Gamer · Oct 14, 2026
-* [Looking back on 10 years of Overwatch, the promises kept, and where Team 4 goes from here](<https://www.pcgamer.com/games/fps/looking-back-on-10-years-of-overwatch-the-promises-kept-and-where-team-4-goes-from-here/>) · PC Gamer · Oct 14, 2026
+* [Legendary composer Frank Klepacki says the RTS genre isn't dead, but he would like to see devs get a little more creative with it](<https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/>) · PC Gamer · Oct 14, 2026
+* [GTA 6 leaker threatens Take-Two with a 'dead man's switch'](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/>) · PC Gamer · Oct 14, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

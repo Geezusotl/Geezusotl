@@ -3,61 +3,61 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-14T15:16:04+00:00",
+          "published": "2026-10-14T18:23:46+00:00",
           "source": "TechCrunch",
-          "title": "Deezer will soon let you filter out AI-generated music",
-          "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+          "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+          "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
         },
         {
-          "published": "2026-10-14T15:08:00+00:00",
+          "published": "2026-10-14T18:00:00+00:00",
           "source": "TechCrunch",
-          "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-          "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+          "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+          "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
         },
         {
           "published": "2026-10-14T12:00:00+00:00",
           "source": "OpenAI",
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
-          "url": "https://openai.com/index/amp-beyond-coding"
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "url": "https://openai.com/index/sentinelone"
         }
       ],
-      "lastSuccess": "2026-10-14T17:20:24.739484+00:00",
+      "lastSuccess": "2026-10-14T21:48:16.019072+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-10-14T17:08:23+00:00",
+          "published": "2026-10-14T20:22:09+00:00",
           "source": "CNBC",
           "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
           "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html"
         },
         {
-          "published": "2026-10-14T16:49:11+00:00",
+          "published": "2026-10-14T20:20:46+00:00",
           "source": "CNBC",
-          "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+          "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
           "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
         }
       ],
-      "lastSuccess": "2026-10-14T17:20:24.739484+00:00",
+      "lastSuccess": "2026-10-14T21:48:16.019072+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-14T17:00:00+00:00",
+          "published": "2026-10-14T21:44:35+00:00",
           "source": "PC Gamer",
-          "title": "I've given GTA 5's cars Bond-style ejector seats",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/"
+          "title": "Legendary composer Frank Klepacki says the RTS genre isn't dead, but he would like to see devs get a little more creative with it",
+          "url": "https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/"
         },
         {
-          "published": "2026-10-14T16:37:47+00:00",
+          "published": "2026-10-14T18:36:16+00:00",
           "source": "PC Gamer",
-          "title": "Looking back on 10 years of Overwatch, the promises kept, and where Team 4 goes from here",
-          "url": "https://www.pcgamer.com/games/fps/looking-back-on-10-years-of-overwatch-the-promises-kept-and-where-team-4-goes-from-here/"
+          "title": "GTA 6 leaker threatens Take-Two with a 'dead man's switch'",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/"
         }
       ],
-      "lastSuccess": "2026-10-14T17:20:24.739484+00:00",
+      "lastSuccess": "2026-10-14T21:48:16.019072+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/"
         }
       ],
-      "lastSuccess": "2026-10-14T17:20:24.739484+00:00",
+      "lastSuccess": "2026-10-14T21:48:16.019072+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-14T17:20:24.739484+00:00"
+  "lastChecked": "2026-10-14T21:48:16.019072+00:00"
 }
