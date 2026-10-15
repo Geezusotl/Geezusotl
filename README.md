@@ -28,23 +28,23 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 15, 2026 at 17:09 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 15, 2026 at 21:31 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Targeted ads delivered 0-click exploits to install mercenary malware](<https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/>) · Ars Technica · Oct 15, 2026
 * [Fridge hack costing millions and sparking fires stemmed from poor security](<https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/>) · Ars Technica · Oct 14, 2026
-* [Anthropic warns small AI models could self-replicate through IoT devices](<https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/>) · Ars Technica · Oct 14, 2026
 
 ### AI
 
-* [AI agents are coming to Rivian’s cars](<https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/>) · TechCrunch · Oct 15, 2026
+* [Meta launches an open-weight AI model that runs on Macs](<https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/>) · TechCrunch · Oct 15, 2026
+* [Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](<https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/>) · TechCrunch · Oct 15, 2026
 * [Teaching students to think and learn through questions](<https://openai.com/index/teaching-students-to-think-and-learn-through-questions>) · OpenAI · Oct 15, 2026
-* [Amazon’s Bee launches two new personal AI devices, starting at $75](<https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/>) · TechCrunch · Oct 15, 2026
 
 ### Business and markets
 
-* [Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix &amp; more](<https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html>) · CNBC · Oct 15, 2026
-* [China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration](<https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html>) · CNBC · Oct 15, 2026
+* [Stocks making the biggest moves after hours: Interactive Brokers, J.B. Hunt, Alcoa and more](<https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-after-hours-ibkr-jbht-aa.html>) · CNBC · Oct 15, 2026
+* [Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding](<https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html>) · CNBC · Oct 15, 2026
 
 ### Gaming
 
