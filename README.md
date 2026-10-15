@@ -28,17 +28,17 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 14, 2026 at 21:48 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 15, 2026 at 04:51 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Fridge hack costing millions and sparking fires stemmed from poor security](<https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/>) · Ars Technica · Oct 14, 2026
 * [Anthropic warns small AI models could self-replicate through IoT devices](<https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/>) · Ars Technica · Oct 14, 2026
-* [Topgolf saved over $11.3 million after leaving VMware](<https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/>) · Ars Technica · Oct 13, 2026
 
 ### AI
 
-* [YouTube Music launches new labels as AI-generated music floods streaming platforms](<https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/>) · TechCrunch · Oct 14, 2026
-* [Apate sends AI agents undercover to get scammed so they can gather fraud intelligence](<https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/>) · TechCrunch · Oct 14, 2026
+* [Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](<https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/>) · TechCrunch · Oct 15, 2026
+* [Gudea leverages AI to help organizations prevent social media crises before they erupt](<https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/>) · TechCrunch · Oct 15, 2026
 * [SentinelOne cuts malware analysis from weeks to hours](<https://openai.com/index/sentinelone>) · OpenAI · Oct 14, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Legendary composer Frank Klepacki says the RTS genre isn't dead, but he would like to see devs get a little more creative with it](<https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/>) · PC Gamer · Oct 14, 2026
-* [GTA 6 leaker threatens Take-Two with a 'dead man's switch'](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/>) · PC Gamer · Oct 14, 2026
+* [3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'](<https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/>) · PC Gamer · Oct 14, 2026
+* [State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'](<https://www.pcgamer.com/software/ai/8-us-states-sue-openai/>) · PC Gamer · Oct 14, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
