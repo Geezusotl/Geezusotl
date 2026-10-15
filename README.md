@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 15, 2026 at 11:42 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 15, 2026 at 17:09 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,14 +37,14 @@
 
 ### AI
 
-* [Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](<https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/>) · TechCrunch · Oct 15, 2026
-* [Gudea leverages AI to help organizations prevent social media crises before they erupt](<https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/>) · TechCrunch · Oct 15, 2026
-* [SentinelOne cuts malware analysis from weeks to hours](<https://openai.com/index/sentinelone>) · OpenAI · Oct 14, 2026
+* [AI agents are coming to Rivian’s cars](<https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/>) · TechCrunch · Oct 15, 2026
+* [Teaching students to think and learn through questions](<https://openai.com/index/teaching-students-to-think-and-learn-through-questions>) · OpenAI · Oct 15, 2026
+* [Amazon’s Bee launches two new personal AI devices, starting at $75](<https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/>) · TechCrunch · Oct 15, 2026
 
 ### Business and markets
 
+* [Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix &amp; more](<https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html>) · CNBC · Oct 15, 2026
 * [China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration](<https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html>) · CNBC · Oct 15, 2026
-* [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](<https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html>) · CNBC · Oct 14, 2026
 
 ### Gaming
 
