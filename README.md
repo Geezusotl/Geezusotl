@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 15, 2026 at 04:51 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 15, 2026 at 11:42 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -43,13 +43,15 @@
 
 ### Business and markets
 
+* [China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration](<https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html>) · CNBC · Oct 15, 2026
 * [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](<https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html>) · CNBC · Oct 14, 2026
-* [Bank of America shares drop after third-quarter revenue miss and regulatory penalty](<https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html>) · CNBC · Oct 14, 2026
 
 ### Gaming
 
 * [3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'](<https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/>) · PC Gamer · Oct 14, 2026
 * [State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'](<https://www.pcgamer.com/software/ai/8-us-states-sue-openai/>) · PC Gamer · Oct 14, 2026
+
+<sub>Source unavailable at the latest check. Showing headlines saved Oct 15 at 04:51 UTC.</sub>
 <!-- NEWS:END -->
 
 ## A little perspective
