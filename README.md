@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 16, 2026 at 11:36 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 16, 2026 at 16:46 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,14 +37,14 @@
 
 ### AI
 
-* [When it came to Cal AI’s viral success, a small army of influencers paid off](<https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/>) · TechCrunch · Oct 15, 2026
-* [Meta launches an open-weight AI model that runs on Macs](<https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/>) · TechCrunch · Oct 15, 2026
+* [A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](<https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/>) · TechCrunch · Oct 16, 2026
+* [Physical AI is more than robots, says the Nvidia veteran now investing in it](<https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/>) · TechCrunch · Oct 16, 2026
 * [Bringing GPT-Rosalind to academic research labs](<https://openai.com/index/introducing-the-rosalind-academic-plan>) · OpenAI · Oct 15, 2026
 
 ### Business and markets
 
-* [People in China are spending nearly as much of their income as Americans on healthcare](<https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html>) · CNBC · Oct 15, 2026
-* [Stocks making the biggest moves after hours: Interactive Brokers, J.B. Hunt, Alcoa and more](<https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-after-hours-ibkr-jbht-aa.html>) · CNBC · Oct 15, 2026
+* [U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says](<https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html>) · CNBC · Oct 16, 2026
+* [Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa &amp; more](<https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html>) · CNBC · Oct 16, 2026
 
 ### Gaming
 
