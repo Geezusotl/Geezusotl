@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 16, 2026 at 16:46 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 16, 2026 at 21:21 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
-* [A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](<https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/>) · TechCrunch · Oct 16, 2026
-* [Physical AI is more than robots, says the Nvidia veteran now investing in it](<https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/>) · TechCrunch · Oct 16, 2026
-* [Bringing GPT-Rosalind to academic research labs](<https://openai.com/index/introducing-the-rosalind-academic-plan>) · OpenAI · Oct 15, 2026
+* [India becomes the latest country to report rogue AI agent activity](<https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/>) · TechCrunch · Oct 16, 2026
+* [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](<https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/>) · TechCrunch · Oct 16, 2026
+* [Stack Overflow for Agents triples signups with ChatGPT plugin](<https://openai.com/index/stack-overflow-chatgpt-plugin>) · OpenAI · Oct 16, 2026
 
 ### Business and markets
 
