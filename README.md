@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 15, 2026 at 21:31 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 16, 2026 at 04:42 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,14 +37,14 @@
 
 ### AI
 
+* [When it came to Cal AI’s viral success, a small army of influencers paid off](<https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/>) · TechCrunch · Oct 15, 2026
 * [Meta launches an open-weight AI model that runs on Macs](<https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/>) · TechCrunch · Oct 15, 2026
-* [Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](<https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/>) · TechCrunch · Oct 15, 2026
-* [Teaching students to think and learn through questions](<https://openai.com/index/teaching-students-to-think-and-learn-through-questions>) · OpenAI · Oct 15, 2026
+* [Bringing GPT-Rosalind to academic research labs](<https://openai.com/index/introducing-the-rosalind-academic-plan>) · OpenAI · Oct 15, 2026
 
 ### Business and markets
 
+* [People in China are spending nearly as much of their income as Americans on healthcare](<https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html>) · CNBC · Oct 15, 2026
 * [Stocks making the biggest moves after hours: Interactive Brokers, J.B. Hunt, Alcoa and more](<https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-after-hours-ibkr-jbht-aa.html>) · CNBC · Oct 15, 2026
-* [Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding](<https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html>) · CNBC · Oct 15, 2026
 
 ### Gaming
 
