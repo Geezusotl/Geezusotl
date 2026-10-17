@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 17, 2026 at 10:56 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 17, 2026 at 15:43 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -43,8 +43,8 @@
 
 ### Business and markets
 
-* [U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says](<https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html>) · CNBC · Oct 16, 2026
-* [Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa &amp; more](<https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html>) · CNBC · Oct 16, 2026
+* [Software’s new consolidator gets big vote of confidence from Berkshire](<https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html>) · CNBC · Oct 17, 2026
+* ['Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds](<https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html>) · CNBC · Oct 17, 2026
 
 ### Gaming
 
