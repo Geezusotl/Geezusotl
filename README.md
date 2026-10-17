@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 17, 2026 at 15:43 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 17, 2026 at 20:44 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
-* [Replit is no longer working with Anthropic, CEO says](<https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/>) · TechCrunch · Oct 16, 2026
+* [Anthropic says its workforce has become less junior and is spending more time in meetings](<https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/>) · TechCrunch · Oct 17, 2026
+* [Replit is no longer working with Anthropic, CEO says](<https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/>) · TechCrunch · Oct 17, 2026
 * [How Itaú is building generative AI for its entire customer base](<https://openai.com/index/itau-generative-ai>) · OpenAI · Oct 16, 2026
-* [India becomes the latest country to report rogue AI agent activity](<https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/>) · TechCrunch · Oct 16, 2026
 
 ### Business and markets
 
