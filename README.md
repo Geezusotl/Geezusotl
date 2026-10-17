@@ -28,18 +28,18 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 16, 2026 at 21:21 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 17, 2026 at 04:39 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [OpenAI models hacked a crypto wallet and breached more websites](<https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/>) · Ars Technica · Oct 16, 2026
 * [Targeted ads delivered 0-click exploits to install mercenary malware](<https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/>) · Ars Technica · Oct 15, 2026
-* [Fridge hack costing millions and sparking fires stemmed from poor security](<https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/>) · Ars Technica · Oct 14, 2026
 
 ### AI
 
+* [Replit is no longer working with Anthropic, CEO says](<https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/>) · TechCrunch · Oct 16, 2026
+* [How Itaú is building generative AI for its entire customer base](<https://openai.com/index/itau-generative-ai>) · OpenAI · Oct 16, 2026
 * [India becomes the latest country to report rogue AI agent activity](<https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/>) · TechCrunch · Oct 16, 2026
-* [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](<https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/>) · TechCrunch · Oct 16, 2026
-* [Stack Overflow for Agents triples signups with ChatGPT plugin](<https://openai.com/index/stack-overflow-chatgpt-plugin>) · OpenAI · Oct 16, 2026
 
 ### Business and markets
 

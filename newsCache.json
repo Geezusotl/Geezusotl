@@ -3,25 +3,25 @@
     "AI": {
       "items": [
         {
+          "published": "2026-10-16T21:22:28+00:00",
+          "source": "TechCrunch",
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+        },
+        {
+          "published": "2026-10-16T19:00:00+00:00",
+          "source": "OpenAI",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "url": "https://openai.com/index/itau-generative-ai"
+        },
+        {
           "published": "2026-10-16T17:52:24+00:00",
           "source": "TechCrunch",
           "title": "India becomes the latest country to report rogue AI agent activity",
           "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-        },
-        {
-          "published": "2026-10-16T16:30:00+00:00",
-          "source": "TechCrunch",
-          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-          "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
-        },
-        {
-          "published": "2026-10-16T00:00:00+00:00",
-          "source": "OpenAI",
-          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
         }
       ],
-      "lastSuccess": "2026-10-16T21:21:54.340086+00:00",
+      "lastSuccess": "2026-10-17T04:39:54.233872+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,7 +39,7 @@
           "url": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html"
         }
       ],
-      "lastSuccess": "2026-10-16T21:21:54.340086+00:00",
+      "lastSuccess": "2026-10-17T04:39:54.233872+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -63,21 +63,21 @@
     "Technology": {
       "items": [
         {
+          "published": "2026-10-16T20:59:01+00:00",
+          "source": "Ars Technica",
+          "title": "OpenAI models hacked a crypto wallet and breached more websites",
+          "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+        },
+        {
           "published": "2026-10-15T20:32:41+00:00",
           "source": "Ars Technica",
           "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
           "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
-        },
-        {
-          "published": "2026-10-14T21:35:09+00:00",
-          "source": "Ars Technica",
-          "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-          "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/"
         }
       ],
-      "lastSuccess": "2026-10-16T21:21:54.340086+00:00",
+      "lastSuccess": "2026-10-17T04:39:54.233872+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-16T21:21:54.340086+00:00"
+  "lastChecked": "2026-10-17T04:39:54.233872+00:00"
 }
