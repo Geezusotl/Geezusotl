@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-10-17T21:31:32+00:00",
+          "source": "TechCrunch",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+        },
+        {
           "published": "2026-10-17T20:21:19+00:00",
           "source": "TechCrunch",
           "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
           "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
-        },
-        {
-          "published": "2026-10-17T18:48:08+00:00",
-          "source": "TechCrunch",
-          "title": "Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
         },
         {
           "published": "2026-10-16T19:00:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/itau-generative-ai"
         }
       ],
-      "lastSuccess": "2026-10-17T20:44:07.865982+00:00",
+      "lastSuccess": "2026-10-18T04:45:29.311910+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,7 +39,7 @@
           "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html"
         }
       ],
-      "lastSuccess": "2026-10-17T20:44:07.865982+00:00",
+      "lastSuccess": "2026-10-18T04:45:29.311910+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
         }
       ],
-      "lastSuccess": "2026-10-17T20:44:07.865982+00:00",
+      "lastSuccess": "2026-10-18T04:45:29.311910+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-17T20:44:07.865982+00:00"
+  "lastChecked": "2026-10-18T04:45:29.311910+00:00"
 }

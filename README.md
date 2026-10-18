@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 17, 2026 at 20:44 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 18, 2026 at 04:45 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
+* [Meta removes language that raised scraping and AI training concerns](<https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/>) · TechCrunch · Oct 17, 2026
 * [Anthropic says its workforce has become less junior and is spending more time in meetings](<https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/>) · TechCrunch · Oct 17, 2026
-* [Replit is no longer working with Anthropic, CEO says](<https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/>) · TechCrunch · Oct 17, 2026
 * [How Itaú is building generative AI for its entire customer base](<https://openai.com/index/itau-generative-ai>) · OpenAI · Oct 16, 2026
 
 ### Business and markets
