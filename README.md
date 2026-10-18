@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 18, 2026 at 15:58 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 18, 2026 at 20:53 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
-* [Meta removes language that raised scraping and AI training concerns](<https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/>) · TechCrunch · Oct 17, 2026
-* [Anthropic says its workforce has become less junior and is spending more time in meetings](<https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/>) · TechCrunch · Oct 17, 2026
+* [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](<https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/>) · TechCrunch · Oct 18, 2026
+* [Disney agrees to hire the majority of Character.AI’s workforce](<https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/>) · TechCrunch · Oct 18, 2026
 * [How Itaú is building generative AI for its entire customer base](<https://openai.com/index/itau-generative-ai>) · OpenAI · Oct 16, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* ['There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts](<https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/>) · PC Gamer · Oct 18, 2026
-* [Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f\*\*k at the end result'](<https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/>) · PC Gamer · Oct 18, 2026
+* [Dark Souls 2 dataminer shows off massive prototype coliseum level from early development](<https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/>) · PC Gamer · Oct 18, 2026
+* [Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk](<https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/>) · PC Gamer · Oct 18, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
