@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 18, 2026 at 11:22 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 18, 2026 at 15:58 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,10 +48,8 @@
 
 ### Gaming
 
-* [3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'](<https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/>) · PC Gamer · Oct 14, 2026
-* [State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'](<https://www.pcgamer.com/software/ai/8-us-states-sue-openai/>) · PC Gamer · Oct 14, 2026
-
-<sub>Source unavailable at the latest check. Showing headlines saved Oct 15 at 04:51 UTC.</sub>
+* ['There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts](<https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/>) · PC Gamer · Oct 18, 2026
+* [Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f\*\*k at the end result'](<https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/>) · PC Gamer · Oct 18, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
