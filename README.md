@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 19, 2026 at 13:36 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 19, 2026 at 22:28 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
-* [OpenAI models hacked a crypto wallet and breached more websites](<https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/>) · Ars Technica · Oct 16, 2026
-* [Targeted ads delivered 0-click exploits to install mercenary malware](<https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/>) · Ars Technica · Oct 15, 2026
+* [PSA: Patch your Plex media server before someone hacks it](<https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/>) · Ars Technica · Oct 19, 2026
+* [ReactOS reaches major milestone with NTFS install support](<https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/>) · Ars Technica · Oct 19, 2026
 
 ### AI
 
-* [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](<https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/>) · TechCrunch · Oct 18, 2026
-* [Disney agrees to hire the majority of Character.AI’s workforce](<https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/>) · TechCrunch · Oct 18, 2026
+* [Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](<https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/>) · TechCrunch · Oct 19, 2026
+* [Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool](<https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/>) · TechCrunch · Oct 19, 2026
 * [How Itaú is building generative AI for its entire customer base](<https://openai.com/index/itau-generative-ai>) · OpenAI · Oct 16, 2026
 
 ### Business and markets
 
+* [Anthropic is AI trade's last big hope for a major IPO this year](<https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html>) · CNBC · Oct 19, 2026
 * [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](<https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html>) · CNBC · Oct 19, 2026
-* [Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon &amp; more](<https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html>) · CNBC · Oct 19, 2026
 
 ### Gaming
 
-* [PS5-exclusive Demon's Souls Remake not only runs on PC now, it's running at twice the fps cap on an RTX 5070 with frame gen](<https://www.pcgamer.com/hardware/ps5-exclusive-demons-souls-remake-not-only-runs-on-pc-now-its-running-at-twice-the-fps-cap-on-an-rtx-5070-with-frame-gen/>) · PC Gamer · Oct 19, 2026
-* [No publishers wanted Outlast because they'd 'rather invest $50,000 in 10 mobile games' so Red Barrels relied on public investment programs and their own savings instead](<https://www.pcgamer.com/games/horror/no-publisher-wanted-outlast-because-theyd-rather-invest-usd50-000-in-10-mobile-games-so-red-barrels-relied-on-public-investment-programs-and-their-own-savings-instead/>) · PC Gamer · Oct 19, 2026
+* [Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM](<https://www.pcgamer.com/games/strategy/star-wars-zero-company-adds-new-difficulty-options-that-can-bring-it-closer-to-xcom/>) · PC Gamer · Oct 19, 2026
+* [Lucasfilm wants to do more Star Wars games like Zero Company and Galactic Racer: 'We’ve tried to be more flexible about who we’re willing to take pitches from'](<https://www.pcgamer.com/gaming-industry/lucasfilm-wants-to-do-more-star-wars-games-like-zero-company-and-galactic-racer-weve-tried-to-be-more-flexible-about-who-were-willing-to-take-pitches-from/>) · PC Gamer · Oct 19, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
