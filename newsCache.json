@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/itau-generative-ai"
         }
       ],
-      "lastSuccess": "2026-10-18T20:53:27.703941+00:00",
+      "lastSuccess": "2026-10-19T04:53:39.163603+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html"
         }
       ],
-      "lastSuccess": "2026-10-18T20:53:27.703941+00:00",
+      "lastSuccess": "2026-10-19T04:53:39.163603+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-18T18:48:42+00:00",
+          "published": "2026-10-19T03:00:45+00:00",
           "source": "PC Gamer",
-          "title": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development",
-          "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/"
+          "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/"
         },
         {
-          "published": "2026-10-18T18:44:11+00:00",
+          "published": "2026-10-18T22:36:22+00:00",
           "source": "PC Gamer",
-          "title": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk",
-          "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/"
+          "title": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare",
+          "url": "https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/"
         }
       ],
-      "lastSuccess": "2026-10-18T20:53:27.703941+00:00",
+      "lastSuccess": "2026-10-19T04:53:39.163603+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
         }
       ],
-      "lastSuccess": "2026-10-18T20:53:27.703941+00:00",
+      "lastSuccess": "2026-10-19T04:53:39.163603+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-18T20:53:27.703941+00:00"
+  "lastChecked": "2026-10-19T04:53:39.163603+00:00"
 }

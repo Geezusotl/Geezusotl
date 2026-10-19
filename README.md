@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 18, 2026 at 20:53 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 19, 2026 at 04:53 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Dark Souls 2 dataminer shows off massive prototype coliseum level from early development](<https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/>) · PC Gamer · Oct 18, 2026
-* [Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk](<https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/>) · PC Gamer · Oct 18, 2026
+* [Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up](<https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/>) · PC Gamer · Oct 19, 2026
+* [23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare](<https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/>) · PC Gamer · Oct 18, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
