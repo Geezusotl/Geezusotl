@@ -21,43 +21,43 @@
           "url": "https://openai.com/index/itau-generative-ai"
         }
       ],
-      "lastSuccess": "2026-10-19T04:53:39.163603+00:00",
+      "lastSuccess": "2026-10-19T13:36:23.083256+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-10-17T15:11:30+00:00",
+          "published": "2026-10-19T12:34:01+00:00",
           "source": "CNBC",
-          "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
-          "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html"
+          "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+          "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html"
         },
         {
-          "published": "2026-10-17T15:00:01+00:00",
+          "published": "2026-10-19T12:00:34+00:00",
           "source": "CNBC",
-          "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-          "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html"
+          "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "url": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html"
         }
       ],
-      "lastSuccess": "2026-10-19T04:53:39.163603+00:00",
+      "lastSuccess": "2026-10-19T13:36:23.083256+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-19T03:00:45+00:00",
+          "published": "2026-10-19T12:01:04+00:00",
           "source": "PC Gamer",
-          "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/"
+          "title": "PS5-exclusive Demon's Souls Remake not only runs on PC now, it's running at twice the fps cap on an RTX 5070 with frame gen",
+          "url": "https://www.pcgamer.com/hardware/ps5-exclusive-demons-souls-remake-not-only-runs-on-pc-now-its-running-at-twice-the-fps-cap-on-an-rtx-5070-with-frame-gen/"
         },
         {
-          "published": "2026-10-18T22:36:22+00:00",
+          "published": "2026-10-19T11:34:55+00:00",
           "source": "PC Gamer",
-          "title": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare",
-          "url": "https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/"
+          "title": "No publishers wanted Outlast because they'd 'rather invest $50,000 in 10 mobile games' so Red Barrels relied on public investment programs and their own savings instead",
+          "url": "https://www.pcgamer.com/games/horror/no-publisher-wanted-outlast-because-theyd-rather-invest-usd50-000-in-10-mobile-games-so-red-barrels-relied-on-public-investment-programs-and-their-own-savings-instead/"
         }
       ],
-      "lastSuccess": "2026-10-19T04:53:39.163603+00:00",
+      "lastSuccess": "2026-10-19T13:36:23.083256+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
         }
       ],
-      "lastSuccess": "2026-10-19T04:53:39.163603+00:00",
+      "lastSuccess": "2026-10-19T13:36:23.083256+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-19T04:53:39.163603+00:00"
+  "lastChecked": "2026-10-19T13:36:23.083256+00:00"
 }

@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 19, 2026 at 04:53 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 19, 2026 at 13:36 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -43,13 +43,13 @@
 
 ### Business and markets
 
-* [Software’s new consolidator gets big vote of confidence from Berkshire](<https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html>) · CNBC · Oct 17, 2026
-* ['Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds](<https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html>) · CNBC · Oct 17, 2026
+* [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](<https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html>) · CNBC · Oct 19, 2026
+* [Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon &amp; more](<https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html>) · CNBC · Oct 19, 2026
 
 ### Gaming
 
-* [Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up](<https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/>) · PC Gamer · Oct 19, 2026
-* [23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare](<https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/>) · PC Gamer · Oct 18, 2026
+* [PS5-exclusive Demon's Souls Remake not only runs on PC now, it's running at twice the fps cap on an RTX 5070 with frame gen](<https://www.pcgamer.com/hardware/ps5-exclusive-demons-souls-remake-not-only-runs-on-pc-now-its-running-at-twice-the-fps-cap-on-an-rtx-5070-with-frame-gen/>) · PC Gamer · Oct 19, 2026
+* [No publishers wanted Outlast because they'd 'rather invest $50,000 in 10 mobile games' so Red Barrels relied on public investment programs and their own savings instead](<https://www.pcgamer.com/games/horror/no-publisher-wanted-outlast-because-theyd-rather-invest-usd50-000-in-10-mobile-games-so-red-barrels-relied-on-public-investment-programs-and-their-own-savings-instead/>) · PC Gamer · Oct 19, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
