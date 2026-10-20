@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-20T16:00:00+00:00",
+          "published": "2026-10-20T21:25:22+00:00",
           "source": "TechCrunch",
-          "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-          "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
+          "title": "Anthropic’s cloud partnerships are getting messy",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
         },
         {
-          "published": "2026-10-20T13:07:24+00:00",
+          "published": "2026-10-20T20:40:41+00:00",
           "source": "TechCrunch",
-          "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-          "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+          "title": "SpaceX’s AI business is beating expectations",
+          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
         },
         {
           "published": "2026-10-20T10:00:00+00:00",
@@ -21,63 +21,63 @@
           "url": "https://openai.com/index/ted-taylor-restaurant"
         }
       ],
-      "lastSuccess": "2026-10-20T17:19:11.058096+00:00",
+      "lastSuccess": "2026-10-20T21:43:19.571394+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
+          "published": "2026-10-20T20:54:20+00:00",
+          "source": "CNBC",
+          "title": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
+          "url": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html"
+        },
+        {
           "published": "2026-10-20T16:45:06+00:00",
           "source": "CNBC",
           "title": "Stocks making the biggest moves midday: Hasbro, Northrop Grumman, Equifax, General Motors & more",
           "url": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-midday-has-noc-efx-gm.html"
-        },
-        {
-          "published": "2026-10-20T16:35:41+00:00",
-          "source": "CNBC",
-          "title": "Stocks making the biggest moves premarket: RTX, General Motors, Northrop Grumman, Steel Dynamics & more",
-          "url": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-premarket-rtx-gm-noc-stld.html"
         }
       ],
-      "lastSuccess": "2026-10-20T17:19:11.058096+00:00",
+      "lastSuccess": "2026-10-20T21:43:19.571394+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-20T16:44:14+00:00",
+          "published": "2026-10-20T21:34:35+00:00",
           "source": "PC Gamer",
-          "title": "Overwatch's director discusses why King's Row is so iconic, but admits that 'every single map in the game gets a vote'",
-          "url": "https://www.pcgamer.com/games/fps/overwatchs-director-discusses-why-kings-row-is-so-iconic-but-admits-that-every-single-map-in-the-game-gets-a-vote/"
+          "title": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
+          "url": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/"
         },
         {
-          "published": "2026-10-20T16:08:45+00:00",
+          "published": "2026-10-20T20:59:12+00:00",
           "source": "PC Gamer",
-          "title": "Asus ProArt P16 (H7607) RTX Spark laptop review",
-          "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-proart-p16-rtx-spark-review/"
+          "title": "My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons",
+          "url": "https://www.pcgamer.com/games/rpg/my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-come-back-with-a-transformative-new-update-inspired-by-diablo-seasons/"
         }
       ],
-      "lastSuccess": "2026-10-20T17:19:11.058096+00:00",
+      "lastSuccess": "2026-10-20T21:43:19.571394+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
+          "published": "2026-10-20T19:47:35+00:00",
+          "source": "Ars Technica",
+          "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+          "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
+        },
+        {
           "published": "2026-10-20T12:33:13+00:00",
           "source": "Ars Technica",
           "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
           "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
-        },
-        {
-          "published": "2026-10-19T19:39:19+00:00",
-          "source": "Ars Technica",
-          "title": "PSA: Patch your Plex media server before someone hacks it",
-          "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/"
         }
       ],
-      "lastSuccess": "2026-10-20T17:19:11.058096+00:00",
+      "lastSuccess": "2026-10-20T21:43:19.571394+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-20T17:19:11.058096+00:00"
+  "lastChecked": "2026-10-20T21:43:19.571394+00:00"
 }
