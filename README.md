@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 20, 2026 at 11:50 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 20, 2026 at 17:19 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Meta Muse exposes users' personal and business secrets when they share conversations](<https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/>) · Ars Technica · Oct 20, 2026
 * [PSA: Patch your Plex media server before someone hacks it](<https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/>) · Ars Technica · Oct 19, 2026
-* [ReactOS reaches major milestone with NTFS install support](<https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/>) · Ars Technica · Oct 19, 2026
 
 ### AI
 
-* [Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool](<https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/>) · TechCrunch · Oct 20, 2026
-* [Mamdani says feds have abdicated on AI, urges New Yorkers to push back](<https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/>) · TechCrunch · Oct 20, 2026
-* [Advancing coding in low‑resource programming languages](<https://openai.com/index/low-resource-programming-languages>) · OpenAI · Oct 19, 2026
+* [Plants can speak using electricity, so this startup built an AI model to decipher their language](<https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/>) · TechCrunch · Oct 20, 2026
+* [US orders federal agencies to remove China’s DeepSeek AI from their systems](<https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/>) · TechCrunch · Oct 20, 2026
+* [Franchisee reconciles cash in 94% less time with ChatGPT Work](<https://openai.com/index/ted-taylor-restaurant>) · OpenAI · Oct 20, 2026
 
 ### Business and markets
 
-* [HSBC CEO warns the AI boom won’t make every data center a good bet](<https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html>) · CNBC · Oct 20, 2026
-* [The world’s finance chiefs see new risks — and less China angst](<https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html>) · CNBC · Oct 20, 2026
+* [Stocks making the biggest moves midday: Hasbro, Northrop Grumman, Equifax, General Motors &amp; more](<https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-midday-has-noc-efx-gm.html>) · CNBC · Oct 20, 2026
+* [Stocks making the biggest moves premarket: RTX, General Motors, Northrop Grumman, Steel Dynamics &amp; more](<https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-premarket-rtx-gm-noc-stld.html>) · CNBC · Oct 20, 2026
 
 ### Gaming
 
-* [This sound library catalogues 100 different keyboard switches, is dangerous for my wallet, and also has… live service game mechanics?](<https://www.pcgamer.com/hardware/gaming-keyboards/this-sound-library-catalogues-100-different-keyboard-switches-is-dangerous-for-my-wallet-and-also-has-live-service-game-mechanics/>) · PC Gamer · Oct 20, 2026
-* [Subnautica 2 is heading for 'Early access 2.0,' which brings 'one of our scariest regions we've ever done'](<https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/>) · PC Gamer · Oct 20, 2026
+* [Overwatch's director discusses why King's Row is so iconic, but admits that 'every single map in the game gets a vote'](<https://www.pcgamer.com/games/fps/overwatchs-director-discusses-why-kings-row-is-so-iconic-but-admits-that-every-single-map-in-the-game-gets-a-vote/>) · PC Gamer · Oct 20, 2026
+* [Asus ProArt P16 (H7607) RTX Spark laptop review](<https://www.pcgamer.com/hardware/gaming-laptops/asus-proart-p16-rtx-spark-review/>) · PC Gamer · Oct 20, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
