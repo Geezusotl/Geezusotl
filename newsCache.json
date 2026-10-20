@@ -3,61 +3,61 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-19T22:04:28+00:00",
+          "published": "2026-10-20T01:27:03+00:00",
           "source": "TechCrunch",
-          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-          "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+          "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
         },
         {
-          "published": "2026-10-19T20:09:24+00:00",
+          "published": "2026-10-19T23:39:38+00:00",
           "source": "TechCrunch",
-          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-          "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+          "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
         },
         {
-          "published": "2026-10-16T19:00:00+00:00",
+          "published": "2026-10-19T12:00:00+00:00",
           "source": "OpenAI",
-          "title": "How Itaú is building generative AI for its entire customer base",
-          "url": "https://openai.com/index/itau-generative-ai"
+          "title": "Advancing coding in low‑resource programming languages",
+          "url": "https://openai.com/index/low-resource-programming-languages"
         }
       ],
-      "lastSuccess": "2026-10-19T22:28:27.835986+00:00",
+      "lastSuccess": "2026-10-20T05:00:22.805909+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
+          "published": "2026-10-20T00:33:34+00:00",
+          "source": "CNBC",
+          "title": "Three big takeaways from the IMF-World Bank meetings",
+          "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html"
+        },
+        {
           "published": "2026-10-19T16:42:14+00:00",
           "source": "CNBC",
           "title": "Anthropic is AI trade's last big hope for a major IPO this year",
           "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html"
-        },
-        {
-          "published": "2026-10-19T12:34:01+00:00",
-          "source": "CNBC",
-          "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-          "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html"
         }
       ],
-      "lastSuccess": "2026-10-19T22:28:27.835986+00:00",
+      "lastSuccess": "2026-10-20T05:00:22.805909+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
+          "published": "2026-10-19T23:33:09+00:00",
+          "source": "PC Gamer",
+          "title": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
+          "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/"
+        },
+        {
           "published": "2026-10-19T21:47:17+00:00",
           "source": "PC Gamer",
           "title": "Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM",
           "url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-adds-new-difficulty-options-that-can-bring-it-closer-to-xcom/"
-        },
-        {
-          "published": "2026-10-19T21:46:23+00:00",
-          "source": "PC Gamer",
-          "title": "Lucasfilm wants to do more Star Wars games like Zero Company and Galactic Racer: 'We’ve tried to be more flexible about who we’re willing to take pitches from'",
-          "url": "https://www.pcgamer.com/gaming-industry/lucasfilm-wants-to-do-more-star-wars-games-like-zero-company-and-galactic-racer-weve-tried-to-be-more-flexible-about-who-were-willing-to-take-pitches-from/"
         }
       ],
-      "lastSuccess": "2026-10-19T22:28:27.835986+00:00",
+      "lastSuccess": "2026-10-20T05:00:22.805909+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/"
         }
       ],
-      "lastSuccess": "2026-10-19T22:28:27.835986+00:00",
+      "lastSuccess": "2026-10-20T05:00:22.805909+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-19T22:28:27.835986+00:00"
+  "lastChecked": "2026-10-20T05:00:22.805909+00:00"
 }

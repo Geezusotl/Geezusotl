@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 19, 2026 at 22:28 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 20, 2026 at 05:00 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](<https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/>) · TechCrunch · Oct 19, 2026
-* [Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool](<https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/>) · TechCrunch · Oct 19, 2026
-* [How Itaú is building generative AI for its entire customer base](<https://openai.com/index/itau-generative-ai>) · OpenAI · Oct 16, 2026
+* [Mamdani says feds have abdicated on AI, urges New Yorkers to push back](<https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/>) · TechCrunch · Oct 20, 2026
+* [Nscale and Anthropic are reportedly in talks for yet another $45B compute deal](<https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/>) · TechCrunch · Oct 19, 2026
+* [Advancing coding in low‑resource programming languages](<https://openai.com/index/low-resource-programming-languages>) · OpenAI · Oct 19, 2026
 
 ### Business and markets
 
+* [Three big takeaways from the IMF-World Bank meetings](<https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html>) · CNBC · Oct 20, 2026
 * [Anthropic is AI trade's last big hope for a major IPO this year](<https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html>) · CNBC · Oct 19, 2026
-* [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](<https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html>) · CNBC · Oct 19, 2026
 
 ### Gaming
 
+* [Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'](<https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/>) · PC Gamer · Oct 19, 2026
 * [Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM](<https://www.pcgamer.com/games/strategy/star-wars-zero-company-adds-new-difficulty-options-that-can-bring-it-closer-to-xcom/>) · PC Gamer · Oct 19, 2026
-* [Lucasfilm wants to do more Star Wars games like Zero Company and Galactic Racer: 'We’ve tried to be more flexible about who we’re willing to take pitches from'](<https://www.pcgamer.com/gaming-industry/lucasfilm-wants-to-do-more-star-wars-games-like-zero-company-and-galactic-racer-weve-tried-to-be-more-flexible-about-who-were-willing-to-take-pitches-from/>) · PC Gamer · Oct 19, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
