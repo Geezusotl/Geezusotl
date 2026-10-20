@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-10-20T11:00:00+00:00",
+          "source": "TechCrunch",
+          "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+        },
+        {
           "published": "2026-10-20T01:27:03+00:00",
           "source": "TechCrunch",
           "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
           "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
-        },
-        {
-          "published": "2026-10-19T23:39:38+00:00",
-          "source": "TechCrunch",
-          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-          "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
         },
         {
           "published": "2026-10-19T12:00:00+00:00",
@@ -21,43 +21,43 @@
           "url": "https://openai.com/index/low-resource-programming-languages"
         }
       ],
-      "lastSuccess": "2026-10-20T05:00:22.805909+00:00",
+      "lastSuccess": "2026-10-20T11:50:21.618318+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-10-20T00:33:34+00:00",
+          "published": "2026-10-20T10:39:17+00:00",
           "source": "CNBC",
-          "title": "Three big takeaways from the IMF-World Bank meetings",
-          "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html"
+          "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+          "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html"
         },
         {
-          "published": "2026-10-19T16:42:14+00:00",
+          "published": "2026-10-20T05:27:53+00:00",
           "source": "CNBC",
-          "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-          "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html"
+          "title": "The world’s finance chiefs see new risks — and less China angst",
+          "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html"
         }
       ],
-      "lastSuccess": "2026-10-20T05:00:22.805909+00:00",
+      "lastSuccess": "2026-10-20T11:50:21.618318+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-19T23:33:09+00:00",
+          "published": "2026-10-20T11:07:14+00:00",
           "source": "PC Gamer",
-          "title": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
-          "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/"
+          "title": "This sound library catalogues 100 different keyboard switches, is dangerous for my wallet, and also has… live service game mechanics?",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/this-sound-library-catalogues-100-different-keyboard-switches-is-dangerous-for-my-wallet-and-also-has-live-service-game-mechanics/"
         },
         {
-          "published": "2026-10-19T21:47:17+00:00",
+          "published": "2026-10-20T10:32:58+00:00",
           "source": "PC Gamer",
-          "title": "Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM",
-          "url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-adds-new-difficulty-options-that-can-bring-it-closer-to-xcom/"
+          "title": "Subnautica 2 is heading for 'Early access 2.0,' which brings 'one of our scariest regions we've ever done'",
+          "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/"
         }
       ],
-      "lastSuccess": "2026-10-20T05:00:22.805909+00:00",
+      "lastSuccess": "2026-10-20T11:50:21.618318+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/"
         }
       ],
-      "lastSuccess": "2026-10-20T05:00:22.805909+00:00",
+      "lastSuccess": "2026-10-20T11:50:21.618318+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-20T05:00:22.805909+00:00"
+  "lastChecked": "2026-10-20T11:50:21.618318+00:00"
 }

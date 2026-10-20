@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 20, 2026 at 05:00 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 20, 2026 at 11:50 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
+* [Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool](<https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/>) · TechCrunch · Oct 20, 2026
 * [Mamdani says feds have abdicated on AI, urges New Yorkers to push back](<https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/>) · TechCrunch · Oct 20, 2026
-* [Nscale and Anthropic are reportedly in talks for yet another $45B compute deal](<https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/>) · TechCrunch · Oct 19, 2026
 * [Advancing coding in low‑resource programming languages](<https://openai.com/index/low-resource-programming-languages>) · OpenAI · Oct 19, 2026
 
 ### Business and markets
 
-* [Three big takeaways from the IMF-World Bank meetings](<https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html>) · CNBC · Oct 20, 2026
-* [Anthropic is AI trade's last big hope for a major IPO this year](<https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html>) · CNBC · Oct 19, 2026
+* [HSBC CEO warns the AI boom won’t make every data center a good bet](<https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html>) · CNBC · Oct 20, 2026
+* [The world’s finance chiefs see new risks — and less China angst](<https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html>) · CNBC · Oct 20, 2026
 
 ### Gaming
 
-* [Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'](<https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/>) · PC Gamer · Oct 19, 2026
-* [Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM](<https://www.pcgamer.com/games/strategy/star-wars-zero-company-adds-new-difficulty-options-that-can-bring-it-closer-to-xcom/>) · PC Gamer · Oct 19, 2026
+* [This sound library catalogues 100 different keyboard switches, is dangerous for my wallet, and also has… live service game mechanics?](<https://www.pcgamer.com/hardware/gaming-keyboards/this-sound-library-catalogues-100-different-keyboard-switches-is-dangerous-for-my-wallet-and-also-has-live-service-game-mechanics/>) · PC Gamer · Oct 20, 2026
+* [Subnautica 2 is heading for 'Early access 2.0,' which brings 'one of our scariest regions we've ever done'](<https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/>) · PC Gamer · Oct 20, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
