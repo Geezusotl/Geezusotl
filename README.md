@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 21, 2026 at 12:01 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 21, 2026 at 17:21 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,21 @@
 
 ### AI
 
-* [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](<https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/>) · TechCrunch · Oct 20, 2026
-* [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](<https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/>) · TechCrunch · Oct 20, 2026
-* [Franchisee reconciles cash in 94% less time with ChatGPT Work](<https://openai.com/index/ted-taylor-restaurant>) · OpenAI · Oct 20, 2026
+* [AI promises productivity, but for managers, it’s mostly a headache for now](<https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/>) · TechCrunch · Oct 21, 2026
+* [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](<https://openai.com/index/chatgpt-ads-expands-26-new-countries>) · OpenAI · Oct 21, 2026
+* [OpenAI models are coming to Google Cloud](<https://openai.com/index/openai-models-google-cloud>) · OpenAI · Oct 21, 2026
 
 ### Business and markets
 
+* [Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge](<https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html>) · CNBC · Oct 21, 2026
 * [Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more](<https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html>) · CNBC · Oct 21, 2026
-* [Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX &amp; more](<https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html>) · CNBC · Oct 20, 2026
 
 ### Gaming
 
 * [80% of Samsung's data center memory is already sold for 2027, meaning yet another double-digit price increase for RAM expected and more likely to come](<https://www.pcgamer.com/hardware/memory/80-percent-of-samsungs-data-center-memory-is-already-sold-for-2027-meaning-yet-another-double-digit-price-increase-for-ram-expected-and-more-likely-to-come/>) · PC Gamer · Oct 21, 2026
 * [110 million votes later Nurse Harrow has finally made it into Deadlock, with special thanks to a particularly dedicated player who 'cast exactly 1,000 votes for her'](<https://www.pcgamer.com/games/moba/110-million-votes-later-nurse-harrow-has-finally-made-it-into-deadlock-with-special-thanks-to-a-particularly-dedicated-player-who-cast-exactly-1-000-votes-for-her/>) · PC Gamer · Oct 21, 2026
+
+<sub>Source unavailable at the latest check. Showing headlines saved Oct 21 at 12:01 UTC.</sub>
 <!-- NEWS:END -->
 
 ## A little perspective

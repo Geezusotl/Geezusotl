@@ -3,43 +3,43 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-20T23:01:23+00:00",
+          "published": "2026-10-21T14:00:00+00:00",
           "source": "TechCrunch",
-          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+          "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+          "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
         },
         {
-          "published": "2026-10-20T22:24:02+00:00",
-          "source": "TechCrunch",
-          "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-          "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
-        },
-        {
-          "published": "2026-10-20T10:00:00+00:00",
+          "published": "2026-10-21T13:00:00+00:00",
           "source": "OpenAI",
-          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "url": "https://openai.com/index/ted-taylor-restaurant"
+          "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+        },
+        {
+          "published": "2026-10-21T12:00:00+00:00",
+          "source": "OpenAI",
+          "title": "OpenAI models are coming to Google Cloud",
+          "url": "https://openai.com/index/openai-models-google-cloud"
         }
       ],
-      "lastSuccess": "2026-10-21T12:01:55.650393+00:00",
+      "lastSuccess": "2026-10-21T17:21:54.400165+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
+          "published": "2026-10-21T15:30:50+00:00",
+          "source": "CNBC",
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html"
+        },
+        {
           "published": "2026-10-21T11:49:11+00:00",
           "source": "CNBC",
           "title": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
-        },
-        {
-          "published": "2026-10-20T22:55:27+00:00",
-          "source": "CNBC",
-          "title": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
-          "url": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html"
         }
       ],
-      "lastSuccess": "2026-10-21T12:01:55.650393+00:00",
+      "lastSuccess": "2026-10-21T17:21:54.400165+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -58,7 +58,7 @@
         }
       ],
       "lastSuccess": "2026-10-21T12:01:55.650393+00:00",
-      "unavailable": false
+      "unavailable": true
     },
     "Technology": {
       "items": [
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
         }
       ],
-      "lastSuccess": "2026-10-21T12:01:55.650393+00:00",
+      "lastSuccess": "2026-10-21T17:21:54.400165+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-21T12:01:55.650393+00:00"
+  "lastChecked": "2026-10-21T17:21:54.400165+00:00"
 }
