@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 21, 2026 at 17:21 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 21, 2026 at 21:49 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
-* [AI promises productivity, but for managers, it’s mostly a headache for now](<https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/>) · TechCrunch · Oct 21, 2026
-* [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](<https://openai.com/index/chatgpt-ads-expands-26-new-countries>) · OpenAI · Oct 21, 2026
-* [OpenAI models are coming to Google Cloud](<https://openai.com/index/openai-models-google-cloud>) · OpenAI · Oct 21, 2026
+* [Recursive launches Flint, a laptop coding model it says was largely built by AI](<https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/>) · TechCrunch · Oct 21, 2026
+* [While Amazon blocks AI agents, Walmart rolls out the welcome mat](<https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/>) · TechCrunch · Oct 21, 2026
+* [How AT&amp;T is rethinking in-house legal work with OpenAI](<https://openai.com/index/att-legal>) · OpenAI · Oct 21, 2026
 
 ### Business and markets
 

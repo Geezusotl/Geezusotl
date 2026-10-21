@@ -3,25 +3,25 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-21T14:00:00+00:00",
+          "published": "2026-10-21T20:27:41+00:00",
           "source": "TechCrunch",
-          "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-          "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
+          "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+          "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
         },
         {
-          "published": "2026-10-21T13:00:00+00:00",
-          "source": "OpenAI",
-          "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+          "published": "2026-10-21T19:30:00+00:00",
+          "source": "TechCrunch",
+          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+          "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
         },
         {
-          "published": "2026-10-21T12:00:00+00:00",
+          "published": "2026-10-21T17:00:00+00:00",
           "source": "OpenAI",
-          "title": "OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud"
+          "title": "How AT&T is rethinking in-house legal work with OpenAI",
+          "url": "https://openai.com/index/att-legal"
         }
       ],
-      "lastSuccess": "2026-10-21T17:21:54.400165+00:00",
+      "lastSuccess": "2026-10-21T21:49:24.728655+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,7 +39,7 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-21T17:21:54.400165+00:00",
+      "lastSuccess": "2026-10-21T21:49:24.728655+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
         }
       ],
-      "lastSuccess": "2026-10-21T17:21:54.400165+00:00",
+      "lastSuccess": "2026-10-21T21:49:24.728655+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-21T17:21:54.400165+00:00"
+  "lastChecked": "2026-10-21T21:49:24.728655+00:00"
 }
