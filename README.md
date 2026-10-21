@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 21, 2026 at 04:59 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 21, 2026 at 12:01 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -43,13 +43,13 @@
 
 ### Business and markets
 
+* [Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more](<https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html>) · CNBC · Oct 21, 2026
 * [Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX &amp; more](<https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html>) · CNBC · Oct 20, 2026
-* [Stocks making the biggest moves midday: Hasbro, Northrop Grumman, Equifax, General Motors &amp; more](<https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-midday-has-noc-efx-gm.html>) · CNBC · Oct 20, 2026
 
 ### Gaming
 
-* [In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered](<https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/>) · PC Gamer · Oct 21, 2026
-* [All Anime Dice codes for October 2026: Gems, rerolls, and tickets](<https://www.pcgamer.com/roblox/anime-dice-codes/>) · PC Gamer · Oct 20, 2026
+* [80% of Samsung's data center memory is already sold for 2027, meaning yet another double-digit price increase for RAM expected and more likely to come](<https://www.pcgamer.com/hardware/memory/80-percent-of-samsungs-data-center-memory-is-already-sold-for-2027-meaning-yet-another-double-digit-price-increase-for-ram-expected-and-more-likely-to-come/>) · PC Gamer · Oct 21, 2026
+* [110 million votes later Nurse Harrow has finally made it into Deadlock, with special thanks to a particularly dedicated player who 'cast exactly 1,000 votes for her'](<https://www.pcgamer.com/games/moba/110-million-votes-later-nurse-harrow-has-finally-made-it-into-deadlock-with-special-thanks-to-a-particularly-dedicated-player-who-cast-exactly-1-000-votes-for-her/>) · PC Gamer · Oct 21, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
