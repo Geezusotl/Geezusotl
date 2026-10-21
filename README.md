@@ -28,17 +28,17 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 20, 2026 at 21:43 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 21, 2026 at 04:59 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [PHP warns it plans to release 2 emergency patches imminently](<https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/>) · Ars Technica · Oct 21, 2026
 * [The Internet goes on high alert after discovery of 8 compromised TLS certs](<https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/>) · Ars Technica · Oct 20, 2026
-* [Meta Muse exposes users' personal and business secrets when they share conversations](<https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/>) · Ars Technica · Oct 20, 2026
 
 ### AI
 
-* [Anthropic’s cloud partnerships are getting messy](<https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/>) · TechCrunch · Oct 20, 2026
-* [SpaceX’s AI business is beating expectations](<https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/>) · TechCrunch · Oct 20, 2026
+* [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](<https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/>) · TechCrunch · Oct 20, 2026
+* [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](<https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/>) · TechCrunch · Oct 20, 2026
 * [Franchisee reconciles cash in 94% less time with ChatGPT Work](<https://openai.com/index/ted-taylor-restaurant>) · OpenAI · Oct 20, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* ['If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo](<https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/>) · PC Gamer · Oct 20, 2026
-* [My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons](<https://www.pcgamer.com/games/rpg/my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-come-back-with-a-transformative-new-update-inspired-by-diablo-seasons/>) · PC Gamer · Oct 20, 2026
+* [In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered](<https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/>) · PC Gamer · Oct 21, 2026
+* [All Anime Dice codes for October 2026: Gems, rerolls, and tickets](<https://www.pcgamer.com/roblox/anime-dice-codes/>) · PC Gamer · Oct 20, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
