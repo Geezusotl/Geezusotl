@@ -28,18 +28,18 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 21, 2026 at 21:49 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 22, 2026 at 05:02 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Enterprises keep buying software upgrades that IT thinks will make things worse](<https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/>) · Ars Technica · Oct 21, 2026
 * [PHP warns it plans to release 2 emergency patches imminently](<https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/>) · Ars Technica · Oct 21, 2026
-* [The Internet goes on high alert after discovery of 8 compromised TLS certs](<https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/>) · Ars Technica · Oct 20, 2026
 
 ### AI
 
+* [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](<https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/>) · TechCrunch · Oct 21, 2026
+* [Broad access through consistent standards](<https://openai.com/index/broad-access-through-consistent-standards>) · OpenAI · Oct 21, 2026
 * [Recursive launches Flint, a laptop coding model it says was largely built by AI](<https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/>) · TechCrunch · Oct 21, 2026
-* [While Amazon blocks AI agents, Walmart rolls out the welcome mat](<https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/>) · TechCrunch · Oct 21, 2026
-* [How AT&amp;T is rethinking in-house legal work with OpenAI](<https://openai.com/index/att-legal>) · OpenAI · Oct 21, 2026
 
 ### Business and markets
 
