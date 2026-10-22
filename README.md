@@ -28,12 +28,12 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 22, 2026 at 05:02 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 22, 2026 at 12:04 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email](<https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/>) · Ars Technica · Oct 22, 2026
 * [Enterprises keep buying software upgrades that IT thinks will make things worse](<https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/>) · Ars Technica · Oct 21, 2026
-* [PHP warns it plans to release 2 emergency patches imminently](<https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/>) · Ars Technica · Oct 21, 2026
 
 ### AI
 

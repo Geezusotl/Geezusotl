@@ -21,7 +21,7 @@
           "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
         }
       ],
-      "lastSuccess": "2026-10-22T05:02:13.957305+00:00",
+      "lastSuccess": "2026-10-22T12:04:45.794402+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,7 +39,7 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-22T05:02:13.957305+00:00",
+      "lastSuccess": "2026-10-22T12:04:45.794402+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -63,21 +63,21 @@
     "Technology": {
       "items": [
         {
+          "published": "2026-10-22T11:30:33+00:00",
+          "source": "Ars Technica",
+          "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+          "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
+        },
+        {
           "published": "2026-10-21T21:48:52+00:00",
           "source": "Ars Technica",
           "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
           "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/"
-        },
-        {
-          "published": "2026-10-21T02:12:18+00:00",
-          "source": "Ars Technica",
-          "title": "PHP warns it plans to release 2 emergency patches imminently",
-          "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
         }
       ],
-      "lastSuccess": "2026-10-22T05:02:13.957305+00:00",
+      "lastSuccess": "2026-10-22T12:04:45.794402+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-22T05:02:13.957305+00:00"
+  "lastChecked": "2026-10-22T12:04:45.794402+00:00"
 }
