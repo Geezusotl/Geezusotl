@@ -28,18 +28,18 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 22, 2026 at 17:19 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 22, 2026 at 21:44 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Disgraced eMudhra drops out of TLS business after using cert private key of 4](<https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/>) · Ars Technica · Oct 22, 2026
 * [333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email](<https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/>) · Ars Technica · Oct 22, 2026
-* [Enterprises keep buying software upgrades that IT thinks will make things worse](<https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/>) · Ars Technica · Oct 21, 2026
 
 ### AI
 
-* [Spotify’s current AI bet is about being the music service that agents choose](<https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/>) · TechCrunch · Oct 22, 2026
-* [Claude Duet app is Anthropic’s bet on agents](<https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/>) · TechCrunch · Oct 22, 2026
-* [What FDE means at OpenAI](<https://openai.com/index/forward-deployed-engineering-means>) · OpenAI · Oct 22, 2026
+* [1Password launches a way for AI agents to log in on your behalf without seeing your password](<https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/>) · TechCrunch · Oct 22, 2026
+* [OpenAI makes its Jev competitor widely available as decision model competition heats up](<https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/>) · TechCrunch · Oct 22, 2026
+* [Build more responsive apps with the Decisions API](<https://openai.com/index/decisions-api>) · OpenAI · Oct 22, 2026
 
 ### Business and markets
 

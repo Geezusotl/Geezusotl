@@ -3,25 +3,25 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-22T15:03:58+00:00",
+          "published": "2026-10-22T19:07:09+00:00",
           "source": "TechCrunch",
-          "title": "Spotify’s current AI bet is about being the music service that agents choose",
-          "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
+          "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
         },
         {
-          "published": "2026-10-22T13:53:26+00:00",
+          "published": "2026-10-22T19:00:00+00:00",
           "source": "TechCrunch",
-          "title": "Claude Duet app is Anthropic’s bet on agents",
-          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
         },
         {
-          "published": "2026-10-22T06:00:00+00:00",
+          "published": "2026-10-22T19:00:00+00:00",
           "source": "OpenAI",
-          "title": "What FDE means at OpenAI",
-          "url": "https://openai.com/index/forward-deployed-engineering-means"
+          "title": "Build more responsive apps with the Decisions API",
+          "url": "https://openai.com/index/decisions-api"
         }
       ],
-      "lastSuccess": "2026-10-22T17:19:16.637275+00:00",
+      "lastSuccess": "2026-10-22T21:44:46.033117+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,7 +39,7 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-22T17:19:16.637275+00:00",
+      "lastSuccess": "2026-10-22T21:44:46.033117+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -63,21 +63,21 @@
     "Technology": {
       "items": [
         {
+          "published": "2026-10-22T20:17:52+00:00",
+          "source": "Ars Technica",
+          "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+          "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
+        },
+        {
           "published": "2026-10-22T11:30:33+00:00",
           "source": "Ars Technica",
           "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
           "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
-        },
-        {
-          "published": "2026-10-21T21:48:52+00:00",
-          "source": "Ars Technica",
-          "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-          "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/"
         }
       ],
-      "lastSuccess": "2026-10-22T17:19:16.637275+00:00",
+      "lastSuccess": "2026-10-22T21:44:46.033117+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-22T17:19:16.637275+00:00"
+  "lastChecked": "2026-10-22T21:44:46.033117+00:00"
 }
