@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 22, 2026 at 12:04 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 22, 2026 at 17:19 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
-* [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](<https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/>) · TechCrunch · Oct 21, 2026
-* [Broad access through consistent standards](<https://openai.com/index/broad-access-through-consistent-standards>) · OpenAI · Oct 21, 2026
-* [Recursive launches Flint, a laptop coding model it says was largely built by AI](<https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/>) · TechCrunch · Oct 21, 2026
+* [Spotify’s current AI bet is about being the music service that agents choose](<https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/>) · TechCrunch · Oct 22, 2026
+* [Claude Duet app is Anthropic’s bet on agents](<https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/>) · TechCrunch · Oct 22, 2026
+* [What FDE means at OpenAI](<https://openai.com/index/forward-deployed-engineering-means>) · OpenAI · Oct 22, 2026
 
 ### Business and markets
 
