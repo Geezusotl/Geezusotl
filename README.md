@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 22, 2026 at 21:44 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 23, 2026 at 05:02 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
-* [1Password launches a way for AI agents to log in on your behalf without seeing your password](<https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/>) · TechCrunch · Oct 22, 2026
-* [OpenAI makes its Jev competitor widely available as decision model competition heats up](<https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/>) · TechCrunch · Oct 22, 2026
+* [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](<https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/>) · TechCrunch · Oct 23, 2026
+* [Left alone with nothing to do, AI agents started playing](<https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/>) · TechCrunch · Oct 23, 2026
 * [Build more responsive apps with the Decisions API](<https://openai.com/index/decisions-api>) · OpenAI · Oct 22, 2026
 
 ### Business and markets
