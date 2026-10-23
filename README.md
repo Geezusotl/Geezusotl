@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 23, 2026 at 17:16 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 23, 2026 at 21:30 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -38,8 +38,8 @@
 ### AI
 
 * [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](<https://openai.com/index/scaling-storage-one-billion-users-part-two>) · OpenAI · Oct 23, 2026
+* [Securing our frontier model training environment](<https://openai.com/index/securing-our-frontier-model-training-environment>) · OpenAI · Oct 23, 2026
 * [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia](<https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/>) · TechCrunch · Oct 23, 2026
-* [Left alone with nothing to do, AI agents started playing](<https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/>) · TechCrunch · Oct 23, 2026
 
 ### Business and markets
 
