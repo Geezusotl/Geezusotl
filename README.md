@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 23, 2026 at 05:02 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 23, 2026 at 11:49 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -39,7 +39,7 @@
 
 * [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](<https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/>) · TechCrunch · Oct 23, 2026
 * [Left alone with nothing to do, AI agents started playing](<https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/>) · TechCrunch · Oct 23, 2026
-* [Build more responsive apps with the Decisions API](<https://openai.com/index/decisions-api>) · OpenAI · Oct 22, 2026
+* [OpenAI and Poland’s NASK partner to advance AI safety and security](<https://openai.com/index/openai-nask-ai-safety-security-partnership>) · OpenAI · Oct 23, 2026
 
 ### Business and markets
 
