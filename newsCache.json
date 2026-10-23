@@ -3,9 +3,15 @@
     "AI": {
       "items": [
         {
+          "published": "2026-10-23T17:00:00+00:00",
+          "source": "OpenAI",
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+        },
+        {
           "published": "2026-10-23T04:00:00+00:00",
           "source": "TechCrunch",
-          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
           "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
         },
         {
@@ -13,15 +19,9 @@
           "source": "TechCrunch",
           "title": "Left alone with nothing to do, AI agents started playing",
           "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
-        },
-        {
-          "published": "2026-10-23T00:00:00+00:00",
-          "source": "OpenAI",
-          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
         }
       ],
-      "lastSuccess": "2026-10-23T11:49:35.012046+00:00",
+      "lastSuccess": "2026-10-23T17:16:48.305329+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,7 +39,7 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-23T11:49:35.012046+00:00",
+      "lastSuccess": "2026-10-23T17:16:48.305329+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
         }
       ],
-      "lastSuccess": "2026-10-23T11:49:35.012046+00:00",
+      "lastSuccess": "2026-10-23T17:16:48.305329+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-23T11:49:35.012046+00:00"
+  "lastChecked": "2026-10-23T17:16:48.305329+00:00"
 }
