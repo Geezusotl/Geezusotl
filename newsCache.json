@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-10-24T19:00:00+00:00",
+          "source": "TechCrunch",
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+        },
+        {
           "published": "2026-10-24T16:00:00+00:00",
           "source": "TechCrunch",
           "title": "Block’s new voice model sounds eerily human",
           "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
-        },
-        {
-          "published": "2026-10-24T15:00:00+00:00",
-          "source": "TechCrunch",
-          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
         },
         {
           "published": "2026-10-23T17:00:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
         }
       ],
-      "lastSuccess": "2026-10-24T16:03:59.562423+00:00",
+      "lastSuccess": "2026-10-24T20:58:17.365904+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,26 +39,26 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-24T16:03:59.562423+00:00",
+      "lastSuccess": "2026-10-24T20:58:17.365904+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-21T11:14:24+00:00",
+          "published": "2026-10-24T18:58:24+00:00",
           "source": "PC Gamer",
-          "title": "80% of Samsung's data center memory is already sold for 2027, meaning yet another double-digit price increase for RAM expected and more likely to come",
-          "url": "https://www.pcgamer.com/hardware/memory/80-percent-of-samsungs-data-center-memory-is-already-sold-for-2027-meaning-yet-another-double-digit-price-increase-for-ram-expected-and-more-likely-to-come/"
+          "title": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
+          "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/"
         },
         {
-          "published": "2026-10-21T11:14:04+00:00",
+          "published": "2026-10-24T18:10:01+00:00",
           "source": "PC Gamer",
-          "title": "110 million votes later Nurse Harrow has finally made it into Deadlock, with special thanks to a particularly dedicated player who 'cast exactly 1,000 votes for her'",
-          "url": "https://www.pcgamer.com/games/moba/110-million-votes-later-nurse-harrow-has-finally-made-it-into-deadlock-with-special-thanks-to-a-particularly-dedicated-player-who-cast-exactly-1-000-votes-for-her/"
+          "title": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
+          "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/"
         }
       ],
-      "lastSuccess": "2026-10-21T12:01:55.650393+00:00",
-      "unavailable": true
+      "lastSuccess": "2026-10-24T20:58:17.365904+00:00",
+      "unavailable": false
     },
     "Technology": {
       "items": [
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
         }
       ],
-      "lastSuccess": "2026-10-24T16:03:59.562423+00:00",
+      "lastSuccess": "2026-10-24T20:58:17.365904+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-24T16:03:59.562423+00:00"
+  "lastChecked": "2026-10-24T20:58:17.365904+00:00"
 }

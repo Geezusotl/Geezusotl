@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 24, 2026 at 16:03 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 24, 2026 at 20:58 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
+* [The AI graveyard: a running list of projects and startups that didn’t make it](<https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/>) · TechCrunch · Oct 24, 2026
 * [Block’s new voice model sounds eerily human](<https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/>) · TechCrunch · Oct 24, 2026
-* [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](<https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/>) · TechCrunch · Oct 24, 2026
 * [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](<https://openai.com/index/scaling-storage-one-billion-users-part-two>) · OpenAI · Oct 23, 2026
 
 ### Business and markets
@@ -48,10 +48,8 @@
 
 ### Gaming
 
-* [80% of Samsung's data center memory is already sold for 2027, meaning yet another double-digit price increase for RAM expected and more likely to come](<https://www.pcgamer.com/hardware/memory/80-percent-of-samsungs-data-center-memory-is-already-sold-for-2027-meaning-yet-another-double-digit-price-increase-for-ram-expected-and-more-likely-to-come/>) · PC Gamer · Oct 21, 2026
-* [110 million votes later Nurse Harrow has finally made it into Deadlock, with special thanks to a particularly dedicated player who 'cast exactly 1,000 votes for her'](<https://www.pcgamer.com/games/moba/110-million-votes-later-nurse-harrow-has-finally-made-it-into-deadlock-with-special-thanks-to-a-particularly-dedicated-player-who-cast-exactly-1-000-votes-for-her/>) · PC Gamer · Oct 21, 2026
-
-<sub>Source unavailable at the latest check. Showing headlines saved Oct 21 at 12:01 UTC.</sub>
+* [Top Xbox exec promoted in brand 'reset' leaves after 3 months in role](<https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/>) · PC Gamer · Oct 24, 2026
+* [Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges](<https://www.pcgamer.com/games/horror/penguin-colony-review/>) · PC Gamer · Oct 24, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
