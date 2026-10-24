@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 24, 2026 at 11:15 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 24, 2026 at 16:03 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
-* [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](<https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/>) · TechCrunch · Oct 23, 2026
-* [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](<https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/>) · TechCrunch · Oct 23, 2026
+* [Block’s new voice model sounds eerily human](<https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/>) · TechCrunch · Oct 24, 2026
+* [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](<https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/>) · TechCrunch · Oct 24, 2026
 * [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](<https://openai.com/index/scaling-storage-one-billion-users-part-two>) · OpenAI · Oct 23, 2026
 
 ### Business and markets
