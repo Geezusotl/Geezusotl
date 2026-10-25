@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-10-25T16:57:32+00:00",
+          "source": "TechCrunch",
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+        },
+        {
           "published": "2026-10-25T14:10:00+00:00",
           "source": "TechCrunch",
           "title": "The hottest AI wearables and gadgets you should know about",
           "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
-        },
-        {
-          "published": "2026-10-24T19:00:00+00:00",
-          "source": "TechCrunch",
-          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
         },
         {
           "published": "2026-10-23T17:00:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
         }
       ],
-      "lastSuccess": "2026-10-25T16:33:42.173214+00:00",
+      "lastSuccess": "2026-10-25T20:58:25.836594+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-25T16:33:42.173214+00:00",
+      "lastSuccess": "2026-10-25T20:58:25.836594+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-25T16:00:00+00:00",
+          "published": "2026-10-25T20:49:51+00:00",
           "source": "PC Gamer",
-          "title": "Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'",
-          "url": "https://www.pcgamer.com/gaming-industry/jordan-thomas-director-of-bioshock-2-played-path-of-exile-for-over-7-000-hours-while-working-on-co-op-horror-game-the-blackout-club-i-was-essentially-awake-all-the-time/"
+          "title": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
+          "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/"
         },
         {
-          "published": "2026-10-25T15:26:00+00:00",
+          "published": "2026-10-25T19:17:10+00:00",
           "source": "PC Gamer",
-          "title": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass",
-          "url": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/"
+          "title": "Indies and non-sequels have exploded in the last year, and it's not all friendslop",
+          "url": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/"
         }
       ],
-      "lastSuccess": "2026-10-25T16:33:42.173214+00:00",
+      "lastSuccess": "2026-10-25T20:58:25.836594+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
         }
       ],
-      "lastSuccess": "2026-10-25T16:33:42.173214+00:00",
+      "lastSuccess": "2026-10-25T20:58:25.836594+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-25T16:33:42.173214+00:00"
+  "lastChecked": "2026-10-25T20:58:25.836594+00:00"
 }

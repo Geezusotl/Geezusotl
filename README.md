@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 25, 2026 at 16:33 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 25, 2026 at 20:58 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
+* [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](<https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/>) · TechCrunch · Oct 25, 2026
 * [The hottest AI wearables and gadgets you should know about](<https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/>) · TechCrunch · Oct 25, 2026
-* [The AI graveyard: a running list of projects and startups that didn’t make it](<https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/>) · TechCrunch · Oct 24, 2026
 * [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](<https://openai.com/index/scaling-storage-one-billion-users-part-two>) · OpenAI · Oct 23, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'](<https://www.pcgamer.com/gaming-industry/jordan-thomas-director-of-bioshock-2-played-path-of-exile-for-over-7-000-hours-while-working-on-co-op-horror-game-the-blackout-club-i-was-essentially-awake-all-the-time/>) · PC Gamer · Oct 25, 2026
-* ['This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass](<https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/>) · PC Gamer · Oct 25, 2026
+* [Commander Shepard actors Jennifer Hale &amp; Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''](<https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/>) · PC Gamer · Oct 25, 2026
+* [Indies and non-sequels have exploded in the last year, and it's not all friendslop](<https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/>) · PC Gamer · Oct 25, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
