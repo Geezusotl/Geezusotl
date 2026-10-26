@@ -3,25 +3,25 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-25T21:31:16+00:00",
-          "source": "TechCrunch",
-          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
-        },
-        {
-          "published": "2026-10-25T16:57:32+00:00",
-          "source": "TechCrunch",
-          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
-        },
-        {
-          "published": "2026-10-23T17:00:00+00:00",
+          "published": "2026-10-26T22:00:00+00:00",
           "source": "OpenAI",
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra"
+        },
+        {
+          "published": "2026-10-26T16:49:42+00:00",
+          "source": "TechCrunch",
+          "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+          "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+        },
+        {
+          "published": "2026-10-26T14:35:22+00:00",
+          "source": "TechCrunch",
+          "title": "Anthropic officially files for its public debut",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
         }
       ],
-      "lastSuccess": "2026-10-26T13:17:58.630994+00:00",
+      "lastSuccess": "2026-10-26T22:45:58.563569+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-26T13:17:58.630994+00:00",
+      "lastSuccess": "2026-10-26T22:45:58.563569+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-26T12:28:15+00:00",
+          "published": "2026-10-26T21:57:24+00:00",
           "source": "PC Gamer",
-          "title": "Leaked video shows hundreds, possibly thousands of brand-new RTX 5090s being dismantled for AI server usage in Chinese factory",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/leaked-video-shows-hundreds-possibly-thousands-of-brand-new-rtx-5090s-being-dismantled-for-ai-server-usage-in-chinese-factory/"
+          "title": "One day before launch, ARPG Emberville gets delayed until 2027",
+          "url": "https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/"
         },
         {
-          "published": "2026-10-26T12:00:52+00:00",
+          "published": "2026-10-26T21:47:58+00:00",
           "source": "PC Gamer",
-          "title": "Korean police arrest cyberhacking gang reportedly led by self-taught hacker, who allegedly used AI to breach 60 firms and received a mere $210 in ransom",
-          "url": "https://www.pcgamer.com/hardware/korean-police-arrest-cyberhacking-gang-reportedly-led-by-self-taught-hacker-who-allegedly-used-ai-to-breach-60-firms-and-received-a-mere-usd210-in-ransom/"
+          "title": "A free 'micro' horror game from the maker of The Mortuary Assistant is basically if PT was an episode of Law and Order",
+          "url": "https://www.pcgamer.com/games/horror/a-free-micro-horror-game-from-the-maker-of-the-mortuary-assistant-is-basically-if-pt-was-an-episode-of-law-and-order/"
         }
       ],
-      "lastSuccess": "2026-10-26T13:17:58.630994+00:00",
+      "lastSuccess": "2026-10-26T22:45:58.563569+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
         }
       ],
-      "lastSuccess": "2026-10-26T13:17:58.630994+00:00",
+      "lastSuccess": "2026-10-26T22:45:58.563569+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-26T13:17:58.630994+00:00"
+  "lastChecked": "2026-10-26T22:45:58.563569+00:00"
 }

@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 26, 2026 at 13:17 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 26, 2026 at 22:45 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
-* [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](<https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/>) · TechCrunch · Oct 25, 2026
-* [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](<https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/>) · TechCrunch · Oct 25, 2026
-* [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](<https://openai.com/index/scaling-storage-one-billion-users-part-two>) · OpenAI · Oct 23, 2026
+* [Greptile takes bug detection beyond code review with GPT-6 Astra](<https://openai.com/index/greptile-code-review-codex-astra>) · OpenAI · Oct 26, 2026
+* [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](<https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/>) · TechCrunch · Oct 26, 2026
+* [Anthropic officially files for its public debut](<https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/>) · TechCrunch · Oct 26, 2026
 
 ### Business and markets
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Leaked video shows hundreds, possibly thousands of brand-new RTX 5090s being dismantled for AI server usage in Chinese factory](<https://www.pcgamer.com/hardware/graphics-cards/leaked-video-shows-hundreds-possibly-thousands-of-brand-new-rtx-5090s-being-dismantled-for-ai-server-usage-in-chinese-factory/>) · PC Gamer · Oct 26, 2026
-* [Korean police arrest cyberhacking gang reportedly led by self-taught hacker, who allegedly used AI to breach 60 firms and received a mere $210 in ransom](<https://www.pcgamer.com/hardware/korean-police-arrest-cyberhacking-gang-reportedly-led-by-self-taught-hacker-who-allegedly-used-ai-to-breach-60-firms-and-received-a-mere-usd210-in-ransom/>) · PC Gamer · Oct 26, 2026
+* [One day before launch, ARPG Emberville gets delayed until 2027](<https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/>) · PC Gamer · Oct 26, 2026
+* [A free 'micro' horror game from the maker of The Mortuary Assistant is basically if PT was an episode of Law and Order](<https://www.pcgamer.com/games/horror/a-free-micro-horror-game-from-the-maker-of-the-mortuary-assistant-is-basically-if-pt-was-an-episode-of-law-and-order/>) · PC Gamer · Oct 26, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
