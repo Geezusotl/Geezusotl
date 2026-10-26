@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 25, 2026 at 20:58 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 26, 2026 at 04:58 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
+* [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](<https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/>) · TechCrunch · Oct 25, 2026
 * [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](<https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/>) · TechCrunch · Oct 25, 2026
-* [The hottest AI wearables and gadgets you should know about](<https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/>) · TechCrunch · Oct 25, 2026
 * [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](<https://openai.com/index/scaling-storage-one-billion-users-part-two>) · OpenAI · Oct 23, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
+* [Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'](<https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/>) · PC Gamer · Oct 26, 2026
 * [Commander Shepard actors Jennifer Hale &amp; Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''](<https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/>) · PC Gamer · Oct 25, 2026
-* [Indies and non-sequels have exploded in the last year, and it's not all friendslop](<https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/>) · PC Gamer · Oct 25, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
