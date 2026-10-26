@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 26, 2026 at 04:58 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 26, 2026 at 13:17 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'](<https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/>) · PC Gamer · Oct 26, 2026
-* [Commander Shepard actors Jennifer Hale &amp; Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''](<https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/>) · PC Gamer · Oct 25, 2026
+* [Leaked video shows hundreds, possibly thousands of brand-new RTX 5090s being dismantled for AI server usage in Chinese factory](<https://www.pcgamer.com/hardware/graphics-cards/leaked-video-shows-hundreds-possibly-thousands-of-brand-new-rtx-5090s-being-dismantled-for-ai-server-usage-in-chinese-factory/>) · PC Gamer · Oct 26, 2026
+* [Korean police arrest cyberhacking gang reportedly led by self-taught hacker, who allegedly used AI to breach 60 firms and received a mere $210 in ransom](<https://www.pcgamer.com/hardware/korean-police-arrest-cyberhacking-gang-reportedly-led-by-self-taught-hacker-who-allegedly-used-ai-to-breach-60-firms-and-received-a-mere-usd210-in-ransom/>) · PC Gamer · Oct 26, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
