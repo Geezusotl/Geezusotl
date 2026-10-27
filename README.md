@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 27, 2026 at 05:16 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 27, 2026 at 12:25 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
+* [Nvidia backs Indian startup helping companies run AI models with fewer GPUs](<https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/>) · TechCrunch · Oct 27, 2026
 * [How OpenAI turned its coding tools into dots, an always-on personal assistant](<https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/>) · TechCrunch · Oct 27, 2026
-* [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](<https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/>) · TechCrunch · Oct 27, 2026
 * [Greptile takes bug detection beyond code review with GPT-6 Astra](<https://openai.com/index/greptile-code-review-codex-astra>) · OpenAI · Oct 26, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [This gaming monitor goes ultra high-tech to deliver an incredible gaming experience](<https://www.pcgamer.com/hardware/gaming-monitors/this-gaming-monitor-goes-ultra-high-tech-to-deliver-an-incredible-gaming-experience/>) · PC Gamer · Oct 27, 2026
-* [The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop](<https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/>) · PC Gamer · Oct 27, 2026
+* [Dark Messiah's new edition adds co-op, cut content and console-exclusive maps to the 20-year-old orc-kicking extravaganza, and it's coming to Steam this year](<https://www.pcgamer.com/games/rpg/dark-messiahs-new-edition-adds-co-op-cut-content-and-console-exclusive-maps-to-the-20-year-old-orc-kicking-extravaganza-and-its-coming-to-steam-this-year/>) · PC Gamer · Oct 27, 2026
+* [Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'](<https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/>) · PC Gamer · Oct 27, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
