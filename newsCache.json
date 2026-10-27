@@ -3,25 +3,25 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-27T11:00:00+00:00",
+          "published": "2026-10-27T21:44:34+00:00",
           "source": "TechCrunch",
-          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-          "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+          "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+          "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
         },
         {
-          "published": "2026-10-27T02:00:00+00:00",
+          "published": "2026-10-27T21:38:28+00:00",
           "source": "TechCrunch",
-          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+          "title": "Who’s really in charge at Anthropic after the IPO?",
+          "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
         },
         {
-          "published": "2026-10-26T22:00:00+00:00",
+          "published": "2026-10-27T07:00:00+00:00",
           "source": "OpenAI",
-          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra"
+          "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt"
         }
       ],
-      "lastSuccess": "2026-10-27T12:25:40.743643+00:00",
+      "lastSuccess": "2026-10-27T22:24:34.314726+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-27T12:25:40.743643+00:00",
+      "lastSuccess": "2026-10-27T22:24:34.314726+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-27T12:11:37+00:00",
+          "published": "2026-10-27T21:53:41+00:00",
           "source": "PC Gamer",
-          "title": "Dark Messiah's new edition adds co-op, cut content and console-exclusive maps to the 20-year-old orc-kicking extravaganza, and it's coming to Steam this year",
-          "url": "https://www.pcgamer.com/games/rpg/dark-messiahs-new-edition-adds-co-op-cut-content-and-console-exclusive-maps-to-the-20-year-old-orc-kicking-extravaganza-and-its-coming-to-steam-this-year/"
+          "title": "Messages in certain large public Discord servers will be searchable on the web after December",
+          "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/"
         },
         {
-          "published": "2026-10-27T11:55:58+00:00",
+          "published": "2026-10-27T21:12:29+00:00",
           "source": "PC Gamer",
-          "title": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
-          "url": "https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/"
+          "title": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
+          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/"
         }
       ],
-      "lastSuccess": "2026-10-27T12:25:40.743643+00:00",
+      "lastSuccess": "2026-10-27T22:24:34.314726+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
         }
       ],
-      "lastSuccess": "2026-10-27T12:25:40.743643+00:00",
+      "lastSuccess": "2026-10-27T22:24:34.314726+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-27T12:25:40.743643+00:00"
+  "lastChecked": "2026-10-27T22:24:34.314726+00:00"
 }

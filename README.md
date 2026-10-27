@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 27, 2026 at 12:25 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 27, 2026 at 22:24 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
-* [Nvidia backs Indian startup helping companies run AI models with fewer GPUs](<https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/>) · TechCrunch · Oct 27, 2026
-* [How OpenAI turned its coding tools into dots, an always-on personal assistant](<https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/>) · TechCrunch · Oct 27, 2026
-* [Greptile takes bug detection beyond code review with GPT-6 Astra](<https://openai.com/index/greptile-code-review-codex-astra>) · OpenAI · Oct 26, 2026
+* [Bank of America kindly asks that you don’t share your banking password with your AI assistant](<https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/>) · TechCrunch · Oct 27, 2026
+* [Who’s really in charge at Anthropic after the IPO?](<https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/>) · TechCrunch · Oct 27, 2026
+* [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](<https://openai.com/index/oracle-apps-in-chatgpt>) · OpenAI · Oct 27, 2026
 
 ### Business and markets
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Dark Messiah's new edition adds co-op, cut content and console-exclusive maps to the 20-year-old orc-kicking extravaganza, and it's coming to Steam this year](<https://www.pcgamer.com/games/rpg/dark-messiahs-new-edition-adds-co-op-cut-content-and-console-exclusive-maps-to-the-20-year-old-orc-kicking-extravaganza-and-its-coming-to-steam-this-year/>) · PC Gamer · Oct 27, 2026
-* [Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'](<https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/>) · PC Gamer · Oct 27, 2026
+* [Messages in certain large public Discord servers will be searchable on the web after December](<https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/>) · PC Gamer · Oct 27, 2026
+* [Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day](<https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/>) · PC Gamer · Oct 27, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
