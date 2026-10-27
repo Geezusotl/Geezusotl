@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 26, 2026 at 22:45 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 27, 2026 at 05:16 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
+* [How OpenAI turned its coding tools into dots, an always-on personal assistant](<https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/>) · TechCrunch · Oct 27, 2026
+* [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](<https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/>) · TechCrunch · Oct 27, 2026
 * [Greptile takes bug detection beyond code review with GPT-6 Astra](<https://openai.com/index/greptile-code-review-codex-astra>) · OpenAI · Oct 26, 2026
-* [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](<https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/>) · TechCrunch · Oct 26, 2026
-* [Anthropic officially files for its public debut](<https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/>) · TechCrunch · Oct 26, 2026
 
 ### Business and markets
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [One day before launch, ARPG Emberville gets delayed until 2027](<https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/>) · PC Gamer · Oct 26, 2026
-* [A free 'micro' horror game from the maker of The Mortuary Assistant is basically if PT was an episode of Law and Order](<https://www.pcgamer.com/games/horror/a-free-micro-horror-game-from-the-maker-of-the-mortuary-assistant-is-basically-if-pt-was-an-episode-of-law-and-order/>) · PC Gamer · Oct 26, 2026
+* [This gaming monitor goes ultra high-tech to deliver an incredible gaming experience](<https://www.pcgamer.com/hardware/gaming-monitors/this-gaming-monitor-goes-ultra-high-tech-to-deliver-an-incredible-gaming-experience/>) · PC Gamer · Oct 27, 2026
+* [The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop](<https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/>) · PC Gamer · Oct 27, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
