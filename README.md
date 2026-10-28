@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 28, 2026 at 13:12 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 28, 2026 at 22:41 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
-* [Legora is building the agentic operating system for legal work](<https://openai.com/index/legora-agentic-operating-system-for-legal-work>) · OpenAI · Oct 28, 2026
-* [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](<https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/>) · TechCrunch · Oct 28, 2026
-* [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](<https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/>) · TechCrunch · Oct 27, 2026
+* [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](<https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/>) · TechCrunch · Oct 28, 2026
+* [Google expands AI Search ads globally as core ad growth slows](<https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/>) · TechCrunch · Oct 28, 2026
+* [OpenAI and ServiceNow expand partnership across enterprise workflows](<https://openai.com/index/openai-servicenow-partnership-expansion>) · OpenAI · Oct 28, 2026
 
 ### Business and markets
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Here's the Crimson Desert: Charting the Unknown release time for your region](<https://www.pcgamer.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-date-launch-times/>) · PC Gamer · Oct 28, 2026
-* [FF14's new Evolved jobs won't deal a 'huge amount' more damage than their Reborn counterparts, says Koji Fox](<https://www.pcgamer.com/games/mmo/ff14s-new-evolved-jobs-wont-deal-a-huge-amount-more-damage-than-their-reborn-counterparts-says-koji-fox/>) · PC Gamer · Oct 28, 2026
+* [Epic Games chief Tim Sweeney claims 'Valve has held gaming back for years'](<https://www.pcgamer.com/software/platforms/epic-games-chief-tim-sweeney-claims-valve-has-held-gaming-back-for-years/>) · PC Gamer · Oct 28, 2026
+* [WoW: Forever's update schedule will be 'a little more laid back' than the main MMO](<https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-update-schedule-will-be-a-little-more-laid-back-than-the-main-mmo/>) · PC Gamer · Oct 28, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

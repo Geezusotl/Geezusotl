@@ -3,25 +3,25 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-28T09:30:00+00:00",
+          "published": "2026-10-28T21:58:32+00:00",
+          "source": "TechCrunch",
+          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+        },
+        {
+          "published": "2026-10-28T21:48:37+00:00",
+          "source": "TechCrunch",
+          "title": "Google expands AI Search ads globally as core ad growth slows",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+        },
+        {
+          "published": "2026-10-28T13:15:00+00:00",
           "source": "OpenAI",
-          "title": "Legora is building the agentic operating system for legal work",
-          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
-        },
-        {
-          "published": "2026-10-28T01:15:28+00:00",
-          "source": "TechCrunch",
-          "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
-        },
-        {
-          "published": "2026-10-27T23:34:27+00:00",
-          "source": "TechCrunch",
-          "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
         }
       ],
-      "lastSuccess": "2026-10-28T13:12:32.694458+00:00",
+      "lastSuccess": "2026-10-28T22:41:36.202984+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-28T13:12:32.694458+00:00",
+      "lastSuccess": "2026-10-28T22:41:36.202984+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-28T12:14:17+00:00",
+          "published": "2026-10-28T21:00:20+00:00",
           "source": "PC Gamer",
-          "title": "Here's the Crimson Desert: Charting the Unknown release time for your region",
-          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-date-launch-times/"
+          "title": "Epic Games chief Tim Sweeney claims 'Valve has held gaming back for years'",
+          "url": "https://www.pcgamer.com/software/platforms/epic-games-chief-tim-sweeney-claims-valve-has-held-gaming-back-for-years/"
         },
         {
-          "published": "2026-10-28T11:58:20+00:00",
+          "published": "2026-10-28T20:10:35+00:00",
           "source": "PC Gamer",
-          "title": "FF14's new Evolved jobs won't deal a 'huge amount' more damage than their Reborn counterparts, says Koji Fox",
-          "url": "https://www.pcgamer.com/games/mmo/ff14s-new-evolved-jobs-wont-deal-a-huge-amount-more-damage-than-their-reborn-counterparts-says-koji-fox/"
+          "title": "WoW: Forever's update schedule will be 'a little more laid back' than the main MMO",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-update-schedule-will-be-a-little-more-laid-back-than-the-main-mmo/"
         }
       ],
-      "lastSuccess": "2026-10-28T13:12:32.694458+00:00",
+      "lastSuccess": "2026-10-28T22:41:36.202984+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
         }
       ],
-      "lastSuccess": "2026-10-28T13:12:32.694458+00:00",
+      "lastSuccess": "2026-10-28T22:41:36.202984+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-28T13:12:32.694458+00:00"
+  "lastChecked": "2026-10-28T22:41:36.202984+00:00"
 }
