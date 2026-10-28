@@ -3,25 +3,25 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-27T21:44:34+00:00",
+          "published": "2026-10-28T01:15:28+00:00",
           "source": "TechCrunch",
-          "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-          "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+          "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
         },
         {
-          "published": "2026-10-27T21:38:28+00:00",
+          "published": "2026-10-27T23:34:27+00:00",
           "source": "TechCrunch",
-          "title": "Who’s really in charge at Anthropic after the IPO?",
-          "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
+          "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
         },
         {
-          "published": "2026-10-27T07:00:00+00:00",
+          "published": "2026-10-27T15:00:00+00:00",
           "source": "OpenAI",
-          "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+          "title": "Retell uses OpenAI models to help power 100M monthly calls",
+          "url": "https://openai.com/index/retell-ai"
         }
       ],
-      "lastSuccess": "2026-10-27T22:24:34.314726+00:00",
+      "lastSuccess": "2026-10-28T05:54:51.075269+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,45 +39,45 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-27T22:24:34.314726+00:00",
+      "lastSuccess": "2026-10-28T05:54:51.075269+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-27T21:53:41+00:00",
+          "published": "2026-10-28T02:00:00+00:00",
           "source": "PC Gamer",
-          "title": "Messages in certain large public Discord servers will be searchable on the web after December",
-          "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/"
+          "title": "Here's the Phantom Blade Zero release time for your region",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/"
         },
         {
-          "published": "2026-10-27T21:12:29+00:00",
+          "published": "2026-10-27T22:23:23+00:00",
           "source": "PC Gamer",
-          "title": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
-          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/"
+          "title": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/"
         }
       ],
-      "lastSuccess": "2026-10-27T22:24:34.314726+00:00",
+      "lastSuccess": "2026-10-28T05:54:51.075269+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
+          "published": "2026-10-27T20:25:55+00:00",
+          "source": "Ars Technica",
+          "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+          "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+        },
+        {
           "published": "2026-10-22T20:17:52+00:00",
           "source": "Ars Technica",
           "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
           "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
-        },
-        {
-          "published": "2026-10-22T11:30:33+00:00",
-          "source": "Ars Technica",
-          "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-          "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
         }
       ],
-      "lastSuccess": "2026-10-27T22:24:34.314726+00:00",
+      "lastSuccess": "2026-10-28T05:54:51.075269+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-27T22:24:34.314726+00:00"
+  "lastChecked": "2026-10-28T05:54:51.075269+00:00"
 }

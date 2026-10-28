@@ -28,18 +28,18 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 27, 2026 at 22:24 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 28, 2026 at 05:54 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Code-execution flaw in UEFI firmware affects most servers on planet Earth](<https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/>) · Ars Technica · Oct 27, 2026
 * [Disgraced eMudhra drops out of TLS business after using cert private key of 4](<https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/>) · Ars Technica · Oct 22, 2026
-* [333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email](<https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/>) · Ars Technica · Oct 22, 2026
 
 ### AI
 
-* [Bank of America kindly asks that you don’t share your banking password with your AI assistant](<https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/>) · TechCrunch · Oct 27, 2026
-* [Who’s really in charge at Anthropic after the IPO?](<https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/>) · TechCrunch · Oct 27, 2026
-* [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](<https://openai.com/index/oracle-apps-in-chatgpt>) · OpenAI · Oct 27, 2026
+* [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](<https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/>) · TechCrunch · Oct 28, 2026
+* [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](<https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/>) · TechCrunch · Oct 27, 2026
+* [Retell uses OpenAI models to help power 100M monthly calls](<https://openai.com/index/retell-ai>) · OpenAI · Oct 27, 2026
 
 ### Business and markets
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Messages in certain large public Discord servers will be searchable on the web after December](<https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/>) · PC Gamer · Oct 27, 2026
-* [Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day](<https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/>) · PC Gamer · Oct 27, 2026
+* [Here's the Phantom Blade Zero release time for your region](<https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/>) · PC Gamer · Oct 28, 2026
+* [Rockstar will hold union vote right on top of Grand Theft Auto 6 release](<https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/>) · PC Gamer · Oct 27, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
