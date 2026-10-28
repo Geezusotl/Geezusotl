@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 28, 2026 at 05:54 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 28, 2026 at 13:12 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
+* [Legora is building the agentic operating system for legal work](<https://openai.com/index/legora-agentic-operating-system-for-legal-work>) · OpenAI · Oct 28, 2026
 * [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](<https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/>) · TechCrunch · Oct 28, 2026
 * [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](<https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/>) · TechCrunch · Oct 27, 2026
-* [Retell uses OpenAI models to help power 100M monthly calls](<https://openai.com/index/retell-ai>) · OpenAI · Oct 27, 2026
 
 ### Business and markets
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Here's the Phantom Blade Zero release time for your region](<https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/>) · PC Gamer · Oct 28, 2026
-* [Rockstar will hold union vote right on top of Grand Theft Auto 6 release](<https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/>) · PC Gamer · Oct 27, 2026
+* [Here's the Crimson Desert: Charting the Unknown release time for your region](<https://www.pcgamer.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-date-launch-times/>) · PC Gamer · Oct 28, 2026
+* [FF14's new Evolved jobs won't deal a 'huge amount' more damage than their Reborn counterparts, says Koji Fox](<https://www.pcgamer.com/games/mmo/ff14s-new-evolved-jobs-wont-deal-a-huge-amount-more-damage-than-their-reborn-counterparts-says-koji-fox/>) · PC Gamer · Oct 28, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
