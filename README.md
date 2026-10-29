@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 28, 2026 at 22:41 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 29, 2026 at 05:59 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Epic Games chief Tim Sweeney claims 'Valve has held gaming back for years'](<https://www.pcgamer.com/software/platforms/epic-games-chief-tim-sweeney-claims-valve-has-held-gaming-back-for-years/>) · PC Gamer · Oct 28, 2026
-* [WoW: Forever's update schedule will be 'a little more laid back' than the main MMO](<https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-update-schedule-will-be-a-little-more-laid-back-than-the-main-mmo/>) · PC Gamer · Oct 28, 2026
+* [How to complete Whence the Weeping in Phantom Blade Zero](<https://www.pcgamer.com/games/action/phantom-blade-zero-whence-the-weeping-walkthrough/>) · PC Gamer · Oct 29, 2026
+* [How to upgrade medicine in Phantom Blade Zero](<https://www.pcgamer.com/games/action/phantom-blade-zero-upgrade-medicine/>) · PC Gamer · Oct 29, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
