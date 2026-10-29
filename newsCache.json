@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
         }
       ],
-      "lastSuccess": "2026-10-29T05:59:21.138304+00:00",
+      "lastSuccess": "2026-10-29T13:19:07.291661+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-29T05:59:21.138304+00:00",
+      "lastSuccess": "2026-10-29T13:19:07.291661+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-29T02:00:00+00:00",
+          "published": "2026-10-29T12:49:29+00:00",
           "source": "PC Gamer",
-          "title": "How to complete Whence the Weeping in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-whence-the-weeping-walkthrough/"
+          "title": "Over $12 million worth of AI chips seized by Malaysian authorities after suspected smuggling syndicate tries to sneak servers through customs under false pretenses",
+          "url": "https://www.pcgamer.com/software/ai/over-usd12-million-worth-of-ai-chips-seized-by-malaysian-authorities-after-suspected-smuggling-syndicate-tries-to-sneak-servers-through-customs-under-false-pretenses/"
         },
         {
-          "published": "2026-10-29T02:00:00+00:00",
+          "published": "2026-10-29T11:53:40+00:00",
           "source": "PC Gamer",
-          "title": "How to upgrade medicine in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-upgrade-medicine/"
+          "title": "'It’s so much easier to steal this than to rob a bank': $100,000,000+ worth of AI data center freight reportedly stolen since June",
+          "url": "https://www.pcgamer.com/software/ai/its-so-much-easier-to-steal-this-than-to-rob-a-bank-usd100-000-000-worth-of-ai-data-center-freight-reportedly-stolen-since-june/"
         }
       ],
-      "lastSuccess": "2026-10-29T05:59:21.138304+00:00",
+      "lastSuccess": "2026-10-29T13:19:07.291661+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
         }
       ],
-      "lastSuccess": "2026-10-29T05:59:21.138304+00:00",
+      "lastSuccess": "2026-10-29T13:19:07.291661+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-29T05:59:21.138304+00:00"
+  "lastChecked": "2026-10-29T13:19:07.291661+00:00"
 }

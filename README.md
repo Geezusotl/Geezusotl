@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 29, 2026 at 05:59 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 29, 2026 at 13:19 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [How to complete Whence the Weeping in Phantom Blade Zero](<https://www.pcgamer.com/games/action/phantom-blade-zero-whence-the-weeping-walkthrough/>) · PC Gamer · Oct 29, 2026
-* [How to upgrade medicine in Phantom Blade Zero](<https://www.pcgamer.com/games/action/phantom-blade-zero-upgrade-medicine/>) · PC Gamer · Oct 29, 2026
+* [Over $12 million worth of AI chips seized by Malaysian authorities after suspected smuggling syndicate tries to sneak servers through customs under false pretenses](<https://www.pcgamer.com/software/ai/over-usd12-million-worth-of-ai-chips-seized-by-malaysian-authorities-after-suspected-smuggling-syndicate-tries-to-sneak-servers-through-customs-under-false-pretenses/>) · PC Gamer · Oct 29, 2026
+* ['It’s so much easier to steal this than to rob a bank': $100,000,000+ worth of AI data center freight reportedly stolen since June](<https://www.pcgamer.com/software/ai/its-so-much-easier-to-steal-this-than-to-rob-a-bank-usd100-000-000-worth-of-ai-data-center-freight-reportedly-stolen-since-june/>) · PC Gamer · Oct 29, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
