@@ -3,25 +3,25 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-28T21:58:32+00:00",
+          "published": "2026-10-29T20:05:47+00:00",
           "source": "TechCrunch",
-          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+          "title": "Rivian expands joint venture with VW to include AI assistant",
+          "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
         },
         {
-          "published": "2026-10-28T21:48:37+00:00",
+          "published": "2026-10-29T19:56:19+00:00",
           "source": "TechCrunch",
-          "title": "Google expands AI Search ads globally as core ad growth slows",
-          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+          "title": "OpenAI-backed Thrive Holdings acquires ADT",
+          "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
         },
         {
-          "published": "2026-10-28T13:15:00+00:00",
+          "published": "2026-10-29T17:00:00+00:00",
           "source": "OpenAI",
-          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec"
         }
       ],
-      "lastSuccess": "2026-10-29T13:19:07.291661+00:00",
+      "lastSuccess": "2026-10-29T22:50:53.778159+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-29T13:19:07.291661+00:00",
+      "lastSuccess": "2026-10-29T22:50:53.778159+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-29T12:49:29+00:00",
+          "published": "2026-10-29T22:00:00+00:00",
           "source": "PC Gamer",
-          "title": "Over $12 million worth of AI chips seized by Malaysian authorities after suspected smuggling syndicate tries to sneak servers through customs under false pretenses",
-          "url": "https://www.pcgamer.com/software/ai/over-usd12-million-worth-of-ai-chips-seized-by-malaysian-authorities-after-suspected-smuggling-syndicate-tries-to-sneak-servers-through-customs-under-false-pretenses/"
+          "title": "How to start the Charting the Unknown DLC in Crimson Desert",
+          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/"
         },
         {
-          "published": "2026-10-29T11:53:40+00:00",
+          "published": "2026-10-29T21:47:36+00:00",
           "source": "PC Gamer",
-          "title": "'It’s so much easier to steal this than to rob a bank': $100,000,000+ worth of AI data center freight reportedly stolen since June",
-          "url": "https://www.pcgamer.com/software/ai/its-so-much-easier-to-steal-this-than-to-rob-a-bank-usd100-000-000-worth-of-ai-data-center-freight-reportedly-stolen-since-june/"
+          "title": "'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'",
+          "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/"
         }
       ],
-      "lastSuccess": "2026-10-29T13:19:07.291661+00:00",
+      "lastSuccess": "2026-10-29T22:50:53.778159+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
         }
       ],
-      "lastSuccess": "2026-10-29T13:19:07.291661+00:00",
+      "lastSuccess": "2026-10-29T22:50:53.778159+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-29T13:19:07.291661+00:00"
+  "lastChecked": "2026-10-29T22:50:53.778159+00:00"
 }

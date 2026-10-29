@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 29, 2026 at 13:19 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 29, 2026 at 22:50 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
-* [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](<https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/>) · TechCrunch · Oct 28, 2026
-* [Google expands AI Search ads globally as core ad growth slows](<https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/>) · TechCrunch · Oct 28, 2026
-* [OpenAI and ServiceNow expand partnership across enterprise workflows](<https://openai.com/index/openai-servicenow-partnership-expansion>) · OpenAI · Oct 28, 2026
+* [Rivian expands joint venture with VW to include AI assistant](<https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/>) · TechCrunch · Oct 29, 2026
+* [OpenAI-backed Thrive Holdings acquires ADT](<https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/>) · TechCrunch · Oct 29, 2026
+* [An updated Model Spec for more capable and beneficial AI](<https://openai.com/index/updated-model-spec>) · OpenAI · Oct 29, 2026
 
 ### Business and markets
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Over $12 million worth of AI chips seized by Malaysian authorities after suspected smuggling syndicate tries to sneak servers through customs under false pretenses](<https://www.pcgamer.com/software/ai/over-usd12-million-worth-of-ai-chips-seized-by-malaysian-authorities-after-suspected-smuggling-syndicate-tries-to-sneak-servers-through-customs-under-false-pretenses/>) · PC Gamer · Oct 29, 2026
-* ['It’s so much easier to steal this than to rob a bank': $100,000,000+ worth of AI data center freight reportedly stolen since June](<https://www.pcgamer.com/software/ai/its-so-much-easier-to-steal-this-than-to-rob-a-bank-usd100-000-000-worth-of-ai-data-center-freight-reportedly-stolen-since-june/>) · PC Gamer · Oct 29, 2026
+* [How to start the Charting the Unknown DLC in Crimson Desert](<https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/>) · PC Gamer · Oct 29, 2026
+* ['None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'](<https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/>) · PC Gamer · Oct 29, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
