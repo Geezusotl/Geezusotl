@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 30, 2026 at 13:10 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 30, 2026 at 22:28 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
-* [Can AI data centers be mass-produced like cars? This startup aims to find out](<https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/>) · TechCrunch · Oct 30, 2026
-* [You don’t need to believe in a god to get a religious exemption from using AI at work](<https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/>) · TechCrunch · Oct 30, 2026
-* [An updated Model Spec for more capable and beneficial AI](<https://openai.com/index/updated-model-spec>) · OpenAI · Oct 29, 2026
+* [Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says](<https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/>) · TechCrunch · Oct 30, 2026
+* [Cracks are emerging in the AI spending boom](<https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/>) · TechCrunch · Oct 30, 2026
+* [Making it easier for websites to express AI training preferences](<https://openai.com/index/helping-websites-express-ai-training-preferences>) · OpenAI · Oct 30, 2026
 
 ### Business and markets
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Intel shifts Panther Lake capacity to data center chips while the memory crisis wreaks havoc on PC market; still sold out of budget Wildcat Lake chips](<https://www.pcgamer.com/hardware/processors/intel-shifts-panther-lake-capacity-to-data-center-chips-while-the-memory-crisis-wreaks-havoc-on-pc-market-still-sold-out-of-budget-wildcat-lake-chips/>) · PC Gamer · Oct 30, 2026
-* [Kane Parsons believes his interpretation of the backrooms is 'minor cultural shorthand' for the abstract space—just look at South Park's recent episode](<https://www.pcgamer.com/movies-tv/kane-parsons-believes-his-interpretation-of-the-backrooms-is-minor-cultural-shorthand-for-the-abstract-space-just-look-at-south-parks-recent-episode/>) · PC Gamer · Oct 30, 2026
+* [AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone](<https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/>) · PC Gamer · Oct 30, 2026
+* [Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month](<https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/>) · PC Gamer · Oct 30, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
