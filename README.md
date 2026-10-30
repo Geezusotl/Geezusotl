@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 29, 2026 at 22:50 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 30, 2026 at 06:00 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
+* [You don’t need to believe in a god to get a religious exemption from using AI at work](<https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/>) · TechCrunch · Oct 30, 2026
 * [Rivian expands joint venture with VW to include AI assistant](<https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/>) · TechCrunch · Oct 29, 2026
-* [OpenAI-backed Thrive Holdings acquires ADT](<https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/>) · TechCrunch · Oct 29, 2026
 * [An updated Model Spec for more capable and beneficial AI](<https://openai.com/index/updated-model-spec>) · OpenAI · Oct 29, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
+* [Reddit will switch to a 'logged-in only experience'](<https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/>) · PC Gamer · Oct 29, 2026
 * [How to start the Charting the Unknown DLC in Crimson Desert](<https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/>) · PC Gamer · Oct 29, 2026
-* ['None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'](<https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/>) · PC Gamer · Oct 29, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
