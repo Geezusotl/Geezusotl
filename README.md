@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 30, 2026 at 06:00 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 30, 2026 at 13:10 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
+* [Can AI data centers be mass-produced like cars? This startup aims to find out](<https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/>) · TechCrunch · Oct 30, 2026
 * [You don’t need to believe in a god to get a religious exemption from using AI at work](<https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/>) · TechCrunch · Oct 30, 2026
-* [Rivian expands joint venture with VW to include AI assistant](<https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/>) · TechCrunch · Oct 29, 2026
 * [An updated Model Spec for more capable and beneficial AI](<https://openai.com/index/updated-model-spec>) · OpenAI · Oct 29, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Reddit will switch to a 'logged-in only experience'](<https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/>) · PC Gamer · Oct 29, 2026
-* [How to start the Charting the Unknown DLC in Crimson Desert](<https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/>) · PC Gamer · Oct 29, 2026
+* [Intel shifts Panther Lake capacity to data center chips while the memory crisis wreaks havoc on PC market; still sold out of budget Wildcat Lake chips](<https://www.pcgamer.com/hardware/processors/intel-shifts-panther-lake-capacity-to-data-center-chips-while-the-memory-crisis-wreaks-havoc-on-pc-market-still-sold-out-of-budget-wildcat-lake-chips/>) · PC Gamer · Oct 30, 2026
+* [Kane Parsons believes his interpretation of the backrooms is 'minor cultural shorthand' for the abstract space—just look at South Park's recent episode](<https://www.pcgamer.com/movies-tv/kane-parsons-believes-his-interpretation-of-the-backrooms-is-minor-cultural-shorthand-for-the-abstract-space-just-look-at-south-parks-recent-episode/>) · PC Gamer · Oct 30, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

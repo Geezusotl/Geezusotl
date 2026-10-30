@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-10-30T13:00:00+00:00",
+          "source": "TechCrunch",
+          "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+          "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
+        },
+        {
           "published": "2026-10-30T01:20:48+00:00",
           "source": "TechCrunch",
           "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
           "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
-        },
-        {
-          "published": "2026-10-29T20:05:47+00:00",
-          "source": "TechCrunch",
-          "title": "Rivian expands joint venture with VW to include AI assistant",
-          "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
         },
         {
           "published": "2026-10-29T17:00:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/updated-model-spec"
         }
       ],
-      "lastSuccess": "2026-10-30T06:00:17.895601+00:00",
+      "lastSuccess": "2026-10-30T13:10:50.356132+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-30T06:00:17.895601+00:00",
+      "lastSuccess": "2026-10-30T13:10:50.356132+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-29T23:58:10+00:00",
+          "published": "2026-10-30T12:38:22+00:00",
           "source": "PC Gamer",
-          "title": "Reddit will switch to a 'logged-in only experience'",
-          "url": "https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/"
+          "title": "Intel shifts Panther Lake capacity to data center chips while the memory crisis wreaks havoc on PC market; still sold out of budget Wildcat Lake chips",
+          "url": "https://www.pcgamer.com/hardware/processors/intel-shifts-panther-lake-capacity-to-data-center-chips-while-the-memory-crisis-wreaks-havoc-on-pc-market-still-sold-out-of-budget-wildcat-lake-chips/"
         },
         {
-          "published": "2026-10-29T22:00:00+00:00",
+          "published": "2026-10-30T12:05:23+00:00",
           "source": "PC Gamer",
-          "title": "How to start the Charting the Unknown DLC in Crimson Desert",
-          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/"
+          "title": "Kane Parsons believes his interpretation of the backrooms is 'minor cultural shorthand' for the abstract space—just look at South Park's recent episode",
+          "url": "https://www.pcgamer.com/movies-tv/kane-parsons-believes-his-interpretation-of-the-backrooms-is-minor-cultural-shorthand-for-the-abstract-space-just-look-at-south-parks-recent-episode/"
         }
       ],
-      "lastSuccess": "2026-10-30T06:00:17.895601+00:00",
+      "lastSuccess": "2026-10-30T13:10:50.356132+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
         }
       ],
-      "lastSuccess": "2026-10-30T06:00:17.895601+00:00",
+      "lastSuccess": "2026-10-30T13:10:50.356132+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-30T06:00:17.895601+00:00"
+  "lastChecked": "2026-10-30T13:10:50.356132+00:00"
 }
