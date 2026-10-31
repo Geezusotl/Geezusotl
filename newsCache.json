@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-31T01:20:05+00:00",
+          "published": "2026-10-31T21:41:00+00:00",
           "source": "TechCrunch",
-          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
         },
         {
-          "published": "2026-10-30T22:56:13+00:00",
+          "published": "2026-10-31T16:12:55+00:00",
           "source": "TechCrunch",
-          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+          "title": "OpenAI reportedly lowers funding target for new round",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
         },
         {
           "published": "2026-10-30T09:30:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
         }
       ],
-      "lastSuccess": "2026-10-31T12:46:51.026687+00:00",
+      "lastSuccess": "2026-10-31T21:43:29.456164+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-31T12:46:51.026687+00:00",
+      "lastSuccess": "2026-10-31T21:43:29.456164+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-30T20:39:57+00:00",
+          "published": "2026-10-31T21:40:23+00:00",
           "source": "PC Gamer",
-          "title": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone",
-          "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/"
+          "title": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
+          "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/"
         },
         {
-          "published": "2026-10-30T20:30:00+00:00",
+          "published": "2026-10-31T21:11:46+00:00",
           "source": "PC Gamer",
-          "title": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month",
-          "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/"
+          "title": "Fanfiction Library of Alexandria AO3 down for up to a month following hack",
+          "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/"
         }
       ],
-      "lastSuccess": "2026-10-31T12:46:51.026687+00:00",
+      "lastSuccess": "2026-10-31T21:43:29.456164+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
         }
       ],
-      "lastSuccess": "2026-10-31T12:46:51.026687+00:00",
+      "lastSuccess": "2026-10-31T21:43:29.456164+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-31T12:46:51.026687+00:00"
+  "lastChecked": "2026-10-31T21:43:29.456164+00:00"
 }

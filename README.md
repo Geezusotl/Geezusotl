@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 31, 2026 at 12:46 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 31, 2026 at 21:43 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
-* [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](<https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/>) · TechCrunch · Oct 31, 2026
-* [Ollie, a privacy-focused AI assistant, is shutting down](<https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/>) · TechCrunch · Oct 30, 2026
+* [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](<https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/>) · TechCrunch · Oct 31, 2026
+* [OpenAI reportedly lowers funding target for new round](<https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/>) · TechCrunch · Oct 31, 2026
 * [Making it easier for websites to express AI training preferences](<https://openai.com/index/helping-websites-express-ai-training-preferences>) · OpenAI · Oct 30, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone](<https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/>) · PC Gamer · Oct 30, 2026
-* [Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month](<https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/>) · PC Gamer · Oct 30, 2026
+* [FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'](<https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/>) · PC Gamer · Oct 31, 2026
+* [Fanfiction Library of Alexandria AO3 down for up to a month following hack](<https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/>) · PC Gamer · Oct 31, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
