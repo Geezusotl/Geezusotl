@@ -28,17 +28,17 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 30, 2026 at 22:28 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Oct 31, 2026 at 05:55 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Anthropic VS code extension on Cursor backdoored for nearly 12 hours](<https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/>) · Ars Technica · Oct 30, 2026
 * [Code-execution flaw in UEFI firmware affects most servers on planet Earth](<https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/>) · Ars Technica · Oct 27, 2026
-* [Disgraced eMudhra drops out of TLS business after using cert private key of 4](<https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/>) · Ars Technica · Oct 22, 2026
 
 ### AI
 
-* [Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says](<https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/>) · TechCrunch · Oct 30, 2026
-* [Cracks are emerging in the AI spending boom](<https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/>) · TechCrunch · Oct 30, 2026
+* [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](<https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/>) · TechCrunch · Oct 31, 2026
+* [Ollie, a privacy-focused AI assistant, is shutting down](<https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/>) · TechCrunch · Oct 30, 2026
 * [Making it easier for websites to express AI training preferences](<https://openai.com/index/helping-websites-express-ai-training-preferences>) · OpenAI · Oct 30, 2026
 
 ### Business and markets

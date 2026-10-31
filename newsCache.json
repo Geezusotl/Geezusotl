@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-30T21:52:03+00:00",
+          "published": "2026-10-31T01:20:05+00:00",
           "source": "TechCrunch",
-          "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
         },
         {
-          "published": "2026-10-30T21:17:40+00:00",
+          "published": "2026-10-30T22:56:13+00:00",
           "source": "TechCrunch",
-          "title": "Cracks are emerging in the AI spending boom",
-          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
         },
         {
           "published": "2026-10-30T09:30:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
         }
       ],
-      "lastSuccess": "2026-10-30T22:28:48.238774+00:00",
+      "lastSuccess": "2026-10-31T05:55:41.507027+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,7 +39,7 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-30T22:28:48.238774+00:00",
+      "lastSuccess": "2026-10-31T05:55:41.507027+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -57,27 +57,27 @@
           "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/"
         }
       ],
-      "lastSuccess": "2026-10-30T22:28:48.238774+00:00",
+      "lastSuccess": "2026-10-31T05:55:41.507027+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
+          "published": "2026-10-30T21:09:54+00:00",
+          "source": "Ars Technica",
+          "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+          "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+        },
+        {
           "published": "2026-10-27T20:25:55+00:00",
           "source": "Ars Technica",
           "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
           "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
-        },
-        {
-          "published": "2026-10-22T20:17:52+00:00",
-          "source": "Ars Technica",
-          "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-          "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
         }
       ],
-      "lastSuccess": "2026-10-30T22:28:48.238774+00:00",
+      "lastSuccess": "2026-10-31T05:55:41.507027+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-30T22:28:48.238774+00:00"
+  "lastChecked": "2026-10-31T05:55:41.507027+00:00"
 }
