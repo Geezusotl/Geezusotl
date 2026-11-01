@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
         }
       ],
-      "lastSuccess": "2026-11-01T06:24:28.387956+00:00",
+      "lastSuccess": "2026-11-01T17:58:21.532813+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-11-01T06:24:28.387956+00:00",
+      "lastSuccess": "2026-11-01T17:58:21.532813+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-01T04:05:48+00:00",
+          "published": "2026-11-01T17:45:12+00:00",
           "source": "PC Gamer",
-          "title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
-          "url": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/"
+          "title": "GOG wants to bring back physical games, but it's 'a very, very complicated thing'",
+          "url": "https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/"
         },
         {
-          "published": "2026-11-01T01:30:27+00:00",
+          "published": "2026-11-01T17:44:47+00:00",
           "source": "PC Gamer",
-          "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
-          "url": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/"
+          "title": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years",
+          "url": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/"
         }
       ],
-      "lastSuccess": "2026-11-01T06:24:28.387956+00:00",
+      "lastSuccess": "2026-11-01T17:58:21.532813+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
         }
       ],
-      "lastSuccess": "2026-11-01T06:24:28.387956+00:00",
+      "lastSuccess": "2026-11-01T17:58:21.532813+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-01T06:24:28.387956+00:00"
+  "lastChecked": "2026-11-01T17:58:21.532813+00:00"
 }

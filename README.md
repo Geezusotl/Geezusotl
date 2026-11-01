@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 01, 2026 at 06:24 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 01, 2026 at 17:58 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Forza co-creator Dan Greenawalt is reportedly leaving Microsoft](<https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/>) · PC Gamer · Nov 01, 2026
-* [After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'](<https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/>) · PC Gamer · Nov 01, 2026
+* [GOG wants to bring back physical games, but it's 'a very, very complicated thing'](<https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/>) · PC Gamer · Nov 01, 2026
+* [Valve's long-lost prototype Portal prequel appears online after nearly 20 years](<https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/>) · PC Gamer · Nov 01, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
