@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 01, 2026 at 17:58 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 01, 2026 at 22:11 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
-* [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](<https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/>) · TechCrunch · Oct 31, 2026
-* [OpenAI reportedly lowers funding target for new round](<https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/>) · TechCrunch · Oct 31, 2026
+* [OpenAI might rebrand its data centers as ‘AI compute campuses’](<https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/>) · TechCrunch · Nov 01, 2026
+* [AI can make tech CEOs’ lives easier. What about everyone else?](<https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/>) · TechCrunch · Nov 01, 2026
 * [Making it easier for websites to express AI training preferences](<https://openai.com/index/helping-websites-express-ai-training-preferences>) · OpenAI · Oct 30, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [GOG wants to bring back physical games, but it's 'a very, very complicated thing'](<https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/>) · PC Gamer · Nov 01, 2026
-* [Valve's long-lost prototype Portal prequel appears online after nearly 20 years](<https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/>) · PC Gamer · Nov 01, 2026
+* [Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff](<https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/>) · PC Gamer · Nov 01, 2026
+* [Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever](<https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/>) · PC Gamer · Nov 01, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

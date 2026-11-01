@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-10-31T21:41:00+00:00",
+          "published": "2026-11-01T21:55:23+00:00",
           "source": "TechCrunch",
-          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
         },
         {
-          "published": "2026-10-31T16:12:55+00:00",
+          "published": "2026-11-01T20:57:58+00:00",
           "source": "TechCrunch",
-          "title": "OpenAI reportedly lowers funding target for new round",
-          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+          "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+          "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
         },
         {
           "published": "2026-10-30T09:30:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
         }
       ],
-      "lastSuccess": "2026-11-01T17:58:21.532813+00:00",
+      "lastSuccess": "2026-11-01T22:11:05.373947+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-11-01T17:58:21.532813+00:00",
+      "lastSuccess": "2026-11-01T22:11:05.373947+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-01T17:45:12+00:00",
+          "published": "2026-11-01T18:41:29+00:00",
           "source": "PC Gamer",
-          "title": "GOG wants to bring back physical games, but it's 'a very, very complicated thing'",
-          "url": "https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/"
+          "title": "Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff",
+          "url": "https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/"
         },
         {
-          "published": "2026-11-01T17:44:47+00:00",
+          "published": "2026-11-01T18:00:00+00:00",
           "source": "PC Gamer",
-          "title": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years",
-          "url": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/"
+          "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/"
         }
       ],
-      "lastSuccess": "2026-11-01T17:58:21.532813+00:00",
+      "lastSuccess": "2026-11-01T22:11:05.373947+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
         }
       ],
-      "lastSuccess": "2026-11-01T17:58:21.532813+00:00",
+      "lastSuccess": "2026-11-01T22:11:05.373947+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-01T17:58:21.532813+00:00"
+  "lastChecked": "2026-11-01T22:11:05.373947+00:00"
 }
