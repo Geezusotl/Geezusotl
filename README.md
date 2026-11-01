@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Oct 31, 2026 at 21:43 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 01, 2026 at 06:24 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'](<https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/>) · PC Gamer · Oct 31, 2026
-* [Fanfiction Library of Alexandria AO3 down for up to a month following hack](<https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/>) · PC Gamer · Oct 31, 2026
+* [Forza co-creator Dan Greenawalt is reportedly leaving Microsoft](<https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/>) · PC Gamer · Nov 01, 2026
+* [After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'](<https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/>) · PC Gamer · Nov 01, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

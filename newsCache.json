@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
         }
       ],
-      "lastSuccess": "2026-10-31T21:43:29.456164+00:00",
+      "lastSuccess": "2026-11-01T06:24:28.387956+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-10-31T21:43:29.456164+00:00",
+      "lastSuccess": "2026-11-01T06:24:28.387956+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-10-31T21:40:23+00:00",
+          "published": "2026-11-01T04:05:48+00:00",
           "source": "PC Gamer",
-          "title": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
-          "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/"
+          "title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
+          "url": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/"
         },
         {
-          "published": "2026-10-31T21:11:46+00:00",
+          "published": "2026-11-01T01:30:27+00:00",
           "source": "PC Gamer",
-          "title": "Fanfiction Library of Alexandria AO3 down for up to a month following hack",
-          "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/"
+          "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
+          "url": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/"
         }
       ],
-      "lastSuccess": "2026-10-31T21:43:29.456164+00:00",
+      "lastSuccess": "2026-11-01T06:24:28.387956+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
         }
       ],
-      "lastSuccess": "2026-10-31T21:43:29.456164+00:00",
+      "lastSuccess": "2026-11-01T06:24:28.387956+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-10-31T21:43:29.456164+00:00"
+  "lastChecked": "2026-11-01T06:24:28.387956+00:00"
 }
