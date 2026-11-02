@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 02, 2026 at 06:25 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 02, 2026 at 21:48 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [OpenAI might rebrand its data centers as ‘AI compute campuses’](<https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/>) · TechCrunch · Nov 01, 2026
-* [AI can make tech CEOs’ lives easier. What about everyone else?](<https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/>) · TechCrunch · Nov 01, 2026
-* [Making it easier for websites to express AI training preferences](<https://openai.com/index/helping-websites-express-ai-training-preferences>) · OpenAI · Oct 30, 2026
+* [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](<https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/>) · TechCrunch · Nov 02, 2026
+* [Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition](<https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/>) · TechCrunch · Nov 02, 2026
+* [Introducing the Grid Protectors Program](<https://openai.com/index/grid-protectors-program>) · OpenAI · Nov 02, 2026
 
 ### Business and markets
 
-* [Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge](<https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html>) · CNBC · Oct 21, 2026
-* [Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more](<https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html>) · CNBC · Oct 21, 2026
+* [Texas governor race tightens in prediction markets, but Abbott remains favored](<https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html>) · CNBC · Nov 02, 2026
+* [Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian &amp; more](<https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html>) · CNBC · Nov 02, 2026
 
 ### Gaming
 
-* [The HeroQuest board game is coming to Steam with a quest editor and multiplayer](<https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/>) · PC Gamer · Nov 02, 2026
-* [Footage of what sure looks like a Persona 1 remake has leaked](<https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/>) · PC Gamer · Nov 02, 2026
+* [Xbox COO who left after just 3 months shoots down claims she was 'fired for a policy violation,' says her story is about 'core values'](<https://www.pcgamer.com/gaming-industry/xbox-coo-who-left-after-just-3-months-shoots-down-claims-she-was-fired-for-a-policy-violation-says-her-story-is-about-core-values/>) · PC Gamer · Nov 02, 2026
+* ['There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but admit that it was 'too impractical to record' every voice line](<https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/>) · PC Gamer · Nov 02, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

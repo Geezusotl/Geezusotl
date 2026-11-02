@@ -3,61 +3,61 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-01T21:55:23+00:00",
+          "published": "2026-11-02T16:30:00+00:00",
           "source": "TechCrunch",
-          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+          "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+          "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
         },
         {
-          "published": "2026-11-01T20:57:58+00:00",
+          "published": "2026-11-02T15:00:00+00:00",
           "source": "TechCrunch",
-          "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-          "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+          "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+          "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
         },
         {
-          "published": "2026-10-30T09:30:00+00:00",
+          "published": "2026-11-02T15:00:00+00:00",
           "source": "OpenAI",
-          "title": "Making it easier for websites to express AI training preferences",
-          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+          "title": "Introducing the Grid Protectors Program",
+          "url": "https://openai.com/index/grid-protectors-program"
         }
       ],
-      "lastSuccess": "2026-11-02T06:25:01.726691+00:00",
+      "lastSuccess": "2026-11-02T21:48:07.034308+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-10-21T15:30:50+00:00",
+          "published": "2026-11-02T21:13:43+00:00",
           "source": "CNBC",
-          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-          "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html"
+          "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+          "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html"
         },
         {
-          "published": "2026-10-21T11:49:11+00:00",
+          "published": "2026-11-02T20:00:16+00:00",
           "source": "CNBC",
-          "title": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",
-          "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
+          "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+          "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html"
         }
       ],
-      "lastSuccess": "2026-11-02T06:25:01.726691+00:00",
+      "lastSuccess": "2026-11-02T21:48:07.034308+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-02T04:12:30+00:00",
+          "published": "2026-11-02T20:37:38+00:00",
           "source": "PC Gamer",
-          "title": "The HeroQuest board game is coming to Steam with a quest editor and multiplayer",
-          "url": "https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/"
+          "title": "Xbox COO who left after just 3 months shoots down claims she was 'fired for a policy violation,' says her story is about 'core values'",
+          "url": "https://www.pcgamer.com/gaming-industry/xbox-coo-who-left-after-just-3-months-shoots-down-claims-she-was-fired-for-a-policy-violation-says-her-story-is-about-core-values/"
         },
         {
-          "published": "2026-11-02T02:06:50+00:00",
+          "published": "2026-11-02T17:55:20+00:00",
           "source": "PC Gamer",
-          "title": "Footage of what sure looks like a Persona 1 remake has leaked",
-          "url": "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/"
+          "title": "'There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but admit that it was 'too impractical to record' every voice line",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/"
         }
       ],
-      "lastSuccess": "2026-11-02T06:25:01.726691+00:00",
+      "lastSuccess": "2026-11-02T21:48:07.034308+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
         }
       ],
-      "lastSuccess": "2026-11-02T06:25:01.726691+00:00",
+      "lastSuccess": "2026-11-02T21:48:07.034308+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-02T06:25:01.726691+00:00"
+  "lastChecked": "2026-11-02T21:48:07.034308+00:00"
 }
