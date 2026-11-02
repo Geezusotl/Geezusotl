@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
         }
       ],
-      "lastSuccess": "2026-11-01T22:11:05.373947+00:00",
+      "lastSuccess": "2026-11-02T06:25:01.726691+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
         }
       ],
-      "lastSuccess": "2026-11-01T22:11:05.373947+00:00",
+      "lastSuccess": "2026-11-02T06:25:01.726691+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-01T18:41:29+00:00",
+          "published": "2026-11-02T04:12:30+00:00",
           "source": "PC Gamer",
-          "title": "Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff",
-          "url": "https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/"
+          "title": "The HeroQuest board game is coming to Steam with a quest editor and multiplayer",
+          "url": "https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/"
         },
         {
-          "published": "2026-11-01T18:00:00+00:00",
+          "published": "2026-11-02T02:06:50+00:00",
           "source": "PC Gamer",
-          "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/"
+          "title": "Footage of what sure looks like a Persona 1 remake has leaked",
+          "url": "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/"
         }
       ],
-      "lastSuccess": "2026-11-01T22:11:05.373947+00:00",
+      "lastSuccess": "2026-11-02T06:25:01.726691+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
         }
       ],
-      "lastSuccess": "2026-11-01T22:11:05.373947+00:00",
+      "lastSuccess": "2026-11-02T06:25:01.726691+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-01T22:11:05.373947+00:00"
+  "lastChecked": "2026-11-02T06:25:01.726691+00:00"
 }

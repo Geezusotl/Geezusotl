@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 01, 2026 at 22:11 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 02, 2026 at 06:25 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff](<https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/>) · PC Gamer · Nov 01, 2026
-* [Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever](<https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/>) · PC Gamer · Nov 01, 2026
+* [The HeroQuest board game is coming to Steam with a quest editor and multiplayer](<https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/>) · PC Gamer · Nov 02, 2026
+* [Footage of what sure looks like a Persona 1 remake has leaked](<https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/>) · PC Gamer · Nov 02, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
