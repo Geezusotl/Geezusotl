@@ -3,81 +3,81 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-03T03:30:00+00:00",
+          "published": "2026-11-03T19:34:43+00:00",
           "source": "TechCrunch",
-          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-          "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
         },
         {
-          "published": "2026-11-03T01:49:52+00:00",
+          "published": "2026-11-03T18:42:16+00:00",
           "source": "TechCrunch",
-          "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-          "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+          "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+          "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
         },
         {
-          "published": "2026-11-02T18:00:00+00:00",
+          "published": "2026-11-03T12:00:00+00:00",
           "source": "OpenAI",
-          "title": "Rewarding defenders with bigger bug bounties",
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+          "title": "Accelerating engineering for the physical world",
+          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
         }
       ],
-      "lastSuccess": "2026-11-03T06:58:22.453716+00:00",
+      "lastSuccess": "2026-11-03T19:37:10.242692+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-03T06:46:36+00:00",
-          "source": "CNBC",
-          "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-          "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html"
-        },
-        {
-          "published": "2026-11-02T23:13:34+00:00",
+          "published": "2026-11-03T18:21:05+00:00",
           "source": "CNBC",
           "title": "Stock market after midterm elections: What S&P 500 history shows",
           "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
+        },
+        {
+          "published": "2026-11-03T13:33:11+00:00",
+          "source": "CNBC",
+          "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+          "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html"
         }
       ],
-      "lastSuccess": "2026-11-03T06:58:22.453716+00:00",
+      "lastSuccess": "2026-11-03T19:37:10.242692+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-02T22:41:29+00:00",
+          "published": "2026-11-03T19:27:07+00:00",
           "source": "PC Gamer",
-          "title": "Queen's Domain might be the best game like Metroid Prime since Metroid Prime",
-          "url": "https://www.pcgamer.com/games/rpg/queens-domain-might-be-the-best-game-like-metroid-prime-since-metroid-prime/"
+          "title": "The Elder Scrolls 6 is still a long way off, Bethesda warns: 'It'll be some time before we're ready to share more'",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more/"
         },
         {
-          "published": "2026-11-02T21:47:58+00:00",
+          "published": "2026-11-03T18:49:23+00:00",
           "source": "PC Gamer",
-          "title": "Enshrouded 1.0 review",
-          "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/"
+          "title": "Bethesda's first full-time QA tester got the job by being an extremely chill hang",
+          "url": "https://www.pcgamer.com/gaming-industry/bethesdas-first-full-time-qa-tester-got-the-job-by-being-an-extremely-chill-hang/"
         }
       ],
-      "lastSuccess": "2026-11-03T06:58:22.453716+00:00",
+      "lastSuccess": "2026-11-03T19:37:10.242692+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
+          "published": "2026-11-03T16:03:13+00:00",
+          "source": "Ars Technica",
+          "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+          "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/"
+        },
+        {
           "published": "2026-10-30T21:09:54+00:00",
           "source": "Ars Technica",
           "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
           "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
-        },
-        {
-          "published": "2026-10-27T20:25:55+00:00",
-          "source": "Ars Technica",
-          "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-          "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
         }
       ],
-      "lastSuccess": "2026-11-03T06:58:22.453716+00:00",
+      "lastSuccess": "2026-11-03T19:37:10.242692+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-03T06:58:22.453716+00:00"
+  "lastChecked": "2026-11-03T19:37:10.242692+00:00"
 }

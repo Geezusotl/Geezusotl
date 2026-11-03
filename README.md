@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 03, 2026 at 06:58 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 03, 2026 at 19:37 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?](<https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/>) · Ars Technica · Nov 03, 2026
 * [Anthropic VS code extension on Cursor backdoored for nearly 12 hours](<https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/>) · Ars Technica · Oct 30, 2026
-* [Code-execution flaw in UEFI firmware affects most servers on planet Earth](<https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/>) · Ars Technica · Oct 27, 2026
 
 ### AI
 
-* [Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses](<https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/>) · TechCrunch · Nov 03, 2026
-* [Apple may try to increase revenue by doing…something with third-party AI apps](<https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/>) · TechCrunch · Nov 03, 2026
-* [Rewarding defenders with bigger bug bounties](<https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties>) · OpenAI · Nov 02, 2026
+* [AI inference startup Fal doubles its valuation to $16B as demand surges](<https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/>) · TechCrunch · Nov 03, 2026
+* [Netflix’s new AI Discover tab helps you find something to watch based on your mood](<https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/>) · TechCrunch · Nov 03, 2026
+* [Accelerating engineering for the physical world](<https://openai.com/index/accelerating-engineering-for-the-physical-world>) · OpenAI · Nov 03, 2026
 
 ### Business and markets
 
-* [Blackstone president calls for more equity to fund AI buildout as debt risks mount](<https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html>) · CNBC · Nov 03, 2026
-* [Stock market after midterm elections: What S&amp;P 500 history shows](<https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html>) · CNBC · Nov 02, 2026
+* [Stock market after midterm elections: What S&amp;P 500 history shows](<https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html>) · CNBC · Nov 03, 2026
+* [Texas governor race tightens in prediction markets, but Abbott remains favored](<https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html>) · CNBC · Nov 03, 2026
 
 ### Gaming
 
-* [Queen's Domain might be the best game like Metroid Prime since Metroid Prime](<https://www.pcgamer.com/games/rpg/queens-domain-might-be-the-best-game-like-metroid-prime-since-metroid-prime/>) · PC Gamer · Nov 02, 2026
-* [Enshrouded 1.0 review](<https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/>) · PC Gamer · Nov 02, 2026
+* [The Elder Scrolls 6 is still a long way off, Bethesda warns: 'It'll be some time before we're ready to share more'](<https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more/>) · PC Gamer · Nov 03, 2026
+* [Bethesda's first full-time QA tester got the job by being an extremely chill hang](<https://www.pcgamer.com/gaming-industry/bethesdas-first-full-time-qa-tester-got-the-job-by-being-an-extremely-chill-hang/>) · PC Gamer · Nov 03, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
