@@ -3,61 +3,61 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-02T16:30:00+00:00",
+          "published": "2026-11-03T03:30:00+00:00",
           "source": "TechCrunch",
-          "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-          "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+          "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
         },
         {
-          "published": "2026-11-02T15:00:00+00:00",
+          "published": "2026-11-03T01:49:52+00:00",
           "source": "TechCrunch",
-          "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-          "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
+          "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+          "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
         },
         {
-          "published": "2026-11-02T15:00:00+00:00",
+          "published": "2026-11-02T18:00:00+00:00",
           "source": "OpenAI",
-          "title": "Introducing the Grid Protectors Program",
-          "url": "https://openai.com/index/grid-protectors-program"
+          "title": "Rewarding defenders with bigger bug bounties",
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
         }
       ],
-      "lastSuccess": "2026-11-02T21:48:07.034308+00:00",
+      "lastSuccess": "2026-11-03T06:58:22.453716+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-02T21:13:43+00:00",
+          "published": "2026-11-03T06:46:36+00:00",
           "source": "CNBC",
-          "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-          "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html"
+          "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+          "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html"
         },
         {
-          "published": "2026-11-02T20:00:16+00:00",
+          "published": "2026-11-02T23:13:34+00:00",
           "source": "CNBC",
-          "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-          "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html"
+          "title": "Stock market after midterm elections: What S&P 500 history shows",
+          "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
         }
       ],
-      "lastSuccess": "2026-11-02T21:48:07.034308+00:00",
+      "lastSuccess": "2026-11-03T06:58:22.453716+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-02T20:37:38+00:00",
+          "published": "2026-11-02T22:41:29+00:00",
           "source": "PC Gamer",
-          "title": "Xbox COO who left after just 3 months shoots down claims she was 'fired for a policy violation,' says her story is about 'core values'",
-          "url": "https://www.pcgamer.com/gaming-industry/xbox-coo-who-left-after-just-3-months-shoots-down-claims-she-was-fired-for-a-policy-violation-says-her-story-is-about-core-values/"
+          "title": "Queen's Domain might be the best game like Metroid Prime since Metroid Prime",
+          "url": "https://www.pcgamer.com/games/rpg/queens-domain-might-be-the-best-game-like-metroid-prime-since-metroid-prime/"
         },
         {
-          "published": "2026-11-02T17:55:20+00:00",
+          "published": "2026-11-02T21:47:58+00:00",
           "source": "PC Gamer",
-          "title": "'There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but admit that it was 'too impractical to record' every voice line",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/"
+          "title": "Enshrouded 1.0 review",
+          "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/"
         }
       ],
-      "lastSuccess": "2026-11-02T21:48:07.034308+00:00",
+      "lastSuccess": "2026-11-03T06:58:22.453716+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
         }
       ],
-      "lastSuccess": "2026-11-02T21:48:07.034308+00:00",
+      "lastSuccess": "2026-11-03T06:58:22.453716+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-02T21:48:07.034308+00:00"
+  "lastChecked": "2026-11-03T06:58:22.453716+00:00"
 }

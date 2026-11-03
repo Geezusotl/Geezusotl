@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 02, 2026 at 21:48 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 03, 2026 at 06:58 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](<https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/>) · TechCrunch · Nov 02, 2026
-* [Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition](<https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/>) · TechCrunch · Nov 02, 2026
-* [Introducing the Grid Protectors Program](<https://openai.com/index/grid-protectors-program>) · OpenAI · Nov 02, 2026
+* [Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses](<https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/>) · TechCrunch · Nov 03, 2026
+* [Apple may try to increase revenue by doing…something with third-party AI apps](<https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/>) · TechCrunch · Nov 03, 2026
+* [Rewarding defenders with bigger bug bounties](<https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties>) · OpenAI · Nov 02, 2026
 
 ### Business and markets
 
-* [Texas governor race tightens in prediction markets, but Abbott remains favored](<https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html>) · CNBC · Nov 02, 2026
-* [Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian &amp; more](<https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html>) · CNBC · Nov 02, 2026
+* [Blackstone president calls for more equity to fund AI buildout as debt risks mount](<https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html>) · CNBC · Nov 03, 2026
+* [Stock market after midterm elections: What S&amp;P 500 history shows](<https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html>) · CNBC · Nov 02, 2026
 
 ### Gaming
 
-* [Xbox COO who left after just 3 months shoots down claims she was 'fired for a policy violation,' says her story is about 'core values'](<https://www.pcgamer.com/gaming-industry/xbox-coo-who-left-after-just-3-months-shoots-down-claims-she-was-fired-for-a-policy-violation-says-her-story-is-about-core-values/>) · PC Gamer · Nov 02, 2026
-* ['There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but admit that it was 'too impractical to record' every voice line](<https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line/>) · PC Gamer · Nov 02, 2026
+* [Queen's Domain might be the best game like Metroid Prime since Metroid Prime](<https://www.pcgamer.com/games/rpg/queens-domain-might-be-the-best-game-like-metroid-prime-since-metroid-prime/>) · PC Gamer · Nov 02, 2026
+* [Enshrouded 1.0 review](<https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/>) · PC Gamer · Nov 02, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
