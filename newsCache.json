@@ -3,81 +3,81 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-03T22:41:03+00:00",
+          "published": "2026-11-04T19:30:04+00:00",
           "source": "TechCrunch",
-          "title": "Anthropic is working on a system to prove AI models’ identity",
-          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+          "title": "Open source AI is booming. Hugging Face explains who profits.",
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
         },
         {
-          "published": "2026-11-03T21:43:08+00:00",
+          "published": "2026-11-04T19:29:52+00:00",
           "source": "TechCrunch",
-          "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+          "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+          "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
         },
         {
-          "published": "2026-11-03T12:00:00+00:00",
+          "published": "2026-11-04T14:30:00+00:00",
           "source": "OpenAI",
-          "title": "Accelerating engineering for the physical world",
-          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "url": "https://openai.com/index/openai-to-acquire-pierre"
         }
       ],
-      "lastSuccess": "2026-11-04T06:40:47.673045+00:00",
+      "lastSuccess": "2026-11-04T19:53:11.282966+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-04T03:24:03+00:00",
+          "published": "2026-11-04T17:11:00+00:00",
           "source": "CNBC",
-          "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+          "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
           "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
         },
         {
-          "published": "2026-11-03T18:21:05+00:00",
+          "published": "2026-11-04T13:32:54+00:00",
           "source": "CNBC",
-          "title": "Stock market after midterm elections: What S&P 500 history shows",
-          "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
+          "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+          "url": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html"
         }
       ],
-      "lastSuccess": "2026-11-04T06:40:47.673045+00:00",
+      "lastSuccess": "2026-11-04T19:53:11.282966+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-04T00:18:41+00:00",
+          "published": "2026-11-04T19:21:48+00:00",
           "source": "PC Gamer",
-          "title": "Bethesda's associate art director really did try to fit 7,000 actual steps into Skyrim's 7,000 Steps: 'I take no responsibility for the Frost Troll'",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-associate-art-director-really-did-try-to-fit-7-000-actual-steps-into-skyrims-7-000-steps-i-take-no-responsibility-for-the-frost-troll/"
+          "title": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'",
+          "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/"
         },
         {
-          "published": "2026-11-03T23:51:13+00:00",
+          "published": "2026-11-04T18:00:00+00:00",
           "source": "PC Gamer",
-          "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
-          "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/"
+          "title": "I am back modding GTA 5 and being chased by a billion furious, armed cougars",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/"
         }
       ],
-      "lastSuccess": "2026-11-04T06:40:47.673045+00:00",
+      "lastSuccess": "2026-11-04T19:53:11.282966+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
+          "published": "2026-11-04T16:06:03+00:00",
+          "source": "Ars Technica",
+          "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+          "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
+        },
+        {
           "published": "2026-11-03T16:03:13+00:00",
           "source": "Ars Technica",
           "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
           "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/"
-        },
-        {
-          "published": "2026-10-30T21:09:54+00:00",
-          "source": "Ars Technica",
-          "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-          "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
         }
       ],
-      "lastSuccess": "2026-11-04T06:40:47.673045+00:00",
+      "lastSuccess": "2026-11-04T19:53:11.282966+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-04T06:40:47.673045+00:00"
+  "lastChecked": "2026-11-04T19:53:11.282966+00:00"
 }

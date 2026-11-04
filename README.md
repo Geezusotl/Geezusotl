@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 04, 2026 at 06:40 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 04, 2026 at 19:53 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Binance says hackers who stole billions in crypto spent months planning heist](<https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/>) · Ars Technica · Nov 04, 2026
 * [UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?](<https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/>) · Ars Technica · Nov 03, 2026
-* [Anthropic VS code extension on Cursor backdoored for nearly 12 hours](<https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/>) · Ars Technica · Oct 30, 2026
 
 ### AI
 
-* [Anthropic is working on a system to prove AI models’ identity](<https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/>) · TechCrunch · Nov 03, 2026
-* [Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](<https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/>) · TechCrunch · Nov 03, 2026
-* [Accelerating engineering for the physical world](<https://openai.com/index/accelerating-engineering-for-the-physical-world>) · OpenAI · Nov 03, 2026
+* [Open source AI is booming. Hugging Face explains who profits.](<https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/>) · TechCrunch · Nov 04, 2026
+* [DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy](<https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/>) · TechCrunch · Nov 04, 2026
+* [OpenAI to acquire Pierre Computer Company, Inc.](<https://openai.com/index/openai-to-acquire-pierre>) · OpenAI · Nov 04, 2026
 
 ### Business and markets
 
-* [Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off](<https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html>) · CNBC · Nov 04, 2026
-* [Stock market after midterm elections: What S&amp;P 500 history shows](<https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html>) · CNBC · Nov 03, 2026
+* [10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop](<https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html>) · CNBC · Nov 04, 2026
+* [Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more](<https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html>) · CNBC · Nov 04, 2026
 
 ### Gaming
 
-* [Bethesda's associate art director really did try to fit 7,000 actual steps into Skyrim's 7,000 Steps: 'I take no responsibility for the Frost Troll'](<https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-associate-art-director-really-did-try-to-fit-7-000-actual-steps-into-skyrims-7-000-steps-i-take-no-responsibility-for-the-frost-troll/>) · PC Gamer · Nov 04, 2026
-* [Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI](<https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/>) · PC Gamer · Nov 03, 2026
+* [Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'](<https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/>) · PC Gamer · Nov 04, 2026
+* [I am back modding GTA 5 and being chased by a billion furious, armed cougars](<https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/>) · PC Gamer · Nov 04, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
