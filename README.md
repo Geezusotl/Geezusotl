@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 03, 2026 at 19:37 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 04, 2026 at 06:40 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [AI inference startup Fal doubles its valuation to $16B as demand surges](<https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/>) · TechCrunch · Nov 03, 2026
-* [Netflix’s new AI Discover tab helps you find something to watch based on your mood](<https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/>) · TechCrunch · Nov 03, 2026
+* [Anthropic is working on a system to prove AI models’ identity](<https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/>) · TechCrunch · Nov 03, 2026
+* [Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](<https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/>) · TechCrunch · Nov 03, 2026
 * [Accelerating engineering for the physical world](<https://openai.com/index/accelerating-engineering-for-the-physical-world>) · OpenAI · Nov 03, 2026
 
 ### Business and markets
 
+* [Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off](<https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html>) · CNBC · Nov 04, 2026
 * [Stock market after midterm elections: What S&amp;P 500 history shows](<https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html>) · CNBC · Nov 03, 2026
-* [Texas governor race tightens in prediction markets, but Abbott remains favored](<https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html>) · CNBC · Nov 03, 2026
 
 ### Gaming
 
-* [The Elder Scrolls 6 is still a long way off, Bethesda warns: 'It'll be some time before we're ready to share more'](<https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more/>) · PC Gamer · Nov 03, 2026
-* [Bethesda's first full-time QA tester got the job by being an extremely chill hang](<https://www.pcgamer.com/gaming-industry/bethesdas-first-full-time-qa-tester-got-the-job-by-being-an-extremely-chill-hang/>) · PC Gamer · Nov 03, 2026
+* [Bethesda's associate art director really did try to fit 7,000 actual steps into Skyrim's 7,000 Steps: 'I take no responsibility for the Frost Troll'](<https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-associate-art-director-really-did-try-to-fit-7-000-actual-steps-into-skyrims-7-000-steps-i-take-no-responsibility-for-the-frost-troll/>) · PC Gamer · Nov 04, 2026
+* [Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI](<https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/>) · PC Gamer · Nov 03, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

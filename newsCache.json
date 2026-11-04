@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-03T19:34:43+00:00",
+          "published": "2026-11-03T22:41:03+00:00",
           "source": "TechCrunch",
-          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+          "title": "Anthropic is working on a system to prove AI models’ identity",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
         },
         {
-          "published": "2026-11-03T18:42:16+00:00",
+          "published": "2026-11-03T21:43:08+00:00",
           "source": "TechCrunch",
-          "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-          "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+          "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
         },
         {
           "published": "2026-11-03T12:00:00+00:00",
@@ -21,43 +21,43 @@
           "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
         }
       ],
-      "lastSuccess": "2026-11-03T19:37:10.242692+00:00",
+      "lastSuccess": "2026-11-04T06:40:47.673045+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
+          "published": "2026-11-04T03:24:03+00:00",
+          "source": "CNBC",
+          "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+          "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
+        },
+        {
           "published": "2026-11-03T18:21:05+00:00",
           "source": "CNBC",
           "title": "Stock market after midterm elections: What S&P 500 history shows",
           "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
-        },
-        {
-          "published": "2026-11-03T13:33:11+00:00",
-          "source": "CNBC",
-          "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-          "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html"
         }
       ],
-      "lastSuccess": "2026-11-03T19:37:10.242692+00:00",
+      "lastSuccess": "2026-11-04T06:40:47.673045+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-03T19:27:07+00:00",
+          "published": "2026-11-04T00:18:41+00:00",
           "source": "PC Gamer",
-          "title": "The Elder Scrolls 6 is still a long way off, Bethesda warns: 'It'll be some time before we're ready to share more'",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more/"
+          "title": "Bethesda's associate art director really did try to fit 7,000 actual steps into Skyrim's 7,000 Steps: 'I take no responsibility for the Frost Troll'",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-associate-art-director-really-did-try-to-fit-7-000-actual-steps-into-skyrims-7-000-steps-i-take-no-responsibility-for-the-frost-troll/"
         },
         {
-          "published": "2026-11-03T18:49:23+00:00",
+          "published": "2026-11-03T23:51:13+00:00",
           "source": "PC Gamer",
-          "title": "Bethesda's first full-time QA tester got the job by being an extremely chill hang",
-          "url": "https://www.pcgamer.com/gaming-industry/bethesdas-first-full-time-qa-tester-got-the-job-by-being-an-extremely-chill-hang/"
+          "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
+          "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/"
         }
       ],
-      "lastSuccess": "2026-11-03T19:37:10.242692+00:00",
+      "lastSuccess": "2026-11-04T06:40:47.673045+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
         }
       ],
-      "lastSuccess": "2026-11-03T19:37:10.242692+00:00",
+      "lastSuccess": "2026-11-04T06:40:47.673045+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-03T19:37:10.242692+00:00"
+  "lastChecked": "2026-11-04T06:40:47.673045+00:00"
 }
