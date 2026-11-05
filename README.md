@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 04, 2026 at 19:53 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 05, 2026 at 06:59 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
-* [Binance says hackers who stole billions in crypto spent months planning heist](<https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/>) · Ars Technica · Nov 04, 2026
-* [UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?](<https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/>) · Ars Technica · Nov 03, 2026
+* [Hackers exploited iOS and Android flaws to infect phones](<https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/>) · Ars Technica · Nov 04, 2026
+* [VMware releases vSphere Express for virtualization on up to 128 cores](<https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/>) · Ars Technica · Nov 04, 2026
 
 ### AI
 
-* [Open source AI is booming. Hugging Face explains who profits.](<https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/>) · TechCrunch · Nov 04, 2026
-* [DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy](<https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/>) · TechCrunch · Nov 04, 2026
+* [Apple is reportedly cutting budgets for its internal AI usage](<https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/>) · TechCrunch · Nov 05, 2026
+* [AI PACs spent millions trying to shape Congress — here’s how they fared](<https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/>) · TechCrunch · Nov 04, 2026
 * [OpenAI to acquire Pierre Computer Company, Inc.](<https://openai.com/index/openai-to-acquire-pierre>) · OpenAI · Nov 04, 2026
 
 ### Business and markets
 
+* [Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more](<https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html>) · CNBC · Nov 04, 2026
 * [10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop](<https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html>) · CNBC · Nov 04, 2026
-* [Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more](<https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html>) · CNBC · Nov 04, 2026
 
 ### Gaming
 
-* [Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'](<https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/>) · PC Gamer · Nov 04, 2026
-* [I am back modding GTA 5 and being chased by a billion furious, armed cougars](<https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/>) · PC Gamer · Nov 04, 2026
+* [Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers](<https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/>) · PC Gamer · Nov 05, 2026
+* [The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well](<https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/>) · PC Gamer · Nov 05, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
