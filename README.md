@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 05, 2026 at 06:59 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 05, 2026 at 20:06 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Apple is reportedly cutting budgets for its internal AI usage](<https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/>) · TechCrunch · Nov 05, 2026
-* [AI PACs spent millions trying to shape Congress — here’s how they fared](<https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/>) · TechCrunch · Nov 04, 2026
-* [OpenAI to acquire Pierre Computer Company, Inc.](<https://openai.com/index/openai-to-acquire-pierre>) · OpenAI · Nov 04, 2026
+* [Meta says US users can now video chat with their Muse AI avatar](<https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/>) · TechCrunch · Nov 05, 2026
+* [Meta warns that election backlash against data centers could make AI expansion harder](<https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/>) · TechCrunch · Nov 05, 2026
+* [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](<https://openai.com/index/introducing-gpt-6-cyber>) · OpenAI · Nov 05, 2026
 
 ### Business and markets
 
-* [Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more](<https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html>) · CNBC · Nov 04, 2026
-* [10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop](<https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html>) · CNBC · Nov 04, 2026
+* [Barkin sees interest rate hikes ahead, but at a gradual pace](<https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html>) · CNBC · Nov 05, 2026
+* [Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software &amp; more](<https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html>) · CNBC · Nov 05, 2026
 
 ### Gaming
 
-* [Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers](<https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/>) · PC Gamer · Nov 05, 2026
-* [The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well](<https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/>) · PC Gamer · Nov 05, 2026
+* [Nvidia, Micron, and other AI stocks take a dive after elections](<https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/>) · PC Gamer · Nov 05, 2026
+* [EA's releasing a truckload of classic games on Steam, and 7 of them are remasters](<https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/>) · PC Gamer · Nov 05, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
