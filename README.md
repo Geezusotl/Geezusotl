@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 06, 2026 at 06:58 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 06, 2026 at 19:31 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](<https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/>) · TechCrunch · Nov 06, 2026
-* [Airbnb says it’s launching an AI travel agent in the first half of 2027](<https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/>) · TechCrunch · Nov 05, 2026
-* [Cult.fit builds operational muscle with Codex](<https://openai.com/index/cultfit-builds-with-codex>) · OpenAI · Nov 05, 2026
+* [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>) · TechCrunch · Nov 06, 2026
+* [Meta introduces Spaces, a new way to collaborate with your Muse agent](<https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/>) · TechCrunch · Nov 06, 2026
+* [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](<https://openai.com/index/partnering-with-hacktron>) · OpenAI · Nov 06, 2026
 
 ### Business and markets
 
-* [Nasdaq drops into correction territory — here’s what typically happens next](<https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html>) · CNBC · Nov 05, 2026
-* [Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'](<https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html>) · CNBC · Nov 05, 2026
+* [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](<https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html>) · CNBC · Nov 06, 2026
+* [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](<https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html>) · CNBC · Nov 06, 2026
 
 ### Gaming
 
-* [Saudi Arabia owns EA, and according to a Reuters report, Unity is next](<https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/>) · PC Gamer · Nov 06, 2026
-* [Richard Garriott on the state of the games industry: 'The bells and whistles are no longer what's important'](<https://www.pcgamer.com/gaming-industry/richard-garriott-on-the-state-of-the-games-industry-the-bells-and-whistles-are-no-longer-whats-important/>) · PC Gamer · Nov 06, 2026
+* [It's hard to meet women when I keep teleporting all the time](<https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/>) · PC Gamer · Nov 06, 2026
+* [All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything](<https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/>) · PC Gamer · Nov 06, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
