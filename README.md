@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 05, 2026 at 20:06 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 06, 2026 at 06:58 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Meet \*sshole, the vulnerability that lets hackers SSH into Linux devices](<https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/>) · Ars Technica · Nov 05, 2026
 * [Hackers exploited iOS and Android flaws to infect phones](<https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/>) · Ars Technica · Nov 04, 2026
-* [VMware releases vSphere Express for virtualization on up to 128 cores](<https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/>) · Ars Technica · Nov 04, 2026
 
 ### AI
 
-* [Meta says US users can now video chat with their Muse AI avatar](<https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/>) · TechCrunch · Nov 05, 2026
-* [Meta warns that election backlash against data centers could make AI expansion harder](<https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/>) · TechCrunch · Nov 05, 2026
-* [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](<https://openai.com/index/introducing-gpt-6-cyber>) · OpenAI · Nov 05, 2026
+* [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](<https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/>) · TechCrunch · Nov 06, 2026
+* [Airbnb says it’s launching an AI travel agent in the first half of 2027](<https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/>) · TechCrunch · Nov 05, 2026
+* [Cult.fit builds operational muscle with Codex](<https://openai.com/index/cultfit-builds-with-codex>) · OpenAI · Nov 05, 2026
 
 ### Business and markets
 
-* [Barkin sees interest rate hikes ahead, but at a gradual pace](<https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html>) · CNBC · Nov 05, 2026
-* [Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software &amp; more](<https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html>) · CNBC · Nov 05, 2026
+* [Nasdaq drops into correction territory — here’s what typically happens next](<https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html>) · CNBC · Nov 05, 2026
+* [Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'](<https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html>) · CNBC · Nov 05, 2026
 
 ### Gaming
 
-* [Nvidia, Micron, and other AI stocks take a dive after elections](<https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/>) · PC Gamer · Nov 05, 2026
-* [EA's releasing a truckload of classic games on Steam, and 7 of them are remasters](<https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/>) · PC Gamer · Nov 05, 2026
+* [Saudi Arabia owns EA, and according to a Reuters report, Unity is next](<https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/>) · PC Gamer · Nov 06, 2026
+* [Richard Garriott on the state of the games industry: 'The bells and whistles are no longer what's important'](<https://www.pcgamer.com/gaming-industry/richard-garriott-on-the-state-of-the-games-industry-the-bells-and-whistles-are-no-longer-whats-important/>) · PC Gamer · Nov 06, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
