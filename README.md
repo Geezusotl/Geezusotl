@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 07, 2026 at 13:16 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 07, 2026 at 21:59 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
+* [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](<https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/>) · TechCrunch · Nov 07, 2026
 * [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](<https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/>) · TechCrunch · Nov 06, 2026
-* [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>) · TechCrunch · Nov 06, 2026
 * [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](<https://openai.com/index/partnering-with-hacktron>) · OpenAI · Nov 06, 2026
 
 ### Business and markets
 
-* [Nasdaq drops into correction territory — here’s what typically happens next](<https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html>) · CNBC · Nov 06, 2026
-* [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](<https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html>) · CNBC · Nov 06, 2026
+* [Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup](<https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html>) · CNBC · Nov 07, 2026
+* [Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline](<https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html>) · CNBC · Nov 07, 2026
 
 ### Gaming
 
-* [After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff](<https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/>) · PC Gamer · Nov 07, 2026
-* [Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB](<https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/>) · PC Gamer · Nov 07, 2026
+* [AMD CEO Lisa Su: 'We are a data center-first company'](<https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/>) · PC Gamer · Nov 07, 2026
+* [After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay](<https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/>) · PC Gamer · Nov 07, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

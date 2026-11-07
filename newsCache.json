@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-11-07T21:17:08+00:00",
+          "source": "TechCrunch",
+          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+        },
+        {
           "published": "2026-11-06T22:53:46+00:00",
           "source": "TechCrunch",
           "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
           "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
-        },
-        {
-          "published": "2026-11-06T18:44:38+00:00",
-          "source": "TechCrunch",
-          "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
         },
         {
           "published": "2026-11-06T08:00:00+00:00",
@@ -21,43 +21,43 @@
           "url": "https://openai.com/index/partnering-with-hacktron"
         }
       ],
-      "lastSuccess": "2026-11-07T13:16:39.490450+00:00",
+      "lastSuccess": "2026-11-07T21:59:28.487726+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-06T20:42:28+00:00",
+          "published": "2026-11-07T16:02:33+00:00",
           "source": "CNBC",
-          "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-          "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html"
+          "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+          "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html"
         },
         {
-          "published": "2026-11-06T19:05:00+00:00",
+          "published": "2026-11-07T15:23:46+00:00",
           "source": "CNBC",
-          "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-          "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html"
+          "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+          "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
         }
       ],
-      "lastSuccess": "2026-11-07T13:16:39.490450+00:00",
+      "lastSuccess": "2026-11-07T21:59:28.487726+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-07T12:18:55+00:00",
+          "published": "2026-11-07T18:10:16+00:00",
           "source": "PC Gamer",
-          "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
-          "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/"
+          "title": "AMD CEO Lisa Su: 'We are a data center-first company'",
+          "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/"
         },
         {
-          "published": "2026-11-07T11:15:54+00:00",
+          "published": "2026-11-07T18:00:00+00:00",
           "source": "PC Gamer",
-          "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
-          "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/"
+          "title": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/"
         }
       ],
-      "lastSuccess": "2026-11-07T13:16:39.490450+00:00",
+      "lastSuccess": "2026-11-07T21:59:28.487726+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
         }
       ],
-      "lastSuccess": "2026-11-07T13:16:39.490450+00:00",
+      "lastSuccess": "2026-11-07T21:59:28.487726+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-07T13:16:39.490450+00:00"
+  "lastChecked": "2026-11-07T21:59:28.487726+00:00"
 }
