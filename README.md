@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 07, 2026 at 06:12 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 07, 2026 at 13:16 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Here's what's in Path of Exile 2’s huge 1.0 release, coming in December](<https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/>) · PC Gamer · Nov 06, 2026
-* [Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)](<https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/>) · PC Gamer · Nov 06, 2026
+* [After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff](<https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/>) · PC Gamer · Nov 07, 2026
+* [Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB](<https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/>) · PC Gamer · Nov 07, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
