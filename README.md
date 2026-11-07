@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 06, 2026 at 19:31 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 07, 2026 at 06:12 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Chainalysis says hackers stole credentials and tokens for all of its customers](<https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/>) · Ars Technica · Nov 06, 2026
 * [Meet \*sshole, the vulnerability that lets hackers SSH into Linux devices](<https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/>) · Ars Technica · Nov 05, 2026
-* [Hackers exploited iOS and Android flaws to infect phones](<https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/>) · Ars Technica · Nov 04, 2026
 
 ### AI
 
+* [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](<https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/>) · TechCrunch · Nov 06, 2026
 * [Hundreds of Artex AI hacking tools found publicly exposed to the web](<https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/>) · TechCrunch · Nov 06, 2026
-* [Meta introduces Spaces, a new way to collaborate with your Muse agent](<https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/>) · TechCrunch · Nov 06, 2026
 * [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](<https://openai.com/index/partnering-with-hacktron>) · OpenAI · Nov 06, 2026
 
 ### Business and markets
 
+* [Nasdaq drops into correction territory — here’s what typically happens next](<https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html>) · CNBC · Nov 06, 2026
 * [Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says](<https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html>) · CNBC · Nov 06, 2026
-* [The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%](<https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html>) · CNBC · Nov 06, 2026
 
 ### Gaming
 
-* [It's hard to meet women when I keep teleporting all the time](<https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/>) · PC Gamer · Nov 06, 2026
-* [All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything](<https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/>) · PC Gamer · Nov 06, 2026
+* [Here's what's in Path of Exile 2’s huge 1.0 release, coming in December](<https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/>) · PC Gamer · Nov 06, 2026
+* [Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)](<https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/>) · PC Gamer · Nov 06, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

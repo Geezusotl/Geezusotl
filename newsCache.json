@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-11-06T22:53:46+00:00",
+          "source": "TechCrunch",
+          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+        },
+        {
           "published": "2026-11-06T18:44:38+00:00",
           "source": "TechCrunch",
           "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
           "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
-        },
-        {
-          "published": "2026-11-06T18:44:20+00:00",
-          "source": "TechCrunch",
-          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
         },
         {
           "published": "2026-11-06T08:00:00+00:00",
@@ -21,63 +21,63 @@
           "url": "https://openai.com/index/partnering-with-hacktron"
         }
       ],
-      "lastSuccess": "2026-11-06T19:31:53.187236+00:00",
+      "lastSuccess": "2026-11-07T06:12:25.387469+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
+          "published": "2026-11-06T20:42:28+00:00",
+          "source": "CNBC",
+          "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+          "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html"
+        },
+        {
           "published": "2026-11-06T19:05:00+00:00",
           "source": "CNBC",
           "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
           "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html"
-        },
-        {
-          "published": "2026-11-06T17:09:53+00:00",
-          "source": "CNBC",
-          "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
         }
       ],
-      "lastSuccess": "2026-11-06T19:31:53.187236+00:00",
+      "lastSuccess": "2026-11-07T06:12:25.387469+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-06T18:00:00+00:00",
+          "published": "2026-11-06T23:36:21+00:00",
           "source": "PC Gamer",
-          "title": "It's hard to meet women when I keep teleporting all the time",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/"
+          "title": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
+          "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/"
         },
         {
-          "published": "2026-11-06T17:31:29+00:00",
+          "published": "2026-11-06T23:11:50+00:00",
           "source": "PC Gamer",
-          "title": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything",
-          "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/"
+          "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/"
         }
       ],
-      "lastSuccess": "2026-11-06T19:31:53.187236+00:00",
+      "lastSuccess": "2026-11-07T06:12:25.387469+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
+          "published": "2026-11-06T20:56:41+00:00",
+          "source": "Ars Technica",
+          "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+          "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+        },
+        {
           "published": "2026-11-05T23:09:36+00:00",
           "source": "Ars Technica",
           "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
           "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
-        },
-        {
-          "published": "2026-11-04T22:26:49+00:00",
-          "source": "Ars Technica",
-          "title": "Hackers exploited iOS and Android flaws to infect phones",
-          "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
         }
       ],
-      "lastSuccess": "2026-11-06T19:31:53.187236+00:00",
+      "lastSuccess": "2026-11-07T06:12:25.387469+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-06T19:31:53.187236+00:00"
+  "lastChecked": "2026-11-07T06:12:25.387469+00:00"
 }
