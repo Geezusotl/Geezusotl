@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 08, 2026 at 06:18 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 08, 2026 at 13:38 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things](<https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/>) · PC Gamer · Nov 08, 2026
-* [A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'](<https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/>) · PC Gamer · Nov 08, 2026
+* [This massive mod essentially turns Skyrim into a persistent MMO 'where player actions create lasting consequences'](<https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/>) · PC Gamer · Nov 08, 2026
+* [As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'](<https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/>) · PC Gamer · Nov 08, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

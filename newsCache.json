@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/partnering-with-hacktron"
         }
       ],
-      "lastSuccess": "2026-11-08T06:18:16.740254+00:00",
+      "lastSuccess": "2026-11-08T13:38:19.700989+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
         }
       ],
-      "lastSuccess": "2026-11-08T06:18:16.740254+00:00",
+      "lastSuccess": "2026-11-08T13:38:19.700989+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-08T02:13:27+00:00",
+          "published": "2026-11-08T13:19:55+00:00",
           "source": "PC Gamer",
-          "title": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things",
-          "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/"
+          "title": "This massive mod essentially turns Skyrim into a persistent MMO 'where player actions create lasting consequences'",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/"
         },
         {
-          "published": "2026-11-08T01:31:13+00:00",
+          "published": "2026-11-08T12:16:51+00:00",
           "source": "PC Gamer",
-          "title": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'",
-          "url": "https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/"
+          "title": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
+          "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/"
         }
       ],
-      "lastSuccess": "2026-11-08T06:18:16.740254+00:00",
+      "lastSuccess": "2026-11-08T13:38:19.700989+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
         }
       ],
-      "lastSuccess": "2026-11-08T06:18:16.740254+00:00",
+      "lastSuccess": "2026-11-08T13:38:19.700989+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-08T06:18:16.740254+00:00"
+  "lastChecked": "2026-11-08T13:38:19.700989+00:00"
 }
