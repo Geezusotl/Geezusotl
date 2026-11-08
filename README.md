@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 07, 2026 at 21:59 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 08, 2026 at 06:18 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [AMD CEO Lisa Su: 'We are a data center-first company'](<https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/>) · PC Gamer · Nov 07, 2026
-* [After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay](<https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/>) · PC Gamer · Nov 07, 2026
+* [Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things](<https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/>) · PC Gamer · Nov 08, 2026
+* [A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'](<https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/>) · PC Gamer · Nov 08, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
