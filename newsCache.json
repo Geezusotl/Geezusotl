@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-11-08T21:00:11+00:00",
+          "source": "TechCrunch",
+          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+        },
+        {
           "published": "2026-11-07T21:17:08+00:00",
           "source": "TechCrunch",
           "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
           "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
-        },
-        {
-          "published": "2026-11-06T22:53:46+00:00",
-          "source": "TechCrunch",
-          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
         },
         {
           "published": "2026-11-06T08:00:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/partnering-with-hacktron"
         }
       ],
-      "lastSuccess": "2026-11-08T13:38:19.700989+00:00",
+      "lastSuccess": "2026-11-08T22:15:29.183079+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
         }
       ],
-      "lastSuccess": "2026-11-08T13:38:19.700989+00:00",
+      "lastSuccess": "2026-11-08T22:15:29.183079+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-08T13:19:55+00:00",
+          "published": "2026-11-08T22:06:56+00:00",
           "source": "PC Gamer",
-          "title": "This massive mod essentially turns Skyrim into a persistent MMO 'where player actions create lasting consequences'",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/"
+          "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/"
         },
         {
-          "published": "2026-11-08T12:16:51+00:00",
+          "published": "2026-11-08T21:38:31+00:00",
           "source": "PC Gamer",
-          "title": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
-          "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/"
+          "title": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
+          "url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/"
         }
       ],
-      "lastSuccess": "2026-11-08T13:38:19.700989+00:00",
+      "lastSuccess": "2026-11-08T22:15:29.183079+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
         }
       ],
-      "lastSuccess": "2026-11-08T13:38:19.700989+00:00",
+      "lastSuccess": "2026-11-08T22:15:29.183079+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-08T13:38:19.700989+00:00"
+  "lastChecked": "2026-11-08T22:15:29.183079+00:00"
 }

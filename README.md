@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 08, 2026 at 13:38 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 08, 2026 at 22:15 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
+* [Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy](<https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/>) · TechCrunch · Nov 08, 2026
 * [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](<https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/>) · TechCrunch · Nov 07, 2026
-* [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](<https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/>) · TechCrunch · Nov 06, 2026
 * [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](<https://openai.com/index/partnering-with-hacktron>) · OpenAI · Nov 06, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [This massive mod essentially turns Skyrim into a persistent MMO 'where player actions create lasting consequences'](<https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/>) · PC Gamer · Nov 08, 2026
-* [As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'](<https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/>) · PC Gamer · Nov 08, 2026
+* [Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'](<https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/>) · PC Gamer · Nov 08, 2026
+* [Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation](<https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/>) · PC Gamer · Nov 08, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
