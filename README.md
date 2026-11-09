@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 08, 2026 at 22:15 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 09, 2026 at 06:51 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'](<https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/>) · PC Gamer · Nov 08, 2026
-* [Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation](<https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/>) · PC Gamer · Nov 08, 2026
+* [Lead designer Bruce Nesmith says Skyrim was a hit because it was built on institutional knowledge from Oblivion](<https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion/>) · PC Gamer · Nov 09, 2026
+* [Warhammer Blood Bowl has been delayed into early 2027](<https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/>) · PC Gamer · Nov 09, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
