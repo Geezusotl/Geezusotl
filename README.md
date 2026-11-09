@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 09, 2026 at 06:51 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 09, 2026 at 22:30 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Vulnerability that lets hackers SSH into Linux devices is under active exploitation](<https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/>) · Ars Technica · Nov 09, 2026
 * [Chainalysis says hackers stole credentials and tokens for all of its customers](<https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/>) · Ars Technica · Nov 06, 2026
-* [Meet \*sshole, the vulnerability that lets hackers SSH into Linux devices](<https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/>) · Ars Technica · Nov 05, 2026
 
 ### AI
 
-* [Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy](<https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/>) · TechCrunch · Nov 08, 2026
-* [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](<https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/>) · TechCrunch · Nov 07, 2026
-* [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](<https://openai.com/index/partnering-with-hacktron>) · OpenAI · Nov 06, 2026
+* [The race is on to sue Nvidia](<https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/>) · TechCrunch · Nov 09, 2026
+* [Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy](<https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/>) · TechCrunch · Nov 09, 2026
+* [ChatGPT Enterprise now available in AWS Marketplace](<https://openai.com/index/chatgpt-enterprise-aws-marketplace>) · OpenAI · Nov 09, 2026
 
 ### Business and markets
 
-* [Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup](<https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html>) · CNBC · Nov 07, 2026
-* [Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline](<https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html>) · CNBC · Nov 07, 2026
+* [Jensen Huang exit odds are low on prediction markets after Nvidia probe](<https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html>) · CNBC · Nov 09, 2026
+* [Goldman CEO Solomon says AI financing remains strong despite market jitters](<https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html>) · CNBC · Nov 09, 2026
 
 ### Gaming
 
-* [Lead designer Bruce Nesmith says Skyrim was a hit because it was built on institutional knowledge from Oblivion](<https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion/>) · PC Gamer · Nov 09, 2026
-* [Warhammer Blood Bowl has been delayed into early 2027](<https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/>) · PC Gamer · Nov 09, 2026
+* [Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period](<https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/>) · PC Gamer · Nov 09, 2026
+* [A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people](<https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/>) · PC Gamer · Nov 09, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

@@ -3,81 +3,81 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-08T21:00:11+00:00",
+          "published": "2026-11-09T22:23:42+00:00",
           "source": "TechCrunch",
-          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+          "title": "The race is on to sue Nvidia",
+          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
         },
         {
-          "published": "2026-11-07T21:17:08+00:00",
+          "published": "2026-11-09T20:09:06+00:00",
           "source": "TechCrunch",
-          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
         },
         {
-          "published": "2026-11-06T08:00:00+00:00",
+          "published": "2026-11-09T19:00:00+00:00",
           "source": "OpenAI",
-          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "url": "https://openai.com/index/partnering-with-hacktron"
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
         }
       ],
-      "lastSuccess": "2026-11-09T06:51:23.619478+00:00",
+      "lastSuccess": "2026-11-09T22:30:07.289035+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-07T16:02:33+00:00",
+          "published": "2026-11-09T18:46:01+00:00",
           "source": "CNBC",
-          "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-          "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html"
+          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+          "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html"
         },
         {
-          "published": "2026-11-07T15:23:46+00:00",
+          "published": "2026-11-09T18:14:47+00:00",
           "source": "CNBC",
-          "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-          "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+          "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+          "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html"
         }
       ],
-      "lastSuccess": "2026-11-09T06:51:23.619478+00:00",
+      "lastSuccess": "2026-11-09T22:30:07.289035+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-09T04:45:28+00:00",
+          "published": "2026-11-09T22:06:34+00:00",
           "source": "PC Gamer",
-          "title": "Lead designer Bruce Nesmith says Skyrim was a hit because it was built on institutional knowledge from Oblivion",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion/"
+          "title": "Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/"
         },
         {
-          "published": "2026-11-09T00:45:39+00:00",
+          "published": "2026-11-09T19:32:33+00:00",
           "source": "PC Gamer",
-          "title": "Warhammer Blood Bowl has been delayed into early 2027",
-          "url": "https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/"
+          "title": "A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people",
+          "url": "https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/"
         }
       ],
-      "lastSuccess": "2026-11-09T06:51:23.619478+00:00",
+      "lastSuccess": "2026-11-09T22:30:07.289035+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
+          "published": "2026-11-09T19:41:34+00:00",
+          "source": "Ars Technica",
+          "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+          "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+        },
+        {
           "published": "2026-11-06T20:56:41+00:00",
           "source": "Ars Technica",
           "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
           "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
-        },
-        {
-          "published": "2026-11-05T23:09:36+00:00",
-          "source": "Ars Technica",
-          "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-          "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
         }
       ],
-      "lastSuccess": "2026-11-09T06:51:23.619478+00:00",
+      "lastSuccess": "2026-11-09T22:30:07.289035+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-09T06:51:23.619478+00:00"
+  "lastChecked": "2026-11-09T22:30:07.289035+00:00"
 }
