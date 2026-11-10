@@ -3,61 +3,61 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-10T01:27:12+00:00",
+          "published": "2026-11-10T19:23:34+00:00",
           "source": "TechCrunch",
-          "title": "Anthropic reportedly plans to move forward with IPO plans",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+          "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
         },
         {
-          "published": "2026-11-09T22:46:09+00:00",
+          "published": "2026-11-10T19:03:52+00:00",
           "source": "TechCrunch",
-          "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+          "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
         },
         {
-          "published": "2026-11-09T19:00:00+00:00",
+          "published": "2026-11-10T12:00:00+00:00",
           "source": "OpenAI",
-          "title": "ChatGPT Enterprise now available in AWS Marketplace",
-          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+          "title": "Helping caregivers use AI in everyday life",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
         }
       ],
-      "lastSuccess": "2026-11-10T07:29:27.238681+00:00",
+      "lastSuccess": "2026-11-10T19:51:39.304700+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-09T18:46:01+00:00",
+          "published": "2026-11-10T17:13:44+00:00",
           "source": "CNBC",
-          "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-          "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html"
+          "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+          "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"
         },
         {
-          "published": "2026-11-09T18:14:47+00:00",
+          "published": "2026-11-10T16:29:09+00:00",
           "source": "CNBC",
-          "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-          "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html"
+          "title": "U.S. gas prices fall below $4 for the first time since July",
+          "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html"
         }
       ],
-      "lastSuccess": "2026-11-10T07:29:27.238681+00:00",
+      "lastSuccess": "2026-11-10T19:51:39.304700+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-10T00:24:43+00:00",
+          "published": "2026-11-10T18:57:18+00:00",
           "source": "PC Gamer",
-          "title": "'The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/"
+          "title": "PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it",
+          "url": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/"
         },
         {
-          "published": "2026-11-09T22:33:41+00:00",
+          "published": "2026-11-10T18:00:00+00:00",
           "source": "PC Gamer",
-          "title": "A month after Paramount acquired Warner Bros. Discovery, its merged game division is laying people off",
-          "url": "https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/"
+          "title": "I installed a GTA 5 mod that makes it rain human beings, and no I don't know why either",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-mod-that-makes-it-rain-human-beings-and-no-i-dont-know-why-either/"
         }
       ],
-      "lastSuccess": "2026-11-10T07:29:27.238681+00:00",
+      "lastSuccess": "2026-11-10T19:51:39.304700+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
         }
       ],
-      "lastSuccess": "2026-11-10T07:29:27.238681+00:00",
+      "lastSuccess": "2026-11-10T19:51:39.304700+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-10T07:29:27.238681+00:00"
+  "lastChecked": "2026-11-10T19:51:39.304700+00:00"
 }

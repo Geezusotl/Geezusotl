@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 10, 2026 at 07:29 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 10, 2026 at 19:51 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Anthropic reportedly plans to move forward with IPO plans](<https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/>) · TechCrunch · Nov 10, 2026
-* [A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal](<https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/>) · TechCrunch · Nov 09, 2026
-* [ChatGPT Enterprise now available in AWS Marketplace](<https://openai.com/index/chatgpt-enterprise-aws-marketplace>) · OpenAI · Nov 09, 2026
+* [Oura to acquire AI-native primary care startup Counsel Health for $625M](<https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/>) · TechCrunch · Nov 10, 2026
+* [PSI is trying to make a business out of AI-driven scientific discovery](<https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/>) · TechCrunch · Nov 10, 2026
+* [Helping caregivers use AI in everyday life](<https://openai.com/index/helping-caregivers-use-ai-in-everyday-life>) · OpenAI · Nov 10, 2026
 
 ### Business and markets
 
-* [Jensen Huang exit odds are low on prediction markets after Nvidia probe](<https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html>) · CNBC · Nov 09, 2026
-* [Goldman CEO Solomon says AI financing remains strong despite market jitters](<https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html>) · CNBC · Nov 09, 2026
+* [Fed Governor Waller sees December hike likely, opens door to possible half-point increase](<https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html>) · CNBC · Nov 10, 2026
+* [U.S. gas prices fall below $4 for the first time since July](<https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html>) · CNBC · Nov 10, 2026
 
 ### Gaming
 
-* ['The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying](<https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/>) · PC Gamer · Nov 10, 2026
-* [A month after Paramount acquired Warner Bros. Discovery, its merged game division is laying people off](<https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/>) · PC Gamer · Nov 09, 2026
+* [PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it](<https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/>) · PC Gamer · Nov 10, 2026
+* [I installed a GTA 5 mod that makes it rain human beings, and no I don't know why either](<https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-mod-that-makes-it-rain-human-beings-and-no-i-dont-know-why-either/>) · PC Gamer · Nov 10, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
