@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 09, 2026 at 22:30 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 10, 2026 at 07:29 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
-* [The race is on to sue Nvidia](<https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/>) · TechCrunch · Nov 09, 2026
-* [Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy](<https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/>) · TechCrunch · Nov 09, 2026
+* [Anthropic reportedly plans to move forward with IPO plans](<https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/>) · TechCrunch · Nov 10, 2026
+* [A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal](<https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/>) · TechCrunch · Nov 09, 2026
 * [ChatGPT Enterprise now available in AWS Marketplace](<https://openai.com/index/chatgpt-enterprise-aws-marketplace>) · OpenAI · Nov 09, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period](<https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/>) · PC Gamer · Nov 09, 2026
-* [A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people](<https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/>) · PC Gamer · Nov 09, 2026
+* ['The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying](<https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/>) · PC Gamer · Nov 10, 2026
+* [A month after Paramount acquired Warner Bros. Discovery, its merged game division is laying people off](<https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/>) · PC Gamer · Nov 09, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

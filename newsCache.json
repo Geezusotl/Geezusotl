@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-09T22:23:42+00:00",
+          "published": "2026-11-10T01:27:12+00:00",
           "source": "TechCrunch",
-          "title": "The race is on to sue Nvidia",
-          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+          "title": "Anthropic reportedly plans to move forward with IPO plans",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
         },
         {
-          "published": "2026-11-09T20:09:06+00:00",
+          "published": "2026-11-09T22:46:09+00:00",
           "source": "TechCrunch",
-          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+          "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
         },
         {
           "published": "2026-11-09T19:00:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
         }
       ],
-      "lastSuccess": "2026-11-09T22:30:07.289035+00:00",
+      "lastSuccess": "2026-11-10T07:29:27.238681+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html"
         }
       ],
-      "lastSuccess": "2026-11-09T22:30:07.289035+00:00",
+      "lastSuccess": "2026-11-10T07:29:27.238681+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-09T22:06:34+00:00",
+          "published": "2026-11-10T00:24:43+00:00",
           "source": "PC Gamer",
-          "title": "Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/"
+          "title": "'The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/"
         },
         {
-          "published": "2026-11-09T19:32:33+00:00",
+          "published": "2026-11-09T22:33:41+00:00",
           "source": "PC Gamer",
-          "title": "A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people",
-          "url": "https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/"
+          "title": "A month after Paramount acquired Warner Bros. Discovery, its merged game division is laying people off",
+          "url": "https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/"
         }
       ],
-      "lastSuccess": "2026-11-09T22:30:07.289035+00:00",
+      "lastSuccess": "2026-11-10T07:29:27.238681+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
         }
       ],
-      "lastSuccess": "2026-11-09T22:30:07.289035+00:00",
+      "lastSuccess": "2026-11-10T07:29:27.238681+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-09T22:30:07.289035+00:00"
+  "lastChecked": "2026-11-10T07:29:27.238681+00:00"
 }
