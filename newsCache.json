@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-10T19:23:34+00:00",
+          "published": "2026-11-10T21:08:52+00:00",
           "source": "TechCrunch",
-          "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+          "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
         },
         {
-          "published": "2026-11-10T19:03:52+00:00",
+          "published": "2026-11-10T20:52:13+00:00",
           "source": "TechCrunch",
-          "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+          "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
         },
         {
           "published": "2026-11-10T12:00:00+00:00",
@@ -21,63 +21,63 @@
           "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
         }
       ],
-      "lastSuccess": "2026-11-10T19:51:39.304700+00:00",
+      "lastSuccess": "2026-11-11T06:44:49.728113+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
+          "published": "2026-11-11T03:08:17+00:00",
+          "source": "CNBC",
+          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+          "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html"
+        },
+        {
           "published": "2026-11-10T17:13:44+00:00",
           "source": "CNBC",
           "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
           "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"
-        },
-        {
-          "published": "2026-11-10T16:29:09+00:00",
-          "source": "CNBC",
-          "title": "U.S. gas prices fall below $4 for the first time since July",
-          "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html"
         }
       ],
-      "lastSuccess": "2026-11-10T19:51:39.304700+00:00",
+      "lastSuccess": "2026-11-11T06:44:49.728113+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-10T18:57:18+00:00",
+          "published": "2026-11-11T01:34:31+00:00",
           "source": "PC Gamer",
-          "title": "PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it",
-          "url": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/"
+          "title": "Steam's age verification in Australia now takes your account's age into consideration",
+          "url": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/"
         },
         {
-          "published": "2026-11-10T18:00:00+00:00",
+          "published": "2026-11-11T00:00:19+00:00",
           "source": "PC Gamer",
-          "title": "I installed a GTA 5 mod that makes it rain human beings, and no I don't know why either",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-mod-that-makes-it-rain-human-beings-and-no-i-dont-know-why-either/"
+          "title": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/"
         }
       ],
-      "lastSuccess": "2026-11-10T19:51:39.304700+00:00",
+      "lastSuccess": "2026-11-11T06:44:49.728113+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
+          "published": "2026-11-10T21:12:59+00:00",
+          "source": "Ars Technica",
+          "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+          "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+        },
+        {
           "published": "2026-11-09T19:41:34+00:00",
           "source": "Ars Technica",
           "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
           "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
-        },
-        {
-          "published": "2026-11-06T20:56:41+00:00",
-          "source": "Ars Technica",
-          "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-          "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
         }
       ],
-      "lastSuccess": "2026-11-10T19:51:39.304700+00:00",
+      "lastSuccess": "2026-11-11T06:44:49.728113+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-10T19:51:39.304700+00:00"
+  "lastChecked": "2026-11-11T06:44:49.728113+00:00"
 }
