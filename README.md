@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 11, 2026 at 19:42 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 12, 2026 at 07:24 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,9 +37,9 @@
 
 ### AI
 
-* [With $720M round, Britain’s Fractile gets a leg up in the race for AI chips](<https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/>) · TechCrunch · Nov 11, 2026
-* [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](<https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/>) · TechCrunch · Nov 11, 2026
-* [ChatGPT Plus for veterans and servicemembers](<https://openai.com/index/chatgpt-plus-for-veterans>) · OpenAI · Nov 11, 2026
+* [Gilbert + Tobin rethinks the business of law with AI](<https://openai.com/index/gilbert-tobin-sam-nickless>) · OpenAI · Nov 12, 2026
+* [Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](<https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/>) · TechCrunch · Nov 11, 2026
+* [Jensen Huang accused of having another affair — with an Nvidia exec](<https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/>) · TechCrunch · Nov 11, 2026
 
 ### Business and markets
 

@@ -3,25 +3,25 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-11T19:34:55+00:00",
-          "source": "TechCrunch",
-          "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
-        },
-        {
-          "published": "2026-11-11T16:14:44+00:00",
-          "source": "TechCrunch",
-          "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-          "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
-        },
-        {
-          "published": "2026-11-11T08:00:00+00:00",
+          "published": "2026-11-12T00:00:00+00:00",
           "source": "OpenAI",
-          "title": "ChatGPT Plus for veterans and servicemembers",
-          "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+        },
+        {
+          "published": "2026-11-11T23:28:45+00:00",
+          "source": "TechCrunch",
+          "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+        },
+        {
+          "published": "2026-11-11T23:17:05+00:00",
+          "source": "TechCrunch",
+          "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+          "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
         }
       ],
-      "lastSuccess": "2026-11-11T19:42:56.200787+00:00",
+      "lastSuccess": "2026-11-12T07:24:08.957695+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,7 +39,7 @@
           "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
         }
       ],
-      "lastSuccess": "2026-11-11T19:42:56.200787+00:00",
+      "lastSuccess": "2026-11-12T07:24:08.957695+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
         }
       ],
-      "lastSuccess": "2026-11-11T19:42:56.200787+00:00",
+      "lastSuccess": "2026-11-12T07:24:08.957695+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-11T19:42:56.200787+00:00"
+  "lastChecked": "2026-11-12T07:24:08.957695+00:00"
 }
