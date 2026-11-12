@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 12, 2026 at 07:24 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 12, 2026 at 20:06 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,21 +37,19 @@
 
 ### AI
 
-* [Gilbert + Tobin rethinks the business of law with AI](<https://openai.com/index/gilbert-tobin-sam-nickless>) · OpenAI · Nov 12, 2026
-* [Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](<https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/>) · TechCrunch · Nov 11, 2026
-* [Jensen Huang accused of having another affair — with an Nvidia exec](<https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/>) · TechCrunch · Nov 11, 2026
+* [Nectar launches an AI agent to automate creator discovery and outreach for brands](<https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/>) · TechCrunch · Nov 12, 2026
+* [Jensen Huang’s exit puts Nvidia’s support for open source in question](<https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/>) · TechCrunch · Nov 12, 2026
+* [Holiday Extras is rethinking what it can build with Codex](<https://openai.com/business/customer-stories/holidays-extras-codex>) · OpenAI · Nov 12, 2026
 
 ### Business and markets
 
-* [Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire](<https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html>) · CNBC · Nov 11, 2026
-* [Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes](<https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html>) · CNBC · Nov 11, 2026
+* [In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates](<https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html>) · CNBC · Nov 12, 2026
+* [Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'](<https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html>) · CNBC · Nov 12, 2026
 
 ### Gaming
 
-* [Steam's age verification in Australia now takes your account's age into consideration](<https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/>) · PC Gamer · Nov 11, 2026
-* [One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC](<https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/>) · PC Gamer · Nov 11, 2026
-
-<sub>Source unavailable at the latest check. Showing headlines saved Nov 11 at 06:44 UTC.</sub>
+* [Paradox Interactive is getting a new boss as Fredrik Wester steps down for the second time](<https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time/>) · PC Gamer · Nov 12, 2026
+* [South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'](<https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/>) · PC Gamer · Nov 12, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

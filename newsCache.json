@@ -3,62 +3,62 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-12T00:00:00+00:00",
+          "published": "2026-11-12T19:11:00+00:00",
+          "source": "TechCrunch",
+          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+        },
+        {
+          "published": "2026-11-12T18:39:23+00:00",
+          "source": "TechCrunch",
+          "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+        },
+        {
+          "published": "2026-11-12T09:30:00+00:00",
           "source": "OpenAI",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-        },
-        {
-          "published": "2026-11-11T23:28:45+00:00",
-          "source": "TechCrunch",
-          "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
-        },
-        {
-          "published": "2026-11-11T23:17:05+00:00",
-          "source": "TechCrunch",
-          "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-          "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+          "title": "Holiday Extras is rethinking what it can build with Codex",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
         }
       ],
-      "lastSuccess": "2026-11-12T07:24:08.957695+00:00",
+      "lastSuccess": "2026-11-12T20:06:30.758372+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-11T19:16:23+00:00",
+          "published": "2026-11-12T19:05:25+00:00",
           "source": "CNBC",
-          "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
-          "url": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html"
+          "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+          "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html"
         },
         {
-          "published": "2026-11-11T16:49:02+00:00",
+          "published": "2026-11-12T19:04:21+00:00",
           "source": "CNBC",
-          "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-          "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
+          "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+          "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
         }
       ],
-      "lastSuccess": "2026-11-12T07:24:08.957695+00:00",
+      "lastSuccess": "2026-11-12T20:06:30.758372+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-11T01:34:31+00:00",
+          "published": "2026-11-12T19:52:19+00:00",
           "source": "PC Gamer",
-          "title": "Steam's age verification in Australia now takes your account's age into consideration",
-          "url": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/"
+          "title": "Paradox Interactive is getting a new boss as Fredrik Wester steps down for the second time",
+          "url": "https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time/"
         },
         {
-          "published": "2026-11-11T00:00:19+00:00",
+          "published": "2026-11-12T19:06:41+00:00",
           "source": "PC Gamer",
-          "title": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/"
+          "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/"
         }
       ],
-      "lastSuccess": "2026-11-11T06:44:49.728113+00:00",
-      "unavailable": true
+      "lastSuccess": "2026-11-12T20:06:30.758372+00:00",
+      "unavailable": false
     },
     "Technology": {
       "items": [
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
         }
       ],
-      "lastSuccess": "2026-11-12T07:24:08.957695+00:00",
+      "lastSuccess": "2026-11-12T20:06:30.758372+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-12T07:24:08.957695+00:00"
+  "lastChecked": "2026-11-12T20:06:30.758372+00:00"
 }
