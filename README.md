@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 12, 2026 at 20:06 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 13, 2026 at 06:56 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
+* [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](<https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/>) · TechCrunch · Nov 12, 2026
+* [How Amplitude ships product improvements in 1–2 days with OpenAI](<https://openai.com/business/customer-stories/amplitude>) · OpenAI · Nov 12, 2026
 * [Nectar launches an AI agent to automate creator discovery and outreach for brands](<https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/>) · TechCrunch · Nov 12, 2026
-* [Jensen Huang’s exit puts Nvidia’s support for open source in question](<https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/>) · TechCrunch · Nov 12, 2026
-* [Holiday Extras is rethinking what it can build with Codex](<https://openai.com/business/customer-stories/holidays-extras-codex>) · OpenAI · Nov 12, 2026
 
 ### Business and markets
 
-* [In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates](<https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html>) · CNBC · Nov 12, 2026
-* [Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'](<https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html>) · CNBC · Nov 12, 2026
+* [How the Jensen Huang affair changes the outlook for U.S.-China relations](<https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html>) · CNBC · Nov 13, 2026
+* [Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'](<https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html>) · CNBC · Nov 13, 2026
 
 ### Gaming
 
-* [Paradox Interactive is getting a new boss as Fredrik Wester steps down for the second time](<https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time/>) · PC Gamer · Nov 12, 2026
-* [South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'](<https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/>) · PC Gamer · Nov 12, 2026
+* [Wolfenstein 3 is in production at MachineGames](<https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/>) · PC Gamer · Nov 13, 2026
+* [New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable](<https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/>) · PC Gamer · Nov 12, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
