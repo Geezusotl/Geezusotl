@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 13, 2026 at 06:56 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 13, 2026 at 19:51 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Windows 0-day dropped by disgruntled researcher hands hackers System rights](<https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/>) · Ars Technica · Nov 13, 2026
 * [Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI](<https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/>) · Ars Technica · Nov 10, 2026
-* [Vulnerability that lets hackers SSH into Linux devices is under active exploitation](<https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/>) · Ars Technica · Nov 09, 2026
 
 ### AI
 
-* [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](<https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/>) · TechCrunch · Nov 12, 2026
-* [How Amplitude ships product improvements in 1–2 days with OpenAI](<https://openai.com/business/customer-stories/amplitude>) · OpenAI · Nov 12, 2026
-* [Nectar launches an AI agent to automate creator discovery and outreach for brands](<https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/>) · TechCrunch · Nov 12, 2026
+* [Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!](<https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/>) · TechCrunch · Nov 13, 2026
+* [ChatGPT’s new Wallet lets AI agents shop and check out for you](<https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/>) · TechCrunch · Nov 13, 2026
+* [Introducing ChatGPT Wallet](<https://openai.com/index/introducing-chatgpt-wallet>) · OpenAI · Nov 13, 2026
 
 ### Business and markets
 
-* [How the Jensen Huang affair changes the outlook for U.S.-China relations](<https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html>) · CNBC · Nov 13, 2026
-* [Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'](<https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html>) · CNBC · Nov 13, 2026
+* [Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker](<https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html>) · CNBC · Nov 13, 2026
+* [Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation](<https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html>) · CNBC · Nov 13, 2026
 
 ### Gaming
 
-* [Wolfenstein 3 is in production at MachineGames](<https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/>) · PC Gamer · Nov 13, 2026
-* [New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable](<https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/>) · PC Gamer · Nov 12, 2026
+* [New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6](<https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/>) · PC Gamer · Nov 13, 2026
+* [Think you know videogame cats? Then name 17 of them](<https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them/>) · PC Gamer · Nov 13, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

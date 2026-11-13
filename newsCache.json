@@ -3,81 +3,81 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-12T22:42:51+00:00",
+          "published": "2026-11-13T18:40:30+00:00",
           "source": "TechCrunch",
-          "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-          "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
         },
         {
-          "published": "2026-11-12T20:00:00+00:00",
+          "published": "2026-11-13T16:00:12+00:00",
+          "source": "TechCrunch",
+          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+        },
+        {
+          "published": "2026-11-13T15:00:00+00:00",
           "source": "OpenAI",
-          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "url": "https://openai.com/business/customer-stories/amplitude"
-        },
-        {
-          "published": "2026-11-12T19:11:00+00:00",
-          "source": "TechCrunch",
-          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet"
         }
       ],
-      "lastSuccess": "2026-11-13T06:56:16.604066+00:00",
+      "lastSuccess": "2026-11-13T19:51:39.370435+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-13T02:56:35+00:00",
+          "published": "2026-11-13T19:11:13+00:00",
           "source": "CNBC",
-          "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-          "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html"
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+          "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
         },
         {
-          "published": "2026-11-13T00:01:19+00:00",
+          "published": "2026-11-13T14:22:07+00:00",
           "source": "CNBC",
-          "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-          "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+          "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+          "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html"
         }
       ],
-      "lastSuccess": "2026-11-13T06:56:16.604066+00:00",
+      "lastSuccess": "2026-11-13T19:51:39.370435+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-13T01:35:32+00:00",
+          "published": "2026-11-13T19:30:31+00:00",
           "source": "PC Gamer",
-          "title": "Wolfenstein 3 is in production at MachineGames",
-          "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/"
+          "title": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/"
         },
         {
-          "published": "2026-11-12T22:43:21+00:00",
+          "published": "2026-11-13T18:43:11+00:00",
           "source": "PC Gamer",
-          "title": "New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable",
-          "url": "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/"
+          "title": "Think you know videogame cats? Then name 17 of them",
+          "url": "https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them/"
         }
       ],
-      "lastSuccess": "2026-11-13T06:56:16.604066+00:00",
+      "lastSuccess": "2026-11-13T19:51:39.370435+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
+          "published": "2026-11-13T16:26:32+00:00",
+          "source": "Ars Technica",
+          "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+          "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+        },
+        {
           "published": "2026-11-10T21:12:59+00:00",
           "source": "Ars Technica",
           "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
           "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
-        },
-        {
-          "published": "2026-11-09T19:41:34+00:00",
-          "source": "Ars Technica",
-          "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-          "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
         }
       ],
-      "lastSuccess": "2026-11-13T06:56:16.604066+00:00",
+      "lastSuccess": "2026-11-13T19:51:39.370435+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-13T06:56:16.604066+00:00"
+  "lastChecked": "2026-11-13T19:51:39.370435+00:00"
 }
