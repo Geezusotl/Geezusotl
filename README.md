@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 14, 2026 at 06:42 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 14, 2026 at 18:17 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](<https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/>) · TechCrunch · Nov 13, 2026
-* [AI agent startup LangChain hits $3B valuation](<https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/>) · TechCrunch · Nov 13, 2026
+* [The AI graveyard: a running list of projects and startups that didn’t make it](<https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/>) · TechCrunch · Nov 14, 2026
+* [Asian governments react to Nvidia CEO Jensen Huang’s exit](<https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/>) · TechCrunch · Nov 14, 2026
 * [Introducing ChatGPT Wallet](<https://openai.com/index/introducing-chatgpt-wallet>) · OpenAI · Nov 13, 2026
 
 ### Business and markets
 
-* [Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker](<https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html>) · CNBC · Nov 13, 2026
-* [Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation](<https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html>) · CNBC · Nov 13, 2026
+* [How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts](<https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html>) · CNBC · Nov 14, 2026
+* [Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home](<https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html>) · CNBC · Nov 14, 2026
 
 ### Gaming
 
-* [Yes, some brave games are still launching on Steam during GTA 6 week](<https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/>) · PC Gamer · Nov 13, 2026
-* [Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'](<https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/>) · PC Gamer · Nov 13, 2026
+* [Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?](<https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/>) · PC Gamer · Nov 14, 2026
+* [I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress](<https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/>) · PC Gamer · Nov 14, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
