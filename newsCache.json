@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-11-14T21:41:22+00:00",
+          "source": "TechCrunch",
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+        },
+        {
           "published": "2026-11-14T17:30:00+00:00",
           "source": "TechCrunch",
           "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
           "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-        },
-        {
-          "published": "2026-11-14T16:34:15+00:00",
-          "source": "TechCrunch",
-          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
         },
         {
           "published": "2026-11-13T15:00:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/introducing-chatgpt-wallet"
         }
       ],
-      "lastSuccess": "2026-11-14T18:17:01.589365+00:00",
+      "lastSuccess": "2026-11-14T22:33:47.514827+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
         }
       ],
-      "lastSuccess": "2026-11-14T18:17:01.589365+00:00",
+      "lastSuccess": "2026-11-14T22:33:47.514827+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-14T17:00:00+00:00",
+          "published": "2026-11-14T22:17:19+00:00",
           "source": "PC Gamer",
-          "title": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/"
+          "title": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/"
         },
         {
-          "published": "2026-11-14T16:00:00+00:00",
+          "published": "2026-11-14T20:45:44+00:00",
           "source": "PC Gamer",
-          "title": "I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress",
-          "url": "https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/"
+          "title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
+          "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/"
         }
       ],
-      "lastSuccess": "2026-11-14T18:17:01.589365+00:00",
+      "lastSuccess": "2026-11-14T22:33:47.514827+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
         }
       ],
-      "lastSuccess": "2026-11-14T18:17:01.589365+00:00",
+      "lastSuccess": "2026-11-14T22:33:47.514827+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-14T18:17:01.589365+00:00"
+  "lastChecked": "2026-11-14T22:33:47.514827+00:00"
 }

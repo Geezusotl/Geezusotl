@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 14, 2026 at 18:17 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 14, 2026 at 22:33 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
+* [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](<https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/>) · TechCrunch · Nov 14, 2026
 * [The AI graveyard: a running list of projects and startups that didn’t make it](<https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/>) · TechCrunch · Nov 14, 2026
-* [Asian governments react to Nvidia CEO Jensen Huang’s exit](<https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/>) · TechCrunch · Nov 14, 2026
 * [Introducing ChatGPT Wallet](<https://openai.com/index/introducing-chatgpt-wallet>) · OpenAI · Nov 13, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?](<https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/>) · PC Gamer · Nov 14, 2026
-* [I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress](<https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/>) · PC Gamer · Nov 14, 2026
+* [WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party](<https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/>) · PC Gamer · Nov 14, 2026
+* [Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers](<https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/>) · PC Gamer · Nov 14, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
