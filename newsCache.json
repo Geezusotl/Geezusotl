@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-13T18:40:30+00:00",
+          "published": "2026-11-13T22:43:00+00:00",
           "source": "TechCrunch",
-          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
-          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
         },
         {
-          "published": "2026-11-13T16:00:12+00:00",
+          "published": "2026-11-13T19:37:57+00:00",
           "source": "TechCrunch",
-          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+          "title": "AI agent startup LangChain hits $3B valuation",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
         },
         {
           "published": "2026-11-13T15:00:00+00:00",
@@ -21,15 +21,15 @@
           "url": "https://openai.com/index/introducing-chatgpt-wallet"
         }
       ],
-      "lastSuccess": "2026-11-13T19:51:39.370435+00:00",
+      "lastSuccess": "2026-11-14T06:42:55.370168+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-13T19:11:13+00:00",
+          "published": "2026-11-13T23:42:18+00:00",
           "source": "CNBC",
-          "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
           "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
         },
         {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html"
         }
       ],
-      "lastSuccess": "2026-11-13T19:51:39.370435+00:00",
+      "lastSuccess": "2026-11-14T06:42:55.370168+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-13T19:30:31+00:00",
+          "published": "2026-11-13T22:28:10+00:00",
           "source": "PC Gamer",
-          "title": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/"
+          "title": "Yes, some brave games are still launching on Steam during GTA 6 week",
+          "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/"
         },
         {
-          "published": "2026-11-13T18:43:11+00:00",
+          "published": "2026-11-13T22:17:06+00:00",
           "source": "PC Gamer",
-          "title": "Think you know videogame cats? Then name 17 of them",
-          "url": "https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them/"
+          "title": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
+          "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/"
         }
       ],
-      "lastSuccess": "2026-11-13T19:51:39.370435+00:00",
+      "lastSuccess": "2026-11-14T06:42:55.370168+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
         }
       ],
-      "lastSuccess": "2026-11-13T19:51:39.370435+00:00",
+      "lastSuccess": "2026-11-14T06:42:55.370168+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-13T19:51:39.370435+00:00"
+  "lastChecked": "2026-11-14T06:42:55.370168+00:00"
 }

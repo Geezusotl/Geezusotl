@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 13, 2026 at 19:51 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 14, 2026 at 06:42 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!](<https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/>) · TechCrunch · Nov 13, 2026
-* [ChatGPT’s new Wallet lets AI agents shop and check out for you](<https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/>) · TechCrunch · Nov 13, 2026
+* [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](<https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/>) · TechCrunch · Nov 13, 2026
+* [AI agent startup LangChain hits $3B valuation](<https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/>) · TechCrunch · Nov 13, 2026
 * [Introducing ChatGPT Wallet](<https://openai.com/index/introducing-chatgpt-wallet>) · OpenAI · Nov 13, 2026
 
 ### Business and markets
 
-* [Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker](<https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html>) · CNBC · Nov 13, 2026
+* [Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker](<https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html>) · CNBC · Nov 13, 2026
 * [Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation](<https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html>) · CNBC · Nov 13, 2026
 
 ### Gaming
 
-* [New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6](<https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/>) · PC Gamer · Nov 13, 2026
-* [Think you know videogame cats? Then name 17 of them](<https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them/>) · PC Gamer · Nov 13, 2026
+* [Yes, some brave games are still launching on Steam during GTA 6 week](<https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/>) · PC Gamer · Nov 13, 2026
+* [Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'](<https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/>) · PC Gamer · Nov 13, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
