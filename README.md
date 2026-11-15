@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 15, 2026 at 06:48 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 15, 2026 at 18:57 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/>) · PC Gamer · Nov 15, 2026
-* [Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane](<https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/>) · PC Gamer · Nov 14, 2026
+* [Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?](<https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/>) · PC Gamer · Nov 15, 2026
+* [League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client](<https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/>) · PC Gamer · Nov 15, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
