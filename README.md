@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 14, 2026 at 22:33 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 15, 2026 at 06:48 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
+* [Where was Nvidia’s security team?](<https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/>) · TechCrunch · Nov 15, 2026
 * [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](<https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/>) · TechCrunch · Nov 14, 2026
-* [The AI graveyard: a running list of projects and startups that didn’t make it](<https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/>) · TechCrunch · Nov 14, 2026
 * [Introducing ChatGPT Wallet](<https://openai.com/index/introducing-chatgpt-wallet>) · OpenAI · Nov 13, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party](<https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/>) · PC Gamer · Nov 14, 2026
-* [Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers](<https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/>) · PC Gamer · Nov 14, 2026
+* [GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/>) · PC Gamer · Nov 15, 2026
+* [Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane](<https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/>) · PC Gamer · Nov 14, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-11-15T00:08:07+00:00",
+          "source": "TechCrunch",
+          "title": "Where was Nvidia’s security team?",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+        },
+        {
           "published": "2026-11-14T21:41:22+00:00",
           "source": "TechCrunch",
           "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
           "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-        },
-        {
-          "published": "2026-11-14T17:30:00+00:00",
-          "source": "TechCrunch",
-          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
         },
         {
           "published": "2026-11-13T15:00:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/introducing-chatgpt-wallet"
         }
       ],
-      "lastSuccess": "2026-11-14T22:33:47.514827+00:00",
+      "lastSuccess": "2026-11-15T06:48:20.744707+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
         }
       ],
-      "lastSuccess": "2026-11-14T22:33:47.514827+00:00",
+      "lastSuccess": "2026-11-15T06:48:20.744707+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-14T22:17:19+00:00",
+          "published": "2026-11-15T04:52:26+00:00",
           "source": "PC Gamer",
-          "title": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/"
+          "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/"
         },
         {
-          "published": "2026-11-14T20:45:44+00:00",
+          "published": "2026-11-14T23:50:31+00:00",
           "source": "PC Gamer",
-          "title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
-          "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/"
+          "title": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
+          "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/"
         }
       ],
-      "lastSuccess": "2026-11-14T22:33:47.514827+00:00",
+      "lastSuccess": "2026-11-15T06:48:20.744707+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
         }
       ],
-      "lastSuccess": "2026-11-14T22:33:47.514827+00:00",
+      "lastSuccess": "2026-11-15T06:48:20.744707+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-14T22:33:47.514827+00:00"
+  "lastChecked": "2026-11-15T06:48:20.744707+00:00"
 }
