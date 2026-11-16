@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 16, 2026 at 06:46 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 16, 2026 at 22:18 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day](<https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/>) · Ars Technica · Nov 16, 2026
 * [Windows 0-day dropped by disgruntled researcher hands hackers System rights](<https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/>) · Ars Technica · Nov 13, 2026
-* [Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI](<https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/>) · Ars Technica · Nov 10, 2026
 
 ### AI
 
-* [Apple launches new app to study how people use AI for health](<https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/>) · TechCrunch · Nov 16, 2026
-* [Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](<https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/>) · TechCrunch · Nov 15, 2026
-* [A step toward defining the Standard Model on a lattice](<https://openai.com/index/step-toward-defining-the-standard-model>) · OpenAI · Nov 15, 2026
+* [All the questions Nvidia should answer on Tuesday — but probably won’t](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>) · TechCrunch · Nov 16, 2026
+* [California state AG sues OpenAI over rogue agent incidents](<https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/>) · TechCrunch · Nov 16, 2026
+* [Strengthening the fight against online child sexual abuse with new tools and support](<https://openai.com/index/strengthening-online-child-safety>) · OpenAI · Nov 16, 2026
 
 ### Business and markets
 
-* [China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates](<https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html>) · CNBC · Nov 16, 2026
-* [Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker](<https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html>) · CNBC · Nov 15, 2026
+* [U.S. crude oil declines to $85 a barrel on recovering Middle East exports](<https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html>) · CNBC · Nov 16, 2026
+* [Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’](<https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html>) · CNBC · Nov 16, 2026
 
 ### Gaming
 
-* [Influential Warhammer miniature designer Aly Morrison has died](<https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/>) · PC Gamer · Nov 16, 2026
-* [Black Friday on Amazon starts tomorrow, but the deals have already begun and we’ve got the best buys right here](<https://www.pcgamer.com/hardware/amazon-au-black-friday-pc-gaming-deals-2026-1/>) · PC Gamer · Nov 16, 2026
+* [Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'](<https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry/>) · PC Gamer · Nov 16, 2026
+* [Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested](<https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested/>) · PC Gamer · Nov 16, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
