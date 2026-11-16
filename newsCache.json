@@ -3,61 +3,61 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-15T00:08:07+00:00",
+          "published": "2026-11-16T01:30:00+00:00",
           "source": "TechCrunch",
-          "title": "Where was Nvidia’s security team?",
-          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+          "title": "Apple launches new app to study how people use AI for health",
+          "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
         },
         {
-          "published": "2026-11-14T21:41:22+00:00",
+          "published": "2026-11-15T23:30:00+00:00",
           "source": "TechCrunch",
-          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+          "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
         },
         {
-          "published": "2026-11-13T15:00:00+00:00",
+          "published": "2026-11-15T22:00:01+00:00",
           "source": "OpenAI",
-          "title": "Introducing ChatGPT Wallet",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet"
+          "title": "A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model"
         }
       ],
-      "lastSuccess": "2026-11-15T18:57:35.986172+00:00",
+      "lastSuccess": "2026-11-16T06:46:56.314584+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-14T15:50:43+00:00",
+          "published": "2026-11-16T03:53:59+00:00",
           "source": "CNBC",
-          "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-          "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"
+          "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+          "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
         },
         {
-          "published": "2026-11-14T12:00:01+00:00",
+          "published": "2026-11-15T19:58:21+00:00",
           "source": "CNBC",
-          "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-          "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
+          "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+          "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
         }
       ],
-      "lastSuccess": "2026-11-15T18:57:35.986172+00:00",
+      "lastSuccess": "2026-11-16T06:46:56.314584+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-15T18:00:00+00:00",
+          "published": "2026-11-16T05:30:39+00:00",
           "source": "PC Gamer",
-          "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/"
+          "title": "Influential Warhammer miniature designer Aly Morrison has died",
+          "url": "https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/"
         },
         {
-          "published": "2026-11-15T17:45:48+00:00",
+          "published": "2026-11-16T04:27:32+00:00",
           "source": "PC Gamer",
-          "title": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
-          "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/"
+          "title": "Black Friday on Amazon starts tomorrow, but the deals have already begun and we’ve got the best buys right here",
+          "url": "https://www.pcgamer.com/hardware/amazon-au-black-friday-pc-gaming-deals-2026-1/"
         }
       ],
-      "lastSuccess": "2026-11-15T18:57:35.986172+00:00",
+      "lastSuccess": "2026-11-16T06:46:56.314584+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
         }
       ],
-      "lastSuccess": "2026-11-15T18:57:35.986172+00:00",
+      "lastSuccess": "2026-11-16T06:46:56.314584+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-15T18:57:35.986172+00:00"
+  "lastChecked": "2026-11-16T06:46:56.314584+00:00"
 }

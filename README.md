@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 15, 2026 at 18:57 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 16, 2026 at 06:46 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Where was Nvidia’s security team?](<https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/>) · TechCrunch · Nov 15, 2026
-* [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](<https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/>) · TechCrunch · Nov 14, 2026
-* [Introducing ChatGPT Wallet](<https://openai.com/index/introducing-chatgpt-wallet>) · OpenAI · Nov 13, 2026
+* [Apple launches new app to study how people use AI for health](<https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/>) · TechCrunch · Nov 16, 2026
+* [Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](<https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/>) · TechCrunch · Nov 15, 2026
+* [A step toward defining the Standard Model on a lattice](<https://openai.com/index/step-toward-defining-the-standard-model>) · OpenAI · Nov 15, 2026
 
 ### Business and markets
 
-* [How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts](<https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html>) · CNBC · Nov 14, 2026
-* [Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home](<https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html>) · CNBC · Nov 14, 2026
+* [China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates](<https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html>) · CNBC · Nov 16, 2026
+* [Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker](<https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html>) · CNBC · Nov 15, 2026
 
 ### Gaming
 
-* [Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?](<https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/>) · PC Gamer · Nov 15, 2026
-* [League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client](<https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/>) · PC Gamer · Nov 15, 2026
+* [Influential Warhammer miniature designer Aly Morrison has died](<https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/>) · PC Gamer · Nov 16, 2026
+* [Black Friday on Amazon starts tomorrow, but the deals have already begun and we’ve got the best buys right here](<https://www.pcgamer.com/hardware/amazon-au-black-friday-pc-gaming-deals-2026-1/>) · PC Gamer · Nov 16, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
