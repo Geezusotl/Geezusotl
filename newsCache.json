@@ -3,81 +3,81 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-17T00:00:00+00:00",
+          "published": "2026-11-17T19:32:11+00:00",
+          "source": "TechCrunch",
+          "title": "Model ML raises $250M to automate investment banking grunt work",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+        },
+        {
+          "published": "2026-11-17T18:10:00+00:00",
+          "source": "TechCrunch",
+          "title": "As decision model use skyrockets, is customization the next frontier?",
+          "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/"
+        },
+        {
+          "published": "2026-11-17T17:45:00+00:00",
           "source": "OpenAI",
-          "title": "Strengthening NATO and allied cyber defenses with AI",
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
-        },
-        {
-          "published": "2026-11-16T23:32:32+00:00",
-          "source": "TechCrunch",
-          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
-        },
-        {
-          "published": "2026-11-16T22:03:02+00:00",
-          "source": "TechCrunch",
-          "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-          "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
         }
       ],
-      "lastSuccess": "2026-11-17T08:07:41.994069+00:00",
+      "lastSuccess": "2026-11-17T21:04:14.091108+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
+          "published": "2026-11-17T08:52:45+00:00",
+          "source": "CNBC",
+          "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+          "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html"
+        },
+        {
           "published": "2026-11-16T23:01:19+00:00",
           "source": "CNBC",
           "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
           "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html"
-        },
-        {
-          "published": "2026-11-16T22:19:02+00:00",
-          "source": "CNBC",
-          "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-          "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html"
         }
       ],
-      "lastSuccess": "2026-11-17T08:07:41.994069+00:00",
+      "lastSuccess": "2026-11-17T21:04:14.091108+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-16T22:34:55+00:00",
+          "published": "2026-11-17T20:57:44+00:00",
           "source": "PC Gamer",
-          "title": "That 007 First Light theme song I didn't like is up for a Grammy Award",
-          "url": "https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/"
+          "title": "Tomb Raider developer makes fifth round of layoffs in less than 2 years",
+          "url": "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/"
         },
         {
-          "published": "2026-11-16T22:05:57+00:00",
+          "published": "2026-11-17T18:55:21+00:00",
           "source": "PC Gamer",
-          "title": "Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'",
-          "url": "https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry/"
+          "title": "Sci-fi RPG Exodus gets even more Mass Effect-like with its female lead, who they are calling Femjun",
+          "url": "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/"
         }
       ],
-      "lastSuccess": "2026-11-17T08:07:41.994069+00:00",
+      "lastSuccess": "2026-11-17T21:04:14.091108+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
+          "published": "2026-11-17T14:00:29+00:00",
+          "source": "Ars Technica",
+          "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+          "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/"
+        },
+        {
           "published": "2026-11-16T20:37:47+00:00",
           "source": "Ars Technica",
           "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
           "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
-        },
-        {
-          "published": "2026-11-13T16:26:32+00:00",
-          "source": "Ars Technica",
-          "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-          "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
         }
       ],
-      "lastSuccess": "2026-11-17T08:07:41.994069+00:00",
+      "lastSuccess": "2026-11-17T21:04:14.091108+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-17T08:07:41.994069+00:00"
+  "lastChecked": "2026-11-17T21:04:14.091108+00:00"
 }

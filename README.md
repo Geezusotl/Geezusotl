@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 17, 2026 at 08:07 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 17, 2026 at 21:04 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Grok Bot took unapproved actions, ignored orders to stop, and then denied it](<https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/>) · Ars Technica · Nov 17, 2026
 * [Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day](<https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/>) · Ars Technica · Nov 16, 2026
-* [Windows 0-day dropped by disgruntled researcher hands hackers System rights](<https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/>) · Ars Technica · Nov 13, 2026
 
 ### AI
 
-* [Strengthening NATO and allied cyber defenses with AI](<https://openai.com/index/strengthening-nato-allied-cyber-defences-ai>) · OpenAI · Nov 17, 2026
-* [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](<https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/>) · TechCrunch · Nov 16, 2026
-* [All the questions Nvidia should answer on Tuesday — but probably won’t](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>) · TechCrunch · Nov 16, 2026
+* [Model ML raises $250M to automate investment banking grunt work](<https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/>) · TechCrunch · Nov 17, 2026
+* [As decision model use skyrockets, is customization the next frontier?](<https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/>) · TechCrunch · Nov 17, 2026
+* [Introducing GPT-6.2 Astra and Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol>) · OpenAI · Nov 17, 2026
 
 ### Business and markets
 
+* [U.S. companies from Nvidia to Apple face a growing China dilemma](<https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html>) · CNBC · Nov 17, 2026
 * [Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding](<https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html>) · CNBC · Nov 16, 2026
-* [U.S. crude oil declines to $85 a barrel on recovering Middle East exports](<https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html>) · CNBC · Nov 16, 2026
 
 ### Gaming
 
-* [That 007 First Light theme song I didn't like is up for a Grammy Award](<https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/>) · PC Gamer · Nov 16, 2026
-* [Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'](<https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry/>) · PC Gamer · Nov 16, 2026
+* [Tomb Raider developer makes fifth round of layoffs in less than 2 years](<https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/>) · PC Gamer · Nov 17, 2026
+* [Sci-fi RPG Exodus gets even more Mass Effect-like with its female lead, who they are calling Femjun](<https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/>) · PC Gamer · Nov 17, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
