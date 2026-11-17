@@ -3,61 +3,61 @@
     "AI": {
       "items": [
         {
+          "published": "2026-11-17T00:00:00+00:00",
+          "source": "OpenAI",
+          "title": "Strengthening NATO and allied cyber defenses with AI",
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+        },
+        {
+          "published": "2026-11-16T23:32:32+00:00",
+          "source": "TechCrunch",
+          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+        },
+        {
           "published": "2026-11-16T22:03:02+00:00",
           "source": "TechCrunch",
           "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
           "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
-        },
-        {
-          "published": "2026-11-16T20:07:13+00:00",
-          "source": "TechCrunch",
-          "title": "California state AG sues OpenAI over rogue agent incidents",
-          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
-        },
-        {
-          "published": "2026-11-16T17:00:00+00:00",
-          "source": "OpenAI",
-          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-          "url": "https://openai.com/index/strengthening-online-child-safety"
         }
       ],
-      "lastSuccess": "2026-11-16T22:18:27.942755+00:00",
+      "lastSuccess": "2026-11-17T08:07:41.994069+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-16T22:18:12+00:00",
+          "published": "2026-11-16T23:01:19+00:00",
+          "source": "CNBC",
+          "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+          "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html"
+        },
+        {
+          "published": "2026-11-16T22:19:02+00:00",
           "source": "CNBC",
           "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
           "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html"
-        },
-        {
-          "published": "2026-11-16T18:46:07+00:00",
-          "source": "CNBC",
-          "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-          "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html"
         }
       ],
-      "lastSuccess": "2026-11-16T22:18:27.942755+00:00",
+      "lastSuccess": "2026-11-17T08:07:41.994069+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
+          "published": "2026-11-16T22:34:55+00:00",
+          "source": "PC Gamer",
+          "title": "That 007 First Light theme song I didn't like is up for a Grammy Award",
+          "url": "https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/"
+        },
+        {
           "published": "2026-11-16T22:05:57+00:00",
           "source": "PC Gamer",
           "title": "Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'",
           "url": "https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry/"
-        },
-        {
-          "published": "2026-11-16T21:13:07+00:00",
-          "source": "PC Gamer",
-          "title": "Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested",
-          "url": "https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested/"
         }
       ],
-      "lastSuccess": "2026-11-16T22:18:27.942755+00:00",
+      "lastSuccess": "2026-11-17T08:07:41.994069+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
         }
       ],
-      "lastSuccess": "2026-11-16T22:18:27.942755+00:00",
+      "lastSuccess": "2026-11-17T08:07:41.994069+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-16T22:18:27.942755+00:00"
+  "lastChecked": "2026-11-17T08:07:41.994069+00:00"
 }

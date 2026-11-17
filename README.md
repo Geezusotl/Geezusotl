@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 16, 2026 at 22:18 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 17, 2026 at 08:07 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
+* [Strengthening NATO and allied cyber defenses with AI](<https://openai.com/index/strengthening-nato-allied-cyber-defences-ai>) · OpenAI · Nov 17, 2026
+* [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](<https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/>) · TechCrunch · Nov 16, 2026
 * [All the questions Nvidia should answer on Tuesday — but probably won’t](<https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/>) · TechCrunch · Nov 16, 2026
-* [California state AG sues OpenAI over rogue agent incidents](<https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/>) · TechCrunch · Nov 16, 2026
-* [Strengthening the fight against online child sexual abuse with new tools and support](<https://openai.com/index/strengthening-online-child-safety>) · OpenAI · Nov 16, 2026
 
 ### Business and markets
 
+* [Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding](<https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html>) · CNBC · Nov 16, 2026
 * [U.S. crude oil declines to $85 a barrel on recovering Middle East exports](<https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html>) · CNBC · Nov 16, 2026
-* [Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’](<https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html>) · CNBC · Nov 16, 2026
 
 ### Gaming
 
+* [That 007 First Light theme song I didn't like is up for a Grammy Award](<https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/>) · PC Gamer · Nov 16, 2026
 * [Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'](<https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry/>) · PC Gamer · Nov 16, 2026
-* [Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested](<https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested/>) · PC Gamer · Nov 16, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
