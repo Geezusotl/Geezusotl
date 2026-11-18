@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 17, 2026 at 21:04 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 18, 2026 at 07:41 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Hundreds of websites deliver potent malware cocktail to unsuspecting visitors](<https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/>) · Ars Technica · Nov 17, 2026
 * [Grok Bot took unapproved actions, ignored orders to stop, and then denied it](<https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/>) · Ars Technica · Nov 17, 2026
-* [Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day](<https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/>) · Ars Technica · Nov 16, 2026
 
 ### AI
 
-* [Model ML raises $250M to automate investment banking grunt work](<https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/>) · TechCrunch · Nov 17, 2026
-* [As decision model use skyrockets, is customization the next frontier?](<https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/>) · TechCrunch · Nov 17, 2026
+* [Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt](<https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/>) · TechCrunch · Nov 18, 2026
+* [Nvidia promises that revenue will keep soaring — for now](<https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/>) · TechCrunch · Nov 18, 2026
 * [Introducing GPT-6.2 Astra and Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol>) · OpenAI · Nov 17, 2026
 
 ### Business and markets
 
-* [U.S. companies from Nvidia to Apple face a growing China dilemma](<https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html>) · CNBC · Nov 17, 2026
-* [Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding](<https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html>) · CNBC · Nov 16, 2026
+* [Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi](<https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html>) · CNBC · Nov 18, 2026
+* [JPMorgan is working on AI agent transactions that don’t involve humans](<https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html>) · CNBC · Nov 18, 2026
 
 ### Gaming
 
-* [Tomb Raider developer makes fifth round of layoffs in less than 2 years](<https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/>) · PC Gamer · Nov 17, 2026
-* [Sci-fi RPG Exodus gets even more Mass Effect-like with its female lead, who they are calling Femjun](<https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/>) · PC Gamer · Nov 17, 2026
+* [Darktide's new Sister Novitiate class gets a holy hand grenade and a crossbow that can pin enemies to walls](<https://www.pcgamer.com/games/fps/darktides-new-sister-novitiate-class-gets-a-holy-hand-grenade-and-a-crossbow-that-can-pin-enemies-to-walls/>) · PC Gamer · Nov 18, 2026
+* [Newzoo analyst expects Grand Theft Auto to turn around a rough year for console gaming: 'without GTA 6 the console market would likely be down year-over-year in 2026'](<https://www.pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026/>) · PC Gamer · Nov 18, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
