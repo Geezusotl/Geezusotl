@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 18, 2026 at 07:41 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 18, 2026 at 20:41 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt](<https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/>) · TechCrunch · Nov 18, 2026
-* [Nvidia promises that revenue will keep soaring — for now](<https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/>) · TechCrunch · Nov 18, 2026
-* [Introducing GPT-6.2 Astra and Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol>) · OpenAI · Nov 17, 2026
+* [Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor](<https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/>) · TechCrunch · Nov 18, 2026
+* [Google’s AI feature in Search gets its own incognito mode](<https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/>) · TechCrunch · Nov 18, 2026
+* [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>) · OpenAI · Nov 18, 2026
 
 ### Business and markets
 
-* [Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi](<https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html>) · CNBC · Nov 18, 2026
-* [JPMorgan is working on AI agent transactions that don’t involve humans](<https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html>) · CNBC · Nov 18, 2026
+* [I watched Trump, Xi and Putin gather in China. Here are my top takeaways](<https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html>) · CNBC · Nov 18, 2026
+* [Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show](<https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html>) · CNBC · Nov 18, 2026
 
 ### Gaming
 
-* [Darktide's new Sister Novitiate class gets a holy hand grenade and a crossbow that can pin enemies to walls](<https://www.pcgamer.com/games/fps/darktides-new-sister-novitiate-class-gets-a-holy-hand-grenade-and-a-crossbow-that-can-pin-enemies-to-walls/>) · PC Gamer · Nov 18, 2026
-* [Newzoo analyst expects Grand Theft Auto to turn around a rough year for console gaming: 'without GTA 6 the console market would likely be down year-over-year in 2026'](<https://www.pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026/>) · PC Gamer · Nov 18, 2026
+* [I finished GTA 6's main story: Ask me anything! (except for major spoilers)](<https://www.pcgamer.com/games/grand-theft-auto/i-finished-gta-6s-main-story-ask-me-anything-except-for-major-spoilers/>) · PC Gamer · Nov 18, 2026
+* [GTA 6 changes the way you steal cars: here's everything you need to know about slim jims, key cloners, and tracking devices](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/>) · PC Gamer · Nov 18, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
