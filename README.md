@@ -28,28 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 19, 2026 at 07:38 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 19, 2026 at 20:47 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
-* [Hundreds of websites deliver potent malware cocktail to unsuspecting visitors](<https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/>) · Ars Technica · Nov 17, 2026
-* [Grok Bot took unapproved actions, ignored orders to stop, and then denied it](<https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/>) · Ars Technica · Nov 17, 2026
+* [Man hired by Russia spied on Silicon Valley tech and defense company, feds say](<https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/>) · Ars Technica · Nov 19, 2026
+* [How to tell a cyberattack from a plain old outage](<https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/>) · Ars Technica · Nov 19, 2026
 
 ### AI
 
-* [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/>) · TechCrunch · Nov 19, 2026
-* [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>) · TechCrunch · Nov 18, 2026
-* [The Silent Consensus](<https://openai.com/index/the-silent-consensus>) · OpenAI · Nov 18, 2026
+* [Anthropic’s IPO could deliver $156 billion to charity](<https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>) · TechCrunch · Nov 19, 2026
+* [Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says](<https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/>) · TechCrunch · Nov 19, 2026
+* [How OpenAI’s Performance Factory keeps ChatGPT fast](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast>) · OpenAI · Nov 19, 2026
 
 ### Business and markets
 
-* [Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting](<https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html>) · CNBC · Nov 19, 2026
+* [Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage](<https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html>) · CNBC · Nov 19, 2026
 * [I watched Trump, Xi and Putin gather in China. Here are my top takeaways](<https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html>) · CNBC · Nov 18, 2026
 
 ### Gaming
 
-* [Not even Walton Goggins knows if Fallout will have a Season 4: 'if we get the opportunity to come back for season four, that would continue to honor how sacred this is to people'](<https://www.pcgamer.com/movies-tv/not-even-walton-goggins-knows-if-fallout-will-have-a-season-4-if-we-get-the-opportunity-to-come-back-for-season-four-that-would-continue-to-honor-how-sacred-this-is-to-people/>) · PC Gamer · Nov 19, 2026
-* [Over an hour of new Total War: Warhammer 40,000 campaign footage shows gear customization, fleet mechanics, and emphasizes space marines are not always trusted and hard to replace](<https://www.pcgamer.com/games/strategy/over-an-hour-of-new-total-war-warhammer-40-000-campaign-footage-shows-gear-customization-fleet-mechanics-and-emphasizes-space-marines-are-not-always-trusted-and-hard-to-replace/>) · PC Gamer · Nov 19, 2026
+* [Where to have a bona fide bigfoot (skunk ape) sighting in GTA 6](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/>) · PC Gamer · Nov 19, 2026
+* [Your GTA 6 car is your Red Dead 2 horse, and it's perfect](<https://www.pcgamer.com/games/grand-theft-auto/your-gta-6-car-is-your-red-dead-2-horse-and-its-perfect/>) · PC Gamer · Nov 19, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
