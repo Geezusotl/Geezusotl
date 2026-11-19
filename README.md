@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 18, 2026 at 20:41 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 19, 2026 at 07:38 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor](<https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/>) · TechCrunch · Nov 18, 2026
-* [Google’s AI feature in Search gets its own incognito mode](<https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/>) · TechCrunch · Nov 18, 2026
-* [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>) · OpenAI · Nov 18, 2026
+* [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/>) · TechCrunch · Nov 19, 2026
+* [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>) · TechCrunch · Nov 18, 2026
+* [The Silent Consensus](<https://openai.com/index/the-silent-consensus>) · OpenAI · Nov 18, 2026
 
 ### Business and markets
 
+* [Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting](<https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html>) · CNBC · Nov 19, 2026
 * [I watched Trump, Xi and Putin gather in China. Here are my top takeaways](<https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html>) · CNBC · Nov 18, 2026
-* [Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show](<https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html>) · CNBC · Nov 18, 2026
 
 ### Gaming
 
-* [I finished GTA 6's main story: Ask me anything! (except for major spoilers)](<https://www.pcgamer.com/games/grand-theft-auto/i-finished-gta-6s-main-story-ask-me-anything-except-for-major-spoilers/>) · PC Gamer · Nov 18, 2026
-* [GTA 6 changes the way you steal cars: here's everything you need to know about slim jims, key cloners, and tracking devices](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/>) · PC Gamer · Nov 18, 2026
+* [Not even Walton Goggins knows if Fallout will have a Season 4: 'if we get the opportunity to come back for season four, that would continue to honor how sacred this is to people'](<https://www.pcgamer.com/movies-tv/not-even-walton-goggins-knows-if-fallout-will-have-a-season-4-if-we-get-the-opportunity-to-come-back-for-season-four-that-would-continue-to-honor-how-sacred-this-is-to-people/>) · PC Gamer · Nov 19, 2026
+* [Over an hour of new Total War: Warhammer 40,000 campaign footage shows gear customization, fleet mechanics, and emphasizes space marines are not always trusted and hard to replace](<https://www.pcgamer.com/games/strategy/over-an-hour-of-new-total-war-warhammer-40-000-campaign-footage-shows-gear-customization-fleet-mechanics-and-emphasizes-space-marines-are-not-always-trusted-and-hard-to-replace/>) · PC Gamer · Nov 19, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

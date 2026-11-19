@@ -3,61 +3,61 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-18T19:56:39+00:00",
+          "published": "2026-11-19T00:42:56+00:00",
           "source": "TechCrunch",
-          "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-          "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
+          "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
         },
         {
-          "published": "2026-11-18T18:04:05+00:00",
+          "published": "2026-11-18T23:45:00+00:00",
           "source": "TechCrunch",
-          "title": "Google’s AI feature in Search gets its own incognito mode",
-          "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
+          "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+          "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
         },
         {
-          "published": "2026-11-18T08:00:00+00:00",
+          "published": "2026-11-18T10:00:00+00:00",
           "source": "OpenAI",
-          "title": "Inside the Codex sandbox",
-          "url": "https://openai.com/index/inside-the-codex-sandbox"
+          "title": "The Silent Consensus",
+          "url": "https://openai.com/index/the-silent-consensus"
         }
       ],
-      "lastSuccess": "2026-11-18T20:41:15.372767+00:00",
+      "lastSuccess": "2026-11-19T07:38:59.202881+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
+          "published": "2026-11-19T06:29:34+00:00",
+          "source": "CNBC",
+          "title": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
+          "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html"
+        },
+        {
           "published": "2026-11-18T19:47:05+00:00",
           "source": "CNBC",
           "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
           "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
-        },
-        {
-          "published": "2026-11-18T19:41:59+00:00",
-          "source": "CNBC",
-          "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-          "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
         }
       ],
-      "lastSuccess": "2026-11-18T20:41:15.372767+00:00",
+      "lastSuccess": "2026-11-19T07:38:59.202881+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-18T20:23:24+00:00",
+          "published": "2026-11-19T03:30:59+00:00",
           "source": "PC Gamer",
-          "title": "I finished GTA 6's main story: Ask me anything! (except for major spoilers)",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-finished-gta-6s-main-story-ask-me-anything-except-for-major-spoilers/"
+          "title": "Not even Walton Goggins knows if Fallout will have a Season 4: 'if we get the opportunity to come back for season four, that would continue to honor how sacred this is to people'",
+          "url": "https://www.pcgamer.com/movies-tv/not-even-walton-goggins-knows-if-fallout-will-have-a-season-4-if-we-get-the-opportunity-to-come-back-for-season-four-that-would-continue-to-honor-how-sacred-this-is-to-people/"
         },
         {
-          "published": "2026-11-18T19:22:44+00:00",
+          "published": "2026-11-19T03:09:13+00:00",
           "source": "PC Gamer",
-          "title": "GTA 6 changes the way you steal cars: here's everything you need to know about slim jims, key cloners, and tracking devices",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/"
+          "title": "Over an hour of new Total War: Warhammer 40,000 campaign footage shows gear customization, fleet mechanics, and emphasizes space marines are not always trusted and hard to replace",
+          "url": "https://www.pcgamer.com/games/strategy/over-an-hour-of-new-total-war-warhammer-40-000-campaign-footage-shows-gear-customization-fleet-mechanics-and-emphasizes-space-marines-are-not-always-trusted-and-hard-to-replace/"
         }
       ],
-      "lastSuccess": "2026-11-18T20:41:15.372767+00:00",
+      "lastSuccess": "2026-11-19T07:38:59.202881+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/"
         }
       ],
-      "lastSuccess": "2026-11-18T20:41:15.372767+00:00",
+      "lastSuccess": "2026-11-19T07:38:59.202881+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-18T20:41:15.372767+00:00"
+  "lastChecked": "2026-11-19T07:38:59.202881+00:00"
 }
