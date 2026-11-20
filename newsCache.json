@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-19T19:10:45+00:00",
+          "published": "2026-11-20T00:56:01+00:00",
           "source": "TechCrunch",
-          "title": "Anthropic’s IPO could deliver $156 billion to charity",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+          "title": "Apple may be developing its own AI agent that runs your Mac",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
         },
         {
-          "published": "2026-11-19T17:38:40+00:00",
+          "published": "2026-11-20T00:43:50+00:00",
           "source": "TechCrunch",
-          "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+          "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
         },
         {
           "published": "2026-11-19T08:00:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
         }
       ],
-      "lastSuccess": "2026-11-19T20:47:58.806360+00:00",
+      "lastSuccess": "2026-11-20T07:29:47.694179+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
         }
       ],
-      "lastSuccess": "2026-11-19T20:47:58.806360+00:00",
+      "lastSuccess": "2026-11-20T07:29:47.694179+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-19T20:12:34+00:00",
+          "published": "2026-11-20T01:01:43+00:00",
           "source": "PC Gamer",
-          "title": "Where to have a bona fide bigfoot (skunk ape) sighting in GTA 6",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/"
+          "title": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/"
         },
         {
-          "published": "2026-11-19T19:54:22+00:00",
+          "published": "2026-11-20T01:00:12+00:00",
           "source": "PC Gamer",
-          "title": "Your GTA 6 car is your Red Dead 2 horse, and it's perfect",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/your-gta-6-car-is-your-red-dead-2-horse-and-its-perfect/"
+          "title": "GTA 6 is playable in first-person, here's how to activate it",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/"
         }
       ],
-      "lastSuccess": "2026-11-19T20:47:58.806360+00:00",
+      "lastSuccess": "2026-11-20T07:29:47.694179+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
         }
       ],
-      "lastSuccess": "2026-11-19T20:47:58.806360+00:00",
+      "lastSuccess": "2026-11-20T07:29:47.694179+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-19T20:47:58.806360+00:00"
+  "lastChecked": "2026-11-20T07:29:47.694179+00:00"
 }

@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 19, 2026 at 20:47 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 20, 2026 at 07:29 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
-* [Anthropic’s IPO could deliver $156 billion to charity](<https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/>) · TechCrunch · Nov 19, 2026
-* [Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says](<https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/>) · TechCrunch · Nov 19, 2026
+* [Apple may be developing its own AI agent that runs your Mac](<https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/>) · TechCrunch · Nov 20, 2026
+* [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](<https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/>) · TechCrunch · Nov 20, 2026
 * [How OpenAI’s Performance Factory keeps ChatGPT fast](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast>) · OpenAI · Nov 19, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Where to have a bona fide bigfoot (skunk ape) sighting in GTA 6](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/>) · PC Gamer · Nov 19, 2026
-* [Your GTA 6 car is your Red Dead 2 horse, and it's perfect](<https://www.pcgamer.com/games/grand-theft-auto/your-gta-6-car-is-your-red-dead-2-horse-and-its-perfect/>) · PC Gamer · Nov 19, 2026
+* [GTA+ for GTA 6 singleplayer is like subscription-based horse armor](<https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/>) · PC Gamer · Nov 20, 2026
+* [GTA 6 is playable in first-person, here's how to activate it](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/>) · PC Gamer · Nov 20, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
