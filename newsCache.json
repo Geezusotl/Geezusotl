@@ -3,61 +3,61 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-20T00:56:01+00:00",
+          "published": "2026-11-20T19:53:41+00:00",
           "source": "TechCrunch",
-          "title": "Apple may be developing its own AI agent that runs your Mac",
-          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+          "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
         },
         {
-          "published": "2026-11-20T00:43:50+00:00",
+          "published": "2026-11-20T19:32:08+00:00",
           "source": "TechCrunch",
-          "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+          "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
         },
         {
-          "published": "2026-11-19T08:00:00+00:00",
+          "published": "2026-11-20T10:00:00+00:00",
           "source": "OpenAI",
-          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+          "title": "Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation"
         }
       ],
-      "lastSuccess": "2026-11-20T07:29:47.694179+00:00",
+      "lastSuccess": "2026-11-20T20:31:35.412461+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-19T09:02:00+00:00",
+          "published": "2026-11-20T19:59:03+00:00",
           "source": "CNBC",
-          "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
-          "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html"
+          "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+          "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html"
         },
         {
-          "published": "2026-11-18T19:47:05+00:00",
+          "published": "2026-11-20T15:20:54+00:00",
           "source": "CNBC",
-          "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-          "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
+          "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+          "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html"
         }
       ],
-      "lastSuccess": "2026-11-20T07:29:47.694179+00:00",
+      "lastSuccess": "2026-11-20T20:31:35.412461+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-20T01:01:43+00:00",
+          "published": "2026-11-20T19:51:48+00:00",
           "source": "PC Gamer",
-          "title": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/"
+          "title": "Grand Theft Auto 6 earned $3.79 billion on launch day",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/"
         },
         {
-          "published": "2026-11-20T01:00:12+00:00",
+          "published": "2026-11-20T19:02:52+00:00",
           "source": "PC Gamer",
-          "title": "GTA 6 is playable in first-person, here's how to activate it",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/"
+          "title": "Etsy sellers are closing their stores in response to the platform's new AI training policy",
+          "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/"
         }
       ],
-      "lastSuccess": "2026-11-20T07:29:47.694179+00:00",
+      "lastSuccess": "2026-11-20T20:31:35.412461+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
         }
       ],
-      "lastSuccess": "2026-11-20T07:29:47.694179+00:00",
+      "lastSuccess": "2026-11-20T20:31:35.412461+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-20T07:29:47.694179+00:00"
+  "lastChecked": "2026-11-20T20:31:35.412461+00:00"
 }

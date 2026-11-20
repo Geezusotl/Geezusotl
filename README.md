@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 20, 2026 at 07:29 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 20, 2026 at 20:31 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
-* [Apple may be developing its own AI agent that runs your Mac](<https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/>) · TechCrunch · Nov 20, 2026
-* [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](<https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/>) · TechCrunch · Nov 20, 2026
-* [How OpenAI’s Performance Factory keeps ChatGPT fast](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast>) · OpenAI · Nov 19, 2026
+* [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](<https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/>) · TechCrunch · Nov 20, 2026
+* [AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too](<https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/>) · TechCrunch · Nov 20, 2026
+* [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>) · OpenAI · Nov 20, 2026
 
 ### Business and markets
 
-* [Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage](<https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html>) · CNBC · Nov 19, 2026
-* [I watched Trump, Xi and Putin gather in China. Here are my top takeaways](<https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html>) · CNBC · Nov 18, 2026
+* [Prediction markets outlook for stocks in 2026 dims amid AI sell-off](<https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html>) · CNBC · Nov 20, 2026
+* [Warsh wants Fed officials to talk less. Instead, they’re talking more](<https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html>) · CNBC · Nov 20, 2026
 
 ### Gaming
 
-* [GTA+ for GTA 6 singleplayer is like subscription-based horse armor](<https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/>) · PC Gamer · Nov 20, 2026
-* [GTA 6 is playable in first-person, here's how to activate it](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/>) · PC Gamer · Nov 20, 2026
+* [Grand Theft Auto 6 earned $3.79 billion on launch day](<https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/>) · PC Gamer · Nov 20, 2026
+* [Etsy sellers are closing their stores in response to the platform's new AI training policy](<https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/>) · PC Gamer · Nov 20, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
