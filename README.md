@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 21, 2026 at 07:24 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 21, 2026 at 19:28 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
-* [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](<https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/>) · TechCrunch · Nov 20, 2026
-* [AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](<https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/>) · TechCrunch · Nov 20, 2026
+* [Here are the top AI agents that can live in your text messages](<https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/>) · TechCrunch · Nov 21, 2026
+* [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](<https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/>) · TechCrunch · Nov 21, 2026
 * [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>) · OpenAI · Nov 20, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/>) · PC Gamer · Nov 21, 2026
-* [I didn't realize Etsy was selling bridges now](<https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now/>) · PC Gamer · Nov 21, 2026
+* [Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'](<https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/>) · PC Gamer · Nov 21, 2026
+* [How to steal the BF Bandito in GTA 6](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/>) · PC Gamer · Nov 21, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
