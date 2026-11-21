@@ -11,7 +11,7 @@
         {
           "published": "2026-11-20T19:32:08+00:00",
           "source": "TechCrunch",
-          "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
           "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
         },
         {
@@ -21,63 +21,63 @@
           "url": "https://openai.com/index/combatting-adversarial-distillation"
         }
       ],
-      "lastSuccess": "2026-11-20T20:31:35.412461+00:00",
+      "lastSuccess": "2026-11-21T07:24:35.427976+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-20T19:59:03+00:00",
+          "published": "2026-11-21T06:00:02+00:00",
           "source": "CNBC",
-          "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-          "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html"
+          "title": "How China is using summits to expand its global influence",
+          "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
         },
         {
-          "published": "2026-11-20T15:20:54+00:00",
+          "published": "2026-11-20T21:10:48+00:00",
           "source": "CNBC",
           "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
           "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html"
         }
       ],
-      "lastSuccess": "2026-11-20T20:31:35.412461+00:00",
+      "lastSuccess": "2026-11-21T07:24:35.427976+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-20T19:51:48+00:00",
+          "published": "2026-11-21T00:46:24+00:00",
           "source": "PC Gamer",
-          "title": "Grand Theft Auto 6 earned $3.79 billion on launch day",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/"
+          "title": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/"
         },
         {
-          "published": "2026-11-20T19:02:52+00:00",
+          "published": "2026-11-21T00:00:36+00:00",
           "source": "PC Gamer",
-          "title": "Etsy sellers are closing their stores in response to the platform's new AI training policy",
-          "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/"
+          "title": "I didn't realize Etsy was selling bridges now",
+          "url": "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now/"
         }
       ],
-      "lastSuccess": "2026-11-20T20:31:35.412461+00:00",
+      "lastSuccess": "2026-11-21T07:24:35.427976+00:00",
       "unavailable": false
     },
     "Technology": {
       "items": [
         {
+          "published": "2026-11-20T20:59:08+00:00",
+          "source": "Ars Technica",
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+        },
+        {
           "published": "2026-11-19T20:29:46+00:00",
           "source": "Ars Technica",
           "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
           "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
-        },
-        {
-          "published": "2026-11-19T11:13:01+00:00",
-          "source": "Ars Technica",
-          "title": "How to tell a cyberattack from a plain old outage",
-          "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
         }
       ],
-      "lastSuccess": "2026-11-20T20:31:35.412461+00:00",
+      "lastSuccess": "2026-11-21T07:24:35.427976+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-20T20:31:35.412461+00:00"
+  "lastChecked": "2026-11-21T07:24:35.427976+00:00"
 }
