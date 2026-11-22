@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-11-21T21:37:10+00:00",
+          "source": "TechCrunch",
+          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+        },
+        {
           "published": "2026-11-21T17:00:00+00:00",
           "source": "TechCrunch",
           "title": "Here are the top AI agents that can live in your text messages",
           "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
-        },
-        {
-          "published": "2026-11-21T16:00:00+00:00",
-          "source": "TechCrunch",
-          "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
         },
         {
           "published": "2026-11-20T10:00:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/combatting-adversarial-distillation"
         }
       ],
-      "lastSuccess": "2026-11-21T19:28:25.221768+00:00",
+      "lastSuccess": "2026-11-22T07:05:21.571350+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,25 +39,25 @@
           "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html"
         }
       ],
-      "lastSuccess": "2026-11-21T19:28:25.221768+00:00",
+      "lastSuccess": "2026-11-22T07:05:21.571350+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-21T18:00:00+00:00",
+          "published": "2026-11-22T03:03:45+00:00",
           "source": "PC Gamer",
-          "title": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
-          "url": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/"
+          "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+          "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/"
         },
         {
-          "published": "2026-11-21T17:34:25+00:00",
+          "published": "2026-11-21T23:40:42+00:00",
           "source": "PC Gamer",
-          "title": "How to steal the BF Bandito in GTA 6",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/"
+          "title": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
+          "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/"
         }
       ],
-      "lastSuccess": "2026-11-21T19:28:25.221768+00:00",
+      "lastSuccess": "2026-11-22T07:05:21.571350+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
         }
       ],
-      "lastSuccess": "2026-11-21T19:28:25.221768+00:00",
+      "lastSuccess": "2026-11-22T07:05:21.571350+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-21T19:28:25.221768+00:00"
+  "lastChecked": "2026-11-22T07:05:21.571350+00:00"
 }

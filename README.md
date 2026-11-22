@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 21, 2026 at 19:28 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 22, 2026 at 07:05 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
+* [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](<https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/>) · TechCrunch · Nov 21, 2026
 * [Here are the top AI agents that can live in your text messages](<https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/>) · TechCrunch · Nov 21, 2026
-* [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](<https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/>) · TechCrunch · Nov 21, 2026
 * [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>) · OpenAI · Nov 20, 2026
 
 ### Business and markets
@@ -48,8 +48,8 @@
 
 ### Gaming
 
-* [Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'](<https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/>) · PC Gamer · Nov 21, 2026
-* [How to steal the BF Bandito in GTA 6](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/>) · PC Gamer · Nov 21, 2026
+* [Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn](<https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/>) · PC Gamer · Nov 22, 2026
+* [Wizards of the Coast to pass full AI copyright payout to D&amp;D writers](<https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/>) · PC Gamer · Nov 21, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
