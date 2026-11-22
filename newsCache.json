@@ -3,6 +3,12 @@
     "AI": {
       "items": [
         {
+          "published": "2026-11-22T00:00:00+00:00",
+          "source": "OpenAI",
+          "title": "Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence"
+        },
+        {
           "published": "2026-11-21T21:37:10+00:00",
           "source": "TechCrunch",
           "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -13,51 +19,45 @@
           "source": "TechCrunch",
           "title": "Here are the top AI agents that can live in your text messages",
           "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
-        },
-        {
-          "published": "2026-11-20T10:00:00+00:00",
-          "source": "OpenAI",
-          "title": "Combatting adversarial distillation",
-          "url": "https://openai.com/index/combatting-adversarial-distillation"
         }
       ],
-      "lastSuccess": "2026-11-22T07:05:21.571350+00:00",
+      "lastSuccess": "2026-11-22T19:50:04.154697+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
+          "published": "2026-11-22T18:55:05+00:00",
+          "source": "CNBC",
+          "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+          "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
+        },
+        {
           "published": "2026-11-21T06:00:02+00:00",
           "source": "CNBC",
           "title": "How China is using summits to expand its global influence",
           "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
-        },
-        {
-          "published": "2026-11-20T21:10:48+00:00",
-          "source": "CNBC",
-          "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-          "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html"
         }
       ],
-      "lastSuccess": "2026-11-22T07:05:21.571350+00:00",
+      "lastSuccess": "2026-11-22T19:50:04.154697+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-22T03:03:45+00:00",
+          "published": "2026-11-22T18:43:01+00:00",
           "source": "PC Gamer",
-          "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
-          "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/"
+          "title": "GTA 6 discourse is suffering from the flat earther effect",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/"
         },
         {
-          "published": "2026-11-21T23:40:42+00:00",
+          "published": "2026-11-22T18:00:00+00:00",
           "source": "PC Gamer",
-          "title": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
-          "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/"
+          "title": "Which GTA 6 radio station is your favourite so far?",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/which-gta-6-radio-station-is-your-favourite-so-far/"
         }
       ],
-      "lastSuccess": "2026-11-22T07:05:21.571350+00:00",
+      "lastSuccess": "2026-11-22T19:50:04.154697+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
         }
       ],
-      "lastSuccess": "2026-11-22T07:05:21.571350+00:00",
+      "lastSuccess": "2026-11-22T19:50:04.154697+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-22T07:05:21.571350+00:00"
+  "lastChecked": "2026-11-22T19:50:04.154697+00:00"
 }

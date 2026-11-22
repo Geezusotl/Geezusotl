@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 22, 2026 at 07:05 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 22, 2026 at 19:50 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
+* [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>) · OpenAI · Nov 22, 2026
 * [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](<https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/>) · TechCrunch · Nov 21, 2026
 * [Here are the top AI agents that can live in your text messages](<https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/>) · TechCrunch · Nov 21, 2026
-* [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>) · OpenAI · Nov 20, 2026
 
 ### Business and markets
 
+* [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](<https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html>) · CNBC · Nov 22, 2026
 * [How China is using summits to expand its global influence](<https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html>) · CNBC · Nov 21, 2026
-* [Warsh wants Fed officials to talk less. Instead, they’re talking more](<https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html>) · CNBC · Nov 20, 2026
 
 ### Gaming
 
-* [Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn](<https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/>) · PC Gamer · Nov 22, 2026
-* [Wizards of the Coast to pass full AI copyright payout to D&amp;D writers](<https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/>) · PC Gamer · Nov 21, 2026
+* [GTA 6 discourse is suffering from the flat earther effect](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/>) · PC Gamer · Nov 22, 2026
+* [Which GTA 6 radio station is your favourite so far?](<https://www.pcgamer.com/games/grand-theft-auto/which-gta-6-radio-station-is-your-favourite-so-far/>) · PC Gamer · Nov 22, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
