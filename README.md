@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 22, 2026 at 19:50 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 23, 2026 at 07:52 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
+* [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](<https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/>) · TechCrunch · Nov 23, 2026
+* [OpenAI’s chief scientist has thoughts on how to limit AI development](<https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/>) · TechCrunch · Nov 22, 2026
 * [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>) · OpenAI · Nov 22, 2026
-* [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](<https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/>) · TechCrunch · Nov 21, 2026
-* [Here are the top AI agents that can live in your text messages](<https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/>) · TechCrunch · Nov 21, 2026
 
 ### Business and markets
 
+* [JPMorgan is working on AI agent transactions that don’t involve humans](<https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html>) · CNBC · Nov 23, 2026
 * [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](<https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html>) · CNBC · Nov 22, 2026
-* [How China is using summits to expand its global influence](<https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html>) · CNBC · Nov 21, 2026
 
 ### Gaming
 
-* [GTA 6 discourse is suffering from the flat earther effect](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/>) · PC Gamer · Nov 22, 2026
-* [Which GTA 6 radio station is your favourite so far?](<https://www.pcgamer.com/games/grand-theft-auto/which-gta-6-radio-station-is-your-favourite-so-far/>) · PC Gamer · Nov 22, 2026
+* [Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled](<https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/>) · PC Gamer · Nov 23, 2026
+* [SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria](<https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/>) · PC Gamer · Nov 23, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

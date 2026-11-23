@@ -3,61 +3,61 @@
     "AI": {
       "items": [
         {
+          "published": "2026-11-23T01:25:53+00:00",
+          "source": "TechCrunch",
+          "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+        },
+        {
+          "published": "2026-11-22T21:14:07+00:00",
+          "source": "TechCrunch",
+          "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        },
+        {
           "published": "2026-11-22T00:00:00+00:00",
           "source": "OpenAI",
           "title": "Perplexity and Intelligence",
           "url": "https://openai.com/index/perplexity-and-intelligence"
-        },
-        {
-          "published": "2026-11-21T21:37:10+00:00",
-          "source": "TechCrunch",
-          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
-        },
-        {
-          "published": "2026-11-21T17:00:00+00:00",
-          "source": "TechCrunch",
-          "title": "Here are the top AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
         }
       ],
-      "lastSuccess": "2026-11-22T19:50:04.154697+00:00",
+      "lastSuccess": "2026-11-23T07:52:36.164084+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
+          "published": "2026-11-23T06:06:55+00:00",
+          "source": "CNBC",
+          "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+          "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html"
+        },
+        {
           "published": "2026-11-22T18:55:05+00:00",
           "source": "CNBC",
           "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
           "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
-        },
-        {
-          "published": "2026-11-21T06:00:02+00:00",
-          "source": "CNBC",
-          "title": "How China is using summits to expand its global influence",
-          "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
         }
       ],
-      "lastSuccess": "2026-11-22T19:50:04.154697+00:00",
+      "lastSuccess": "2026-11-23T07:52:36.164084+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-22T18:43:01+00:00",
+          "published": "2026-11-23T01:11:23+00:00",
           "source": "PC Gamer",
-          "title": "GTA 6 discourse is suffering from the flat earther effect",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/"
+          "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
+          "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/"
         },
         {
-          "published": "2026-11-22T18:00:00+00:00",
+          "published": "2026-11-23T00:07:24+00:00",
           "source": "PC Gamer",
-          "title": "Which GTA 6 radio station is your favourite so far?",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/which-gta-6-radio-station-is-your-favourite-so-far/"
+          "title": "SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria",
+          "url": "https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/"
         }
       ],
-      "lastSuccess": "2026-11-22T19:50:04.154697+00:00",
+      "lastSuccess": "2026-11-23T07:52:36.164084+00:00",
       "unavailable": false
     },
     "Technology": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
         }
       ],
-      "lastSuccess": "2026-11-22T19:50:04.154697+00:00",
+      "lastSuccess": "2026-11-23T07:52:36.164084+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-22T19:50:04.154697+00:00"
+  "lastChecked": "2026-11-23T07:52:36.164084+00:00"
 }
