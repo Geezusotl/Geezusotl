@@ -28,23 +28,23 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 24, 2026 at 10:05 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 24, 2026 at 22:35 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Amazon says hackers' AI agents found and exploited 0-day with little human input](<https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/>) · Ars Technica · Nov 24, 2026
 * [Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.](<https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/>) · Ars Technica · Nov 20, 2026
-* [Man hired by Russia spied on Silicon Valley tech and defense company, feds say](<https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/>) · Ars Technica · Nov 19, 2026
 
 ### AI
 
-* [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](<https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/>) · TechCrunch · Nov 23, 2026
-* [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](<https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/>) · TechCrunch · Nov 23, 2026
-* [OpenAI and Cisco introduce Shirudo](<https://openai.com/index/introducing-shirudo>) · OpenAI · Nov 23, 2026
+* [Even the best AI agents struggle with everyday life](<https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/>) · TechCrunch · Nov 24, 2026
+* [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](<https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/>) · TechCrunch · Nov 24, 2026
+* [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>) · OpenAI · Nov 24, 2026
 
 ### Business and markets
 
-* [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](<https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html>) · CNBC · Nov 23, 2026
-* [Fed's John Williams indicates higher interest rates likely 'over time' to address inflation](<https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html>) · CNBC · Nov 23, 2026
+* [Utah drops criminal charges against Kalshi founders after company suspended operations in state](<https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html>) · CNBC · Nov 24, 2026
+* [Kalshi daily volume of ‘perps’ trading begins to top its prediction markets](<https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html>) · CNBC · Nov 24, 2026
 
 ### Gaming
 

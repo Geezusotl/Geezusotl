@@ -3,43 +3,43 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-23T22:05:50+00:00",
+          "published": "2026-11-24T21:33:29+00:00",
           "source": "TechCrunch",
-          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+          "title": "Even the best AI agents struggle with everyday life",
+          "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
         },
         {
-          "published": "2026-11-23T22:02:05+00:00",
+          "published": "2026-11-24T21:32:38+00:00",
           "source": "TechCrunch",
-          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
         },
         {
-          "published": "2026-11-23T21:20:00+00:00",
+          "published": "2026-11-24T13:00:00+00:00",
           "source": "OpenAI",
-          "title": "OpenAI and Cisco introduce Shirudo",
-          "url": "https://openai.com/index/introducing-shirudo"
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
         }
       ],
-      "lastSuccess": "2026-11-24T10:05:26.707906+00:00",
+      "lastSuccess": "2026-11-24T22:35:33.230613+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-23T23:28:19+00:00",
+          "published": "2026-11-24T20:45:57+00:00",
           "source": "CNBC",
-          "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-          "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
+          "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+          "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html"
         },
         {
-          "published": "2026-11-23T21:02:17+00:00",
+          "published": "2026-11-24T18:34:55+00:00",
           "source": "CNBC",
-          "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-          "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+          "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+          "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html"
         }
       ],
-      "lastSuccess": "2026-11-24T10:05:26.707906+00:00",
+      "lastSuccess": "2026-11-24T22:35:33.230613+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -63,21 +63,21 @@
     "Technology": {
       "items": [
         {
+          "published": "2026-11-24T12:30:05+00:00",
+          "source": "Ars Technica",
+          "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+        },
+        {
           "published": "2026-11-20T20:59:08+00:00",
           "source": "Ars Technica",
           "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
           "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
-        },
-        {
-          "published": "2026-11-19T20:29:46+00:00",
-          "source": "Ars Technica",
-          "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-          "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
         }
       ],
-      "lastSuccess": "2026-11-24T10:05:26.707906+00:00",
+      "lastSuccess": "2026-11-24T22:35:33.230613+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-24T10:05:26.707906+00:00"
+  "lastChecked": "2026-11-24T22:35:33.230613+00:00"
 }
