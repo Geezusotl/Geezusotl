@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 23, 2026 at 07:52 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 24, 2026 at 00:02 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,21 @@
 
 ### AI
 
-* [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](<https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/>) · TechCrunch · Nov 23, 2026
-* [OpenAI’s chief scientist has thoughts on how to limit AI development](<https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/>) · TechCrunch · Nov 22, 2026
-* [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>) · OpenAI · Nov 22, 2026
+* [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](<https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/>) · TechCrunch · Nov 23, 2026
+* [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](<https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/>) · TechCrunch · Nov 23, 2026
+* [OpenAI and Cisco introduce Shirudo](<https://openai.com/index/introducing-shirudo>) · OpenAI · Nov 23, 2026
 
 ### Business and markets
 
-* [JPMorgan is working on AI agent transactions that don’t involve humans](<https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html>) · CNBC · Nov 23, 2026
-* [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](<https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html>) · CNBC · Nov 22, 2026
+* [Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens](<https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html>) · CNBC · Nov 23, 2026
+* [Fed's John Williams indicates higher interest rates likely 'over time' to address inflation](<https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html>) · CNBC · Nov 23, 2026
 
 ### Gaming
 
 * [Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled](<https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/>) · PC Gamer · Nov 23, 2026
 * [SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria](<https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/>) · PC Gamer · Nov 23, 2026
+
+<sub>Source unavailable at the latest check. Showing headlines saved Nov 23 at 07:52 UTC.</sub>
 <!-- NEWS:END -->
 
 ## A little perspective
