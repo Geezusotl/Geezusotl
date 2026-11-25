@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-25T00:12:02+00:00",
+          "published": "2026-11-25T20:03:27+00:00",
           "source": "TechCrunch",
-          "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
         },
         {
-          "published": "2026-11-24T21:33:29+00:00",
+          "published": "2026-11-25T19:54:57+00:00",
           "source": "TechCrunch",
-          "title": "Even the best AI agents struggle with everyday life",
-          "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+          "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
         },
         {
           "published": "2026-11-24T13:00:00+00:00",
@@ -21,63 +21,63 @@
           "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
         }
       ],
-      "lastSuccess": "2026-11-25T08:50:31.335246+00:00",
+      "lastSuccess": "2026-11-25T21:49:33.506392+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-25T01:13:56+00:00",
+          "published": "2026-11-25T17:08:03+00:00",
+          "source": "CNBC",
+          "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+          "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html"
+        },
+        {
+          "published": "2026-11-25T14:29:00+00:00",
           "source": "CNBC",
           "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
           "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html"
-        },
-        {
-          "published": "2026-11-24T23:03:24+00:00",
-          "source": "CNBC",
-          "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-          "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html"
         }
       ],
-      "lastSuccess": "2026-11-25T08:50:31.335246+00:00",
+      "lastSuccess": "2026-11-25T21:49:33.506392+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-23T01:11:23+00:00",
+          "published": "2026-11-25T21:37:51+00:00",
           "source": "PC Gamer",
-          "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
-          "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/"
+          "title": "Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/capcoms-quirky-dinosaur-fighting-hero-shooter-is-shutting-down-in-2027/"
         },
         {
-          "published": "2026-11-23T00:07:24+00:00",
+          "published": "2026-11-25T21:31:41+00:00",
           "source": "PC Gamer",
-          "title": "SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria",
-          "url": "https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/"
+          "title": "Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'",
+          "url": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/"
         }
       ],
-      "lastSuccess": "2026-11-23T07:52:36.164084+00:00",
-      "unavailable": true
+      "lastSuccess": "2026-11-25T21:49:33.506392+00:00",
+      "unavailable": false
     },
     "Technology": {
       "items": [
+        {
+          "published": "2026-11-25T18:38:29+00:00",
+          "source": "Ars Technica",
+          "title": "Backblaze explains why it's sharing customer information with advertisers",
+          "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/"
+        },
         {
           "published": "2026-11-24T12:30:05+00:00",
           "source": "Ars Technica",
           "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
           "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
-        },
-        {
-          "published": "2026-11-20T20:59:08+00:00",
-          "source": "Ars Technica",
-          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
         }
       ],
-      "lastSuccess": "2026-11-25T08:50:31.335246+00:00",
+      "lastSuccess": "2026-11-25T21:49:33.506392+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-25T08:50:31.335246+00:00"
+  "lastChecked": "2026-11-25T21:49:33.506392+00:00"
 }

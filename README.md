@@ -28,30 +28,28 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 25, 2026 at 08:50 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 25, 2026 at 21:49 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
+* [Backblaze explains why it's sharing customer information with advertisers](<https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/>) · Ars Technica · Nov 25, 2026
 * [Amazon says hackers' AI agents found and exploited 0-day with little human input](<https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/>) · Ars Technica · Nov 24, 2026
-* [Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.](<https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/>) · Ars Technica · Nov 20, 2026
 
 ### AI
 
-* [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](<https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/>) · TechCrunch · Nov 25, 2026
-* [Even the best AI agents struggle with everyday life](<https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/>) · TechCrunch · Nov 24, 2026
+* [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](<https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/>) · TechCrunch · Nov 25, 2026
+* [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](<https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/>) · TechCrunch · Nov 25, 2026
 * [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>) · OpenAI · Nov 24, 2026
 
 ### Business and markets
 
+* [Prediction markets push OpenAI IPO expectations later into 2027](<https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html>) · CNBC · Nov 25, 2026
 * [Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips](<https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html>) · CNBC · Nov 25, 2026
-* [Kalshi daily volume of ‘perps’ trading begins to top its prediction markets](<https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html>) · CNBC · Nov 24, 2026
 
 ### Gaming
 
-* [Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled](<https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/>) · PC Gamer · Nov 23, 2026
-* [SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria](<https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/>) · PC Gamer · Nov 23, 2026
-
-<sub>Source unavailable at the latest check. Showing headlines saved Nov 23 at 07:52 UTC.</sub>
+* [Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027](<https://www.pcgamer.com/games/third-person-shooter/capcoms-quirky-dinosaur-fighting-hero-shooter-is-shutting-down-in-2027/>) · PC Gamer · Nov 25, 2026
+* [Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'](<https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/>) · PC Gamer · Nov 25, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
