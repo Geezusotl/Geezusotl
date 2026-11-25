@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 24, 2026 at 22:35 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 25, 2026 at 08:50 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,13 +37,13 @@
 
 ### AI
 
+* [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](<https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/>) · TechCrunch · Nov 25, 2026
 * [Even the best AI agents struggle with everyday life](<https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/>) · TechCrunch · Nov 24, 2026
-* [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](<https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/>) · TechCrunch · Nov 24, 2026
 * [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>) · OpenAI · Nov 24, 2026
 
 ### Business and markets
 
-* [Utah drops criminal charges against Kalshi founders after company suspended operations in state](<https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html>) · CNBC · Nov 24, 2026
+* [Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips](<https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html>) · CNBC · Nov 25, 2026
 * [Kalshi daily volume of ‘perps’ trading begins to top its prediction markets](<https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html>) · CNBC · Nov 24, 2026
 
 ### Gaming
