@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
+          "published": "2026-11-26T20:03:54+00:00",
+          "source": "TechCrunch",
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
           "published": "2026-11-25T22:44:32+00:00",
           "source": "TechCrunch",
           "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
           "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
-        },
-        {
-          "published": "2026-11-25T20:03:27+00:00",
-          "source": "TechCrunch",
-          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
         },
         {
           "published": "2026-11-24T13:00:00+00:00",
@@ -21,25 +21,25 @@
           "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
         }
       ],
-      "lastSuccess": "2026-11-26T08:36:15.009943+00:00",
+      "lastSuccess": "2026-11-26T21:42:40.742992+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-26T07:30:11+00:00",
+          "published": "2026-11-26T17:52:15+00:00",
           "source": "CNBC",
-          "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-          "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
+          "title": "Semiconductor chips are the new oil. Here's why",
+          "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
         },
         {
-          "published": "2026-11-26T05:36:01+00:00",
+          "published": "2026-11-26T16:00:01+00:00",
           "source": "CNBC",
-          "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
-          "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html"
+          "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+          "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html"
         }
       ],
-      "lastSuccess": "2026-11-26T08:36:15.009943+00:00",
+      "lastSuccess": "2026-11-26T21:42:40.742992+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -58,7 +58,7 @@
         }
       ],
       "lastSuccess": "2026-11-26T08:36:15.009943+00:00",
-      "unavailable": false
+      "unavailable": true
     },
     "Technology": {
       "items": [
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
         }
       ],
-      "lastSuccess": "2026-11-26T08:36:15.009943+00:00",
+      "lastSuccess": "2026-11-26T21:42:40.742992+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-26T08:36:15.009943+00:00"
+  "lastChecked": "2026-11-26T21:42:40.742992+00:00"
 }

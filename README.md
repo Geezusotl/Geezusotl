@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 26, 2026 at 08:36 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 26, 2026 at 21:42 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,21 @@
 
 ### AI
 
+* [Nvidia hits pause on chip shipments to Southeast Asia](<https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/>) · TechCrunch · Nov 26, 2026
 * [S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks](<https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/>) · TechCrunch · Nov 25, 2026
-* [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](<https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/>) · TechCrunch · Nov 25, 2026
 * [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>) · OpenAI · Nov 24, 2026
 
 ### Business and markets
 
-* [Robots could be doing household chores in just 1-2 years, Chinese EV firm says](<https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html>) · CNBC · Nov 26, 2026
-* [Beware higher correlation but nab high U.S. credit yields, fund managers say](<https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html>) · CNBC · Nov 26, 2026
+* [Semiconductor chips are the new oil. Here's why](<https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html>) · CNBC · Nov 26, 2026
+* [Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs](<https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html>) · CNBC · Nov 26, 2026
 
 ### Gaming
 
 * [All Missing Persons locations in GTA 6](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/>) · PC Gamer · Nov 26, 2026
 * [The latest adult game in the Muv-Luv series has some woeful AI translation and players aren't happy about it](<https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/>) · PC Gamer · Nov 26, 2026
+
+<sub>Source unavailable at the latest check. Showing headlines saved Nov 26 at 08:36 UTC.</sub>
 <!-- NEWS:END -->
 
 ## A little perspective
