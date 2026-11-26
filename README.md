@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 25, 2026 at 21:49 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 26, 2026 at 08:36 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,19 +37,19 @@
 
 ### AI
 
+* [S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks](<https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/>) · TechCrunch · Nov 25, 2026
 * [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](<https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/>) · TechCrunch · Nov 25, 2026
-* [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](<https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/>) · TechCrunch · Nov 25, 2026
 * [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>) · OpenAI · Nov 24, 2026
 
 ### Business and markets
 
-* [Prediction markets push OpenAI IPO expectations later into 2027](<https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html>) · CNBC · Nov 25, 2026
-* [Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips](<https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html>) · CNBC · Nov 25, 2026
+* [Robots could be doing household chores in just 1-2 years, Chinese EV firm says](<https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html>) · CNBC · Nov 26, 2026
+* [Beware higher correlation but nab high U.S. credit yields, fund managers say](<https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html>) · CNBC · Nov 26, 2026
 
 ### Gaming
 
-* [Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027](<https://www.pcgamer.com/games/third-person-shooter/capcoms-quirky-dinosaur-fighting-hero-shooter-is-shutting-down-in-2027/>) · PC Gamer · Nov 25, 2026
-* [Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'](<https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/>) · PC Gamer · Nov 25, 2026
+* [All Missing Persons locations in GTA 6](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/>) · PC Gamer · Nov 26, 2026
+* [The latest adult game in the Muv-Luv series has some woeful AI translation and players aren't happy about it](<https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/>) · PC Gamer · Nov 26, 2026
 <!-- NEWS:END -->
 
 ## A little perspective
