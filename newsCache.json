@@ -21,25 +21,25 @@
           "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
         }
       ],
-      "lastSuccess": "2026-11-27T08:47:01.192915+00:00",
+      "lastSuccess": "2026-11-27T21:27:23.312610+00:00",
       "unavailable": false
     },
     "Business and markets": {
       "items": [
         {
-          "published": "2026-11-26T17:52:15+00:00",
+          "published": "2026-11-27T13:29:43+00:00",
           "source": "CNBC",
-          "title": "Semiconductor chips are the new oil. Here's why",
-          "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
+          "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html"
         },
         {
-          "published": "2026-11-26T16:00:01+00:00",
+          "published": "2026-11-27T13:21:56+00:00",
           "source": "CNBC",
-          "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
-          "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html"
+          "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+          "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
         }
       ],
-      "lastSuccess": "2026-11-27T08:47:01.192915+00:00",
+      "lastSuccess": "2026-11-27T21:27:23.312610+00:00",
       "unavailable": false
     },
     "Gaming": {
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
         }
       ],
-      "lastSuccess": "2026-11-27T08:47:01.192915+00:00",
+      "lastSuccess": "2026-11-27T21:27:23.312610+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-27T08:47:01.192915+00:00"
+  "lastChecked": "2026-11-27T21:27:23.312610+00:00"
 }

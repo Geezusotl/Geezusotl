@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 27, 2026 at 08:47 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 27, 2026 at 21:27 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -43,8 +43,8 @@
 
 ### Business and markets
 
-* [Semiconductor chips are the new oil. Here's why](<https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html>) · CNBC · Nov 26, 2026
-* [Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs](<https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html>) · CNBC · Nov 26, 2026
+* [Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals](<https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html>) · CNBC · Nov 27, 2026
+* [The S&amp;P 500 is in a correction. Bear markets and recessions don't always follow](<https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html>) · CNBC · Nov 27, 2026
 
 ### Gaming
 
