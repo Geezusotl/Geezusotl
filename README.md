@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 27, 2026 at 21:27 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 28, 2026 at 08:03 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
