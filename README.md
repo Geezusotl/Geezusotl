@@ -28,7 +28,7 @@
 ## What I’m following
 
 <!-- NEWS:START -->
-<sub>Checked Nov 28, 2026 at 08:03 UTC. Refreshes approximately every six hours.</sub>
+<sub>Checked Nov 28, 2026 at 20:18 UTC. Refreshes approximately every six hours.</sub>
 
 ### Technology
 
@@ -37,8 +37,8 @@
 
 ### AI
 
-* [Nvidia hits pause on chip shipments to Southeast Asia](<https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/>) · TechCrunch · Nov 26, 2026
-* [S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks](<https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/>) · TechCrunch · Nov 25, 2026
+* [OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’](<https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/>) · TechCrunch · Nov 28, 2026
+* [Sakana AI’s CEO says its homegrown models are about more than Japan’s national security](<https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/>) · TechCrunch · Nov 28, 2026
 * [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>) · OpenAI · Nov 24, 2026
 
 ### Business and markets
@@ -48,10 +48,8 @@
 
 ### Gaming
 
-* [All Missing Persons locations in GTA 6](<https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/>) · PC Gamer · Nov 26, 2026
-* [The latest adult game in the Muv-Luv series has some woeful AI translation and players aren't happy about it](<https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/>) · PC Gamer · Nov 26, 2026
-
-<sub>Source unavailable at the latest check. Showing headlines saved Nov 26 at 08:36 UTC.</sub>
+* [Here's every handheld gaming PC deal we could find this Cyber Monday: MSI, Asus and Lenovo lining up to be your next device](<https://www.pcgamer.com/hardware/handheld-gaming-pcs/heres-every-handheld-gaming-pc-deal-we-could-find-this-black-friday-msi-asus-and-lenovo-lining-up-to-be-your-next-device/>) · PC Gamer · Nov 28, 2026
+* [Top gift ideas for a cutesy gamer in your life: Cat ear gaming headsets on sale for Cyber Monday](<https://www.pcgamer.com/hardware/gaming-headsets/cutesy-gamers-rise-up-there-are-some-seriously-great-black-friday-deals-on-razer-cat-ear-gaming-headsets/>) · PC Gamer · Nov 28, 2026
 <!-- NEWS:END -->
 
 ## A little perspective

@@ -3,16 +3,16 @@
     "AI": {
       "items": [
         {
-          "published": "2026-11-26T20:03:54+00:00",
+          "published": "2026-11-28T17:46:47+00:00",
           "source": "TechCrunch",
-          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+          "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+          "url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/"
         },
         {
-          "published": "2026-11-25T22:44:32+00:00",
+          "published": "2026-11-28T14:00:00+00:00",
           "source": "TechCrunch",
-          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+          "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+          "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/"
         },
         {
           "published": "2026-11-24T13:00:00+00:00",
@@ -21,7 +21,7 @@
           "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
         }
       ],
-      "lastSuccess": "2026-11-28T08:03:28.057923+00:00",
+      "lastSuccess": "2026-11-28T20:18:42.108759+00:00",
       "unavailable": false
     },
     "Business and markets": {
@@ -39,26 +39,26 @@
           "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
         }
       ],
-      "lastSuccess": "2026-11-28T08:03:28.057923+00:00",
+      "lastSuccess": "2026-11-28T20:18:42.108759+00:00",
       "unavailable": false
     },
     "Gaming": {
       "items": [
         {
-          "published": "2026-11-26T05:24:13+00:00",
+          "published": "2026-11-28T20:01:33+00:00",
           "source": "PC Gamer",
-          "title": "All Missing Persons locations in GTA 6",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/"
+          "title": "Here's every handheld gaming PC deal we could find this Cyber Monday: MSI, Asus and Lenovo lining up to be your next device",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/heres-every-handheld-gaming-pc-deal-we-could-find-this-black-friday-msi-asus-and-lenovo-lining-up-to-be-your-next-device/"
         },
         {
-          "published": "2026-11-26T05:03:03+00:00",
+          "published": "2026-11-28T19:53:27+00:00",
           "source": "PC Gamer",
-          "title": "The latest adult game in the Muv-Luv series has some woeful AI translation and players aren't happy about it",
-          "url": "https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/"
+          "title": "Top gift ideas for a cutesy gamer in your life: Cat ear gaming headsets on sale for Cyber Monday",
+          "url": "https://www.pcgamer.com/hardware/gaming-headsets/cutesy-gamers-rise-up-there-are-some-seriously-great-black-friday-deals-on-razer-cat-ear-gaming-headsets/"
         }
       ],
-      "lastSuccess": "2026-11-26T08:36:15.009943+00:00",
-      "unavailable": true
+      "lastSuccess": "2026-11-28T20:18:42.108759+00:00",
+      "unavailable": false
     },
     "Technology": {
       "items": [
@@ -75,9 +75,9 @@
           "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
         }
       ],
-      "lastSuccess": "2026-11-28T08:03:28.057923+00:00",
+      "lastSuccess": "2026-11-28T20:18:42.108759+00:00",
       "unavailable": false
     }
   },
-  "lastChecked": "2026-11-28T08:03:28.057923+00:00"
+  "lastChecked": "2026-11-28T20:18:42.108759+00:00"
 }
